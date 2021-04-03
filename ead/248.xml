@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/48341">UA182</eadid><filedesc><titlestmt><titleproper>Web Central Records<num>UA182</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-03 09:54:47 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Web Central Records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Web Central</corpname>
+    </origination>
+    <unitid>UA182</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.2 Linear Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate certainty="approximate" normal="2000/2006" type="inclusive">2000 -- 2006</unitdate>
+    <abstract id="aspace_d0c80cbb228efd9a1f2fbf7be09006ab">This collection contains records created by Web Central, including audiocassettes, CD-ROMs, floppy disks, and VHS tapes.</abstract>
+    <langmaterial id="aspace_9646ca09aef953e26c1adc5f60e99762">English</langmaterial>
+  </did>
+  <arrangement id="aspace_6f79d2ff1051ecaa3a6da66f93b50cff">
+    <head>Arrangement</head>
+<p>This collection is organized into one series: Unprocessed accessions.</p>  </arrangement>
+  <scopecontent id="aspace_9a7aec4540d4edc716303e3b641cf3ac">
+    <head>Scope and Contents</head>
+<p>This collection contains records created by Web Central, including audiocassettes, CD-ROMs, floppy disks, and VHS tapes. Significant topics in this collection include the Institute for Global Leadership as well as the New England Medical Center's Educational Symposium Series.</p>  </scopecontent>
+  <processinfo id="aspace_8cfcf21fbe553ea6ea491c3c7b8a03ee">
+    <head>Processing status</head>
+<p>This collection is unprocessed.</p>  </processinfo>
+  <accessrestrict id="aspace_af44f39f28c61b0b29d1c3aec2cd34eb">
+    <head>Conditions Governing Access</head>
+<p>University records are closed for 20 years from the date of their creation. Records older than 20 years that do not pertain to student education, staff and faculty employment and Board of Trustees records are open for research. This collection may require review before it is available for use. Please contact DCA for further details.</p>  </accessrestrict>
+  <userestrict id="aspace_a0655f2d4816e50a1ee2c04a49c261fc">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Copyright to all materials created by Tufts University employees in the course of their work is held by the Trustees of Tufts University.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Information Systems</subject>
+    <subject source="local">Curriculum and Instruction -- Teaching Material</subject>
+  </controlaccess>
+  <dsc><c id="aspace_1534ab56a9ec770339bb062bb8ecba52" level="series"><did><unittitle>Additional accessions</unittitle><unitid>UA182.000001</unitid></did><c id="aspace_86fb5beb3ca2d6418c092e80f8dc3ed0" level="file"><did><unittitle>Audiotapes, CDs, VHS tapes used to produce 150th anniversary website</unittitle><unitid>UA182-001</unitid><unitdate normal="2002/2002">2002</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_fc425432f009b9ab9b84d01c7578b3e8" label="Mixed Materials [39090015753482g]" type="box">data_value_missing_168a1eeea45b93b5abf62e8cad21a8ee</container><container id="aspace_7052b8ba4f83d577b419eba62a8a1e16" label="Mixed Materials [39090017918802]" type="box">1</container></did><accessrestrict id="aspace_764d92b85cad8eda732a3d406ac1c6af"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>

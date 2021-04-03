@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/48269">UA102</eadid><filedesc><titlestmt><titleproper>Department of Computer Science Records<num>UA102</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-03 09:53:20 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Department of Computer Science Records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Department of Computer Science</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">School of Engineering</corpname>
+    </origination>
+    <unitid>UA102</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate certainty="approximate" normal="1990/2000" type="inclusive">circa 1990 -- 2000</unitdate>
+    <abstract id="aspace_6a9643c0ee246a6fcb88947047a42efe">This collection includes one poster and one pamphlet from the Tufts University Department of Computer Science.</abstract>
+    <langmaterial id="aspace_59b3142bb61f5ae5bd9cdd35c02f6f49">English</langmaterial>
+  </did>
+  <arrangement id="aspace_52fc719ea1b85a54e3bfc8889de5ffaa">
+    <head>Arrangement</head>
+<p>This collection is organized into one series: Publications.</p>  </arrangement>
+  <processinfo id="aspace_3c399e42d736301e16bd0dfc608dd6e8">
+    <head>Processing status</head>
+<p>This collection is processed.</p>  </processinfo>
+  <scopecontent id="aspace_045e261f45d488b771236b9def4c04da">
+    <head>Scope and Contents</head>
+<p>This collection contains one poster and one pamphlet from the Department of Computer Science. The materials advertise the Department's graduate program.</p>  </scopecontent>
+  <accessrestrict id="aspace_d67231273ed7475f5fb156f5d6b76b85">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <userestrict id="aspace_87a832199be8da1e628a20b0223f8781">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Copyright to all materials created by Tufts University employees in the course of their work is held by the Trustees of Tufts University.</p>  </userestrict>
+  <processinfo id="aspace_7d2cd17e0cdb8c27364967632b2f7752">
+    <head>Processing Information</head>
+<p>Steven Gentry, Archives and Reference Assistant, processed this collection at the folder-level in December, 2017 under the direction of Adrienne Pruitt, Collections Management Archivist.</p>  </processinfo>
+  <prefercite id="aspace_3f2bc37f8d08c1251c94ce7d8166a086">
+    <head>Preferred Citation</head>
+<p>Department of Computer Science Records, 1990-2000. Tufts University. Digital Collections and Archives. Medford, MA.</p>  </prefercite>
+  <controlaccess>
+    <subject source="local">Curriculum and Instruction -- Academic Departments and Programs</subject>
+  </controlaccess>
+  <dsc><c id="aspace_3c6a660c4eb2ab84a1d0165b617a947d" level="series"><did><unittitle>Publications</unittitle><unitid>UA102.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent><extent altrender="carrier">1 box</extent></physdesc><unitdate certainty="approximate" type="inclusive">circa 1990 -- 2000</unitdate></did><accessrestrict id="aspace_59058c9dd1e0d7b0130e08cdd11e8a9e"><head>Conditions Governing Access</head><p>This series is open for research.</p></accessrestrict><c id="aspace_1b7a45f7fde94cfa6ce647e7aa4dae9a" level="file"><did><unittitle>Poster and pamphlet</unittitle><unitid>UA102.001.001.00001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Folder(s)</extent></physdesc><unitdate certainty="approximate" normal="1990/2000" type="inclusive">1990 -- 2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2e0f3912590524977771cd25444c2784" label="Text [39090015753292g]" type="box">data_value_missing_5fbeda5a69549f1741746b4855cb15c9</container><container id="aspace_d4be139081af8c701a22511043154fb3" label="Mixed Materials [39090017907391]" type="box">1</container></did><accessrestrict id="aspace_649f85503aded329dfe1356223f77446"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>
