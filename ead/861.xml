@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/3N204B49T">UP274</eadid><filedesc><titlestmt><titleproper>Future Histories<num>UP274</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-03 10:15:36 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Future Histories</unittitle>
+    <unitid>UP274</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">4 issues</extent>
+    </physdesc>
+    <unitdate normal="2018/2019" type="inclusive">2018 -- 2019</unitdate>
+    <abstract id="aspace_bea38a9ca9bcde5a319d3c63beacc7fa">This collection contains issues of Future Histories, a literary magazine published by Tufts students.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_1e3dcce6a0cb9824c3764dacda7d00d1">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <arrangement id="aspace_5bec3c4612c7e7140a3c66548fc72f00">
+    <head>Arrangement</head>
+<p>This collection is arranged chronologically in one series.</p>  </arrangement>
+  <prefercite id="aspace_b1c9123a8935feb701ae6926911ef61f">
+    <head>Preferred Citation</head>
+<p>Future Histories, 2018 -- 2019. Tufts University. Digital Collections and Archives. Medford, MA.</p>  </prefercite>
+  <scopecontent id="aspace_3df173e46c8a75d9d69f4ea57ee43b47">
+    <head>Scope and Contents</head>
+<p>This collection contains issues of Future Histories, a literary magazine published by Tufts students.</p>  </scopecontent>
+  <userestrict id="aspace_74d1cebe6651dee5d33a742e4ba57737">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish.</p>  </userestrict>
+  <bioghist id="aspace_4a08d92cc5c5f797cb9ad555b7e2f42a">
+    <head>Biographical / Historical</head>
+<p>Future Histories is a student-run literary magazine at Tufts University. It began publication in Fall 2018 and is published semi-annually. Future Histories publishes Tufts students' creative writing, studio art, and photography, with an emphasis on featuring diverse work from marginalized voices. </p>
+<p>
+Future Histories was founded by Tufts juniors Sarah Walsh and Hunter Silvestri, partially in response to the lack of literary publication on campus after the Cannon Literary Journal ceased publication in Fall 2016. The founders made efforts to reach out to cultural clubs on campus and encourage students from diverse backgrounds to submit their work, including in languages other than English. The publication also supports larger and more experimental student work in separate side issues.
+</p>
+  </bioghist>
+  <dsc><c id="aspace_382b342abcd1954c23e25ba6691214b1" level="series"><did><unittitle>Future Histories</unittitle><unitid>UP274.000001</unitid><unitdate normal="2018/2019" type="inclusive">2018 -- 2019</unitdate></did><accessrestrict id="aspace_4ac9642755364371d1229fcbb930a9c1"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><arrangement id="aspace_f7ef7883053f266208d4bb805fbae8f5"><head>Arrangement</head><p>This series is arranged chronologically.</p></arrangement><c id="aspace_fc699e23755c8c51c16bb1c4e3e1dd31" level="item"><did><unittitle>Future Histories</unittitle><unitid>UP274.000002</unitid><unitdate normal="2018/2018">Spring 2018</unitdate><container altrender="Half letter size document box" id="aspace_6ebae7f542e8cab13d8b7fcce6ab01ca" label="Books [39090017903085]" type="box">1</container><container id="aspace_2a1da9fc2d6868f4d172635a1c3caa2b" parent="aspace_6ebae7f542e8cab13d8b7fcce6ab01ca" type="folder">1</container></did><accessrestrict id="aspace_54a896476c314dc3e2921ed7554a01c5"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><odd id="aspace_18bf7681c02c8bdef0034dae953eb169"><head>Issue</head><p>1</p></odd></c><c id="aspace_129816f964e07cc43f2abfc079714e9e" level="item"><did><unittitle>Future Histories</unittitle><unitid>UP274.000003</unitid><unitdate normal="2018/2018">Fall 2018</unitdate><container altrender="Half letter size document box" id="aspace_a99646cd5612245a3345ac6f372cc796" label="Books [39090017903085]" type="box">1</container><container id="aspace_77cadd2ce034d205ccd84bbe4eb0e37d" parent="aspace_a99646cd5612245a3345ac6f372cc796" type="folder">2</container></did><accessrestrict id="aspace_1e48f841df1dd7eb3016a5448d268bc9"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><odd id="aspace_e552670bf7d76f6ba4046bfd4ac3db68"><head>Issue</head><p>e 2</p></odd></c><c id="aspace_b0ebb3db24fc89130229a7df4944df02" level="item"><did><unittitle>Future Histories</unittitle><unitid>UP274.000004</unitid><unitdate normal="2019/2019">Spring 2019</unitdate><container altrender="Half letter size document box" id="aspace_57500ccbc1160097173b46e097c01d90" label="Books [39090017903085]" type="box">1</container><container id="aspace_9b091fba582c55d9346e4352ba64d2aa" parent="aspace_57500ccbc1160097173b46e097c01d90" type="folder">3</container></did><accessrestrict id="aspace_a432fcfb1a629b2304390f0d4dfc6e8c"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><odd id="aspace_686af099ad904341da0e36c287562f6b"><head>Issue</head><p>3</p></odd></c><c id="aspace_34c3f2361cfc074af2229c336e49c3ee" level="item"><did><unittitle>Future Histories</unittitle><unitid>UP274.000005</unitid><unitdate normal="2019/2019">Fall 2019</unitdate><container altrender="Half letter size document box" id="aspace_b2d6d888574f72724f785984b0498bab" label="Books [39090017903085]" type="box">1</container><container id="aspace_c052f050ffd53aab2703a21884ce561d" parent="aspace_b2d6d888574f72724f785984b0498bab" type="folder">4</container></did><accessrestrict id="aspace_61475cc083e8e5bf84bca52feca20269"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><odd id="aspace_ee97692207bd7a41bf62f96658e9595e"><head>Issue</head><p>4</p></odd></c></c></dsc>
+</archdesc>
+</ead>
