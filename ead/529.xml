@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/003535">MS200</eadid><filedesc><titlestmt><titleproper>Abraham Berliner Collection of Dental Instruments<num>MS200</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-03 10:07:59 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Abraham Berliner Collection of Dental Instruments</unittitle>
+    <origination label="Creator">
+      <corpname source="local">School of Dental Medicine</corpname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Berliner, Abraham</persname>
+    </origination>
+    <unitid>MS200</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.2 Linear Feet</extent>
+    </physdesc>
+    <unitdate normal="1936/2012" type="inclusive">1936 -- 2012</unitdate>
+    <langmaterial id="aspace_9326364009ecc0c5456468d270578e8a">English</langmaterial>
+  </did>
+  <arrangement id="aspace_fb30a98765a0062a79099b640ff19cd1">
+    <head>Arrangement</head>
+<p>This collection is organized into two series: Biographical information; Dental instruments.</p>  </arrangement>
+  <custodhist id="aspace_9bb72b9985efd8fcd43488227c9b57ac">
+    <head>Custodial History</head>
+<p>Biographical information was pulled from the DCA's Vertical Files on 2012-11-14. Periodontal equipment donated by Dr. Stephen Sheppard.</p>  </custodhist>
+  <scopecontent id="aspace_0fb1a437977e7e2b4610a455fe0ca527">
+    <head>Scope and Contents</head>
+<p>This collection consists of periodontal instruments developed by Dr. Abraham Berliner, circa 1958, as well as some biographical information about him.</p>  </scopecontent>
+  <bioghist id="aspace_25427454c7ec326423f2984c1b46462e">
+    <head>Biographical / Historical</head>
+<p>Abraham Berliner was born in Gloversville, New York and attended Long Island University in Brooklyn. He graduated from the Tufts School of Dental Medical in 1936.</p>
+<p>During World War II, Berliner served as a dental surgeon in the Army, achieving the rank of captain. Following the war, he returned to New York where he headed the periodontia department at Jewish Memorial Hospital. He was the author of three textbooks and of numerous articles for professional journals. He specialized in new techniques and instruments for use in diseases of the supporting structures of the teeth.At he time of his death, Berliner was chairman of the department of periodontology and dental pathology at Sydenham Hospital.</p>
+<p>Berliner died on June 30, 1966 at the Veterans Administration Hospital in Manhattan, New York.</p>  </bioghist>
+  <processinfo id="aspace_cac650bfa4d224304b568562997e2ef2">
+    <head>Processing status</head>
+<p>This collection is processed and open for research.</p>  </processinfo>
+  <accessrestrict id="aspace_5073edbb4b621aeefc23a868fefa14fe">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <userestrict id="aspace_5c7611ca032e2defdbaeeae75f9772e5">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproduction and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Any intellectual property rights that the donor possesses have not been transferred to Tufts University.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Alumni collections</subject>
+    <subject source="local">Dentistry</subject>
+    <subject source="local">Dental history</subject>
+  </controlaccess>
+  <dsc><c id="aspace_9cbb7913069e235db3ebaa5e02b3fccb" level="series"><did><unittitle>Biographical information</unittitle><unitid>MS200.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.2 Linear Feet</extent></physdesc><unitdate normal="1936/2012" type="inclusive">1936 -- 2012</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_d38013cb086c5f9c7a04ca43d21020cd"><head>Scope and Contents</head><p>This series contains biographical information about Abraham Berliner.</p></scopecontent><arrangement id="aspace_ceb05329487538c6041c3167dec70847"><head>Arrangement</head><p>This series is arranged chronologically.</p></arrangement><accessrestrict id="aspace_f8dbd4c580d48796e9ebb9ab67d0c07a"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_a4821cebd33f246446fe779b4e43e727" level="file"><did><unittitle>Vertical file</unittitle><unitid>MS200.001.001.00001</unitid><unitdate normal="1936/1966" type="inclusive">1936 -- 1966</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton front-facing" id="aspace_96feda77482dd3994f2e34ca3bc5dc66" label="Mixed Materials [39090016515716]" type="box">MS200 Shared 1</container></did><accessrestrict id="aspace_ce7bb7fae14633cc71a1f823ebcd2377"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_d0e6bef4097ef38f54ce86d4bf4bcd68" level="file"><did><unittitle>Donor letter (copy)</unittitle><unitid>MS200.001.001.00002</unitid><unitdate normal="2012/2012" type="inclusive">2012</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton front-facing" id="aspace_806d63e12cc965f7df4f33e4276d7783" label="Mixed Materials [39090016515716]" type="box">MS200 Shared 1</container></did><accessrestrict id="aspace_c623094fcfed039910cf6c2411c71da2"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_5b3ec44c850fe6c8c3c09558dc90ae4c"><head>Scope and Contents</head><p>Copy of letter from donor Dr. Stephen Sheppard detailing the historical significance of Dr. Berliner's dental instruments. Also included is a copy of a patent for one instrument, 1958.</p></scopecontent></c></c><c id="aspace_0db2b06485153682a4b9f8fd022d348f" level="series"><did><unittitle>Dental instruments</unittitle><unitid>MS200.002</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.2 Linear Feet</extent></physdesc><unitdate normal="1958/1958" type="inclusive">1958</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_827c35c9423fd35dce23fa5a95187dc0"><head>Scope and Contents</head><p>This series contains dental instruments developed by Abraham Berliner.</p></scopecontent><arrangement id="aspace_ce789635148a2c76098adcac07d88082"><head>Arrangement</head><p>This series is arranged as received.</p></arrangement><accessrestrict id="aspace_aaa92d126b525cc5b1aec0e797cf23fc"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_bb4d6a121d02967dde9b8c50514b24e7" level="file"><did><unittitle>Dental instruments</unittitle><unitid>MS200.002.001.00003</unitid><unitdate normal="1958/1958">1958</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Record carton front-facing" id="aspace_efccb235f0955080ecc37bf46ae3112f" label="Mixed Materials [39090016515716]" type="box">MS200 Shared 1</container></did><accessrestrict id="aspace_b1c0c3a7b6f7e9b34728c5467e654f8d"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>

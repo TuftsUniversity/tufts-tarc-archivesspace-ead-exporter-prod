@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/003578">MS174</eadid><filedesc><titlestmt><titleproper>Wild Bird Pathology Database<num>MS174</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-03 10:05:15 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Wild Bird Pathology Database</unittitle>
+    <origination label="Creator">
+      <persname source="local">Pokras, Mark</persname>
+    </origination>
+    <unitid>MS174</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">1 half letter size box 
+</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent>
+    </physdesc>
+    <unitdate normal="2011/2011" type="inclusive">2011</unitdate>
+    <langmaterial id="aspace_1579a8f7b088de3e486a473ffce1defd">English.</langmaterial>
+  </did>
+  <accessrestrict id="aspace_e184763f37a87fc39bd29fdcc69702d7">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <arrangement id="aspace_6f68be002539cb3ce8f2d523740f47e1">
+    <head>Arrangement</head>
+<p>This collection is not processed.</p>  </arrangement>
+  <bioghist id="aspace_12253d1627091f54ae53fbb3c71ec49b">
+    <head>Biographical / Historical</head>
+<p>Mark Pokras (c. 1950- ) is Assistant Professor at the Cummings School of Medicine, Tufts University, where he specializes in functional and surgical anatomy of birds and reptiles, environmental pathology, and wildlife health. Pokras received his BS from Cornell in 1971 and his DVM from Tufts in 1984.</p>  </bioghist>
+  <processinfo id="aspace_f88c77188ea0536cb64d6aa48b11a418">
+    <head>Processing status</head>
+<p>This collection is minimally processed.</p>  </processinfo>
+  <scopecontent id="aspace_68adb6979c3204ff71b34915a3ef6550">
+    <head>Scope and Contents</head>
+<p>This collection, donated by Mark Pokras, contains digital and paper records dating related to the Wild Bird Pathology Database from 2006 to 2011. The digital files include spreadsheets, images from the Mark Pokras dead bird collection, a database, application code, an XML website, and the data dictionary.  The paper records consists of another copy of the data dictionary, dated 2011, which brings together the appendices of the database, and includes lists of bird classification web resources, descriptions of the relational database, and definitions of database elements and attributes.</p>  </scopecontent>
+  <userestrict id="aspace_4b3f9d4694480c5336736fe226ce4f6f">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. No documentation is available regarding the intellectual property rights in this collection.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Faculty research</subject>
+    <subject source="local">Birds</subject>
+    <subject authfilenumber="sh85095726" source="lcsh">Ornithology</subject>
+    <subject authfilenumber="sh85098685" source="lcsh">Pathology -- Databases</subject>
+  </controlaccess>
+  <dsc><c id="aspace_3b911b2a01aff769eaec4170e0e94dae" level="series"><did><unittitle>Wild Bird Pathology Database</unittitle><unitid>MS174.000002</unitid></did><c id="aspace_22feba9f6e9b3f35bfaded086750016f" level="file"><did><unittitle>Data Dictionary</unittitle><unitid>MS174.002.GB</unitid><unitdate normal="2011/2011">2011</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_751a3c29e220920887dd459383375a6a" label="Mixed Materials [39090015755412g]" type="box">1</container><container id="aspace_1161677f086c3c04032f2e0e76894c4a" label="Mixed Materials [39090017917002]" type="box">1</container><container id="aspace_f58d382c1996b7c344f70c8bec5b5edb" label="Mixed Materials [39090017917010]" type="box">2</container></did><accessrestrict id="aspace_6dc14babe244c6a8e8f54e5961fa866f"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_794530ff342dd3eae90b06605185982c" level="file"><did><unittitle>Images and supporting documentation</unittitle><unitid>MS174.001.GB</unitid><unitdate normal="2011/2011">2011</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><accessrestrict id="aspace_35c4cc2f09a0388ba54de6b56b8189e3"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>
