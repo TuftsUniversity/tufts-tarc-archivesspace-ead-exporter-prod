@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/48286">UA119</eadid><filedesc><titlestmt><titleproper>Human Resources Division Records<num>UA119</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 18:17:31 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Human Resources Division Records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Human Resources</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Department of Personnel</corpname>
+    </origination>
+    <unitid>UA119</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">0.63 Linear Feet</extent>
+      <extent altrender="carrier">2 boxes</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">5 Digital Object(s)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">458 Megabytes</extent>
+    </physdesc>
+    <unitdate normal="1994/2008" type="bulk">1994 -- 2008</unitdate>
+    <unitdate normal="1972/2019" type="inclusive">1972 -- 2019</unitdate>
+    <langmaterial id="aspace_1a65c84b005218ab354e6b2cbc48e9fc">English</langmaterial>
+  </did>
+  <arrangement id="aspace_ffba425492a6854988f24fb0c07a7f27">
+    <head>Arrangement</head>
+<p>This collection has one series: Unprocessed accession.</p>  </arrangement>
+  <relatedmaterial id="aspace_a77030cc0aab6680fe88cbafeb24631d">
+    <head>Related Materials</head>
+<p>UA058 General Administration records</p>  </relatedmaterial>
+  <bioghist id="aspace_178794308ad24b73aa68799ce93d08fc">
+    <head>Biographical / Historical</head>
+<p>Department of Personnel: Started in 1966. First director was Viola Saltmarsh, former Director of Placement. Personnel functions prior to this department were under the purview of the Director of Placement and the Placement Office which was looks like a predecessor of Student Services/Career Counseling.  The Department of Personnel changed its name to the Department of Human Resources in 1988 (or Human Resources Division per the Annual Report of the President to the Trustees, November 4, 1988)</p>  </bioghist>
+  <processinfo id="aspace_06d7d27a4ad8afda05976bf98e9a50cf">
+    <head>Processing status</head>
+<p>This collection is minimally processed.</p>  </processinfo>
+  <scopecontent id="aspace_9a1998f63c9b271bab3e69b94a416374">
+    <head>Scope and Contents</head>
+<p>This collection contains material related to Human Resources and its Employee Recognition program, including publications, correspondence, and photographs.</p>  </scopecontent>
+  <accessrestrict id="aspace_d29fbc83ac3e34005f268714f642ec7d">
+    <head>Conditions Governing Access</head>
+<p>University records are closed for 20 years from the date of their creation. Records older than 20 years that do not pertain to student education, staff and faculty employment and Board of Trustees records are open for research. This collection may require review before it is available for use. Please contact DCA for further details.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="local">Employment and Human Resources</subject>
+  </controlaccess>
+  <dsc><c id="aspace_3cfa499a78bb5740dd247adf3e043ae5" level="series"><did><unittitle>Additional accessions</unittitle><unitid>UA119.001</unitid><unitdate normal="1972/2019" type="inclusive">1972 -- 2019</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_c2234dcbf7bbe16c510d68966737985a" level="file"><did><unittitle>Employee Recognition Programs, training, personnel handbooks </unittitle><unitid>UA119-001</unitid><unitdate normal="1972/2013" type="inclusive">1972 -- 2013</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d09b35f847300ab56daf3ced49f3fca6" label="Mixed Materials [39090017917465]" type="box">1</container></did><accessrestrict id="aspace_57d4eb9f1e2ee789c1142ab7a6272205"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_8c05f4ad38d92c018a8f9b2b415a8a95" level="file"><did><unittitle>Periscope Pictures and Training Guide; Distinction Awards DVDs </unittitle><unitid>UA119-003</unitid><unitdate normal="1991/2008" type="inclusive">1991 -- 2008</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_8de39e8a79b0152f68938352e26d1141" label="Mixed Materials [39090017917473]" type="box">2</container></did><accessrestrict id="aspace_f76094f7ccd3ee77655281fb7892b25f"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_4bc146bc5a6dc4b839060b737e20361f" level="file"><did><unittitle>One Tufts Fundraising Pamphlets</unittitle><unitid>UA119-007</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Folder(s)</extent></physdesc><unitdate normal="2018/2018">2018</unitdate><container id="aspace_78f4a892c948c63d304d46553fc0c779" label="Mixed Materials [39090017917473]" type="box">2</container></did><accessrestrict id="aspace_c9fe61bb2c2a1985dc5c13070402dab7"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_8de1a97d6cdeb3060d686e7d0cdd0bca" level="file"><did><unittitle>One Tufts Fundraising Pamphlets</unittitle><unitid>UA119-008</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Folder(s)</extent></physdesc><unitdate normal="2019/2019">2019</unitdate><container id="aspace_e12a144478fd7b8078474a1ca7e0af7e" label="Mixed Materials [39090017917473]" type="box">2</container></did><accessrestrict id="aspace_7f1315d70897a8cc9dc9e161218158ab"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_8bc58c42c9350200ecbc077923ede6d7" level="item"><did><unittitle>Distinction Awards Ceremony</unittitle><unitid>UA119.000011</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent></physdesc><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">457.96 Megabytes</extent></physdesc><unitdate normal="2008-06-03/2008-06-03">2008-June-03</unitdate></did><accessrestrict id="aspace_1277a0205e665223402c35a176321c7a"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_77f51f6ba899d3537f3052f55f03925c" level="item"><did><unittitle>Employee Handbook</unittitle><unitid>UA119.000013</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent></physdesc><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">342 Kilobytes</extent></physdesc><unitdate normal="2008/2008">2008</unitdate></did><accessrestrict id="aspace_eed323d279d3ca3a8fbcb4aec921358b"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_ddd00bcdaf0dcb6193c6fdab6fc8ff4d" level="item"><did><unittitle>Employee Handbook</unittitle><unitid>UA119.000014</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent></physdesc><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">434 Kilobytes</extent></physdesc><unitdate normal="2010/2010">2010</unitdate></did><accessrestrict id="aspace_25f79425d547d2567e6de825bf0f9a13"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_5dad82c36b9fc8157fe918d13edf03c9" level="item"><did><unittitle>Human Resources Review</unittitle><unitid>UA119.000012</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent></physdesc><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">155 Kilobytes</extent></physdesc><unitdate normal="2008/2008">2008</unitdate></did><accessrestrict id="aspace_5865c2b4db9789bcec516508cfd9d1a4"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_b33e0f074175bb56fbdff266b91878ec" level="item"><did><unittitle>Human Resources Review</unittitle><unitid>UA119.000015</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent></physdesc><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">114 Kilobytes</extent></physdesc><unitdate normal="2009/2009">2009</unitdate></did><accessrestrict id="aspace_e6f497b083df39dc21592ece2165592e"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>
