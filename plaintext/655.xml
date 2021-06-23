@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/55750">MS151</eadid><filedesc><titlestmt><titleproper>Kenneth D. Roeder Papers<num>MS151</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 19:25:41 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Kenneth D. Roeder Papers</unittitle>
+    <origination label="Creator">
+      <persname source="local">Roeder, Kenneth David </persname>
+    </origination>
+    <unitid>MS151</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">4.6 Linear Feet</extent>
+      <extent altrender="carrier">3 record cartons, 2 letter size document boxes
+</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">4 Digital Object(s)</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">2.4 Megabytes</extent>
+    </physdesc>
+    <unitdate normal="1957/1983" type="inclusive">1957 -- 1983</unitdate>
+    <langmaterial id="aspace_8f8bbf52296c718e0cf6f1ac20bddc67">English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_0b9326589578c059b823368ed9139e4b">
+    <head>Conditions Governing Access</head>
+<p>This collection may require review before it is available for use. Please contact DCA for further details.</p>  </accessrestrict>
+  <arrangement id="aspace_cbf5d5abfa85435b5114c9bc5a37b329">
+    <head>Arrangement</head>
+<p>This collection is not processed.</p>  </arrangement>
+  <bioghist id="aspace_e0c323b1c8f7e63b38445dbd72bb5274">
+    <head>Biographical / Historical</head>
+<p>Kenneth David Roeder (1908-1979) was a professor of biology at Tufts University from 1931 to 1976.</p>
+
+<p>Roeder was born March 8, 1908 in Richmond, England. He received a bachelor's degree in 1929 and a master's degree in 1933, both from St. John's College, Cambridge University. After a brief teaching assistantship at the University of Toronto, Roeder came to Tufts in 1931. He became  professor of physiology, and he chaired the Biology Department from 1959-1964 Roeder received a National Institutes of Health Career Award from 1964-1975. He became a professor emeritus in 1976.  </p>
+
+<p>Roeder's work focused on insect physiology and animal behavior. He served on the presidential commission investigating the use of DDT. His awards include an honorary degree from Tufts University, election to the  American Academy of Sciences (1946), and election to the National Academy of Sciences (1964). He was an honorary fellow of the Royal Entomological Society and a member of the Deutsche Akademie der Naturforscher Leopoldina.</p>
+
+<p>In 1931, Roeder married Sonja von Cancrin.  They had two children, Peter and Stephanie. He died on September 28, 1979.</p>  </bioghist>
+  <custodhist id="aspace_02400c953eb6f8ef7647ee6c31305fcc">
+    <head>Custodial History</head>
+<p>Received by DCA from Francie Chew, Professor of Biology. Three folders from the Vertical Files were added to 39090014018424g on 1/20/09.</p>  </custodhist>
+  <processinfo id="aspace_de8c2535b2445305e87f03fdd86ccb4b">
+    <head>Processing status</head>
+<p>This collection is minimally processed and may not be available for research.</p>  </processinfo>
+  <scopecontent id="aspace_e75b79e6626002cf2e79965d0b4d3488">
+    <head>Scope and Contents</head>
+<p>This collection contains approximately 30 magnetic tapes, the contents of which are unknown, but they are likely data tapes created during Roeder's research; reports; photographs; biographical and adminsitrative material about Roeder.</p>  </scopecontent>
+  <userestrict id="aspace_a9c718cc2f273cf09d4ec42c4d2f775e">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. </p><p>No documentation is available regarding the intellectual property rights in this collection.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Faculty papers</subject>
+    <subject source="local">Biology</subject>
+  </controlaccess>
+  <dsc><c id="aspace_82c2c423e76d34dfbc95954f2b3d1392" level="series"><did><unittitle>Digital photographs</unittitle><unitid>MS151.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">4 Digital Object(s)</extent></physdesc><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2.4 Megabytes</extent></physdesc><unitdate certainty="approximate" normal="1960/1969" type="inclusive">circa 1960 -- 1969</unitdate></did><accessrestrict id="aspace_bfd7d56b98d3d75f0cdd6fde8fcb3d82"><head>Conditions Governing Access</head><p>This series is open for research.</p></accessrestrict><scopecontent id="aspace_4216e9105fdd8afb83980b890e14633c"><head>Scope and Contents</head><p>This series contains four digitial photographs that were digitized by the Biology Department. Three of them depict a bat and moth in flight. The fourth photograph is of Ken Roeder and Chester C. Roys.</p></scopecontent><arrangement id="aspace_e9e8cca9a50b4b8ab1eef0fabc588632"><head>Arrangement</head><p>This series was minimally arranged.</p></arrangement><c id="aspace_f0d23ce3f5d491df58216c52fc02063c" level="file"><did><unittitle>Bat and moth in flight pictures</unittitle><unitid>MS151.001.00001</unitid><unitdate normal="1960/1969" type="inclusive">1960 -- 1969</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><accessrestrict id="aspace_8f78ebdb33df1deece537041ba73e222"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_72f4a5cf65f4e75be86999c3d4fa255a"><head>Scope and Contents</head><p>Dates are approximate. "This is the digital version of  2 catches and a miss; you can see where the moth and the bat are, and that their paths intersect in the first two shots, but the moth escapes in the third shot. These were shot at night in nature, probably in Concord, MA."</p></scopecontent></c><c id="aspace_ee2b4d7bb114ba906f0a6c48c77a5f26" level="file"><did><unittitle>Roeder and Roys photograph</unittitle><unitid>MS151.001.00002</unitid><unitdate normal="1960/1969" type="inclusive">1960 -- 1969</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><accessrestrict id="aspace_3e67fb3073c5bf4053fe6c282d7b25ee"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_bd674a2c3a00a705cb1e9fee1e77d6f5"><head>Scope and Contents</head><p>Dates are approximate. Description from Francie Chew: "This photo  is of Ken Roeder (L, with pipe), in a picture thatis well known; what's less well known is the picture of Chester C. Roys, Instructor emeritus, to the right. My guess is this was taken sometime in the 1960's."</p></scopecontent></c></c><c id="aspace_cdc236544c554ed38054984b9d32a8b6" level="series"><did><unittitle>Additional accessions</unittitle><unitid>MS151.002</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Box(es)</extent><extent altrender="carrier">1 record carton</extent></physdesc><unitdate normal="1957/1983" type="inclusive">1957 -- 1983</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><accessrestrict id="aspace_e86b3628d364432b74c7d96851975303"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_135343bcd77d6ad72121d46ac2a8774a" level="file"><did><unittitle>Magnetic data tapes</unittitle><unitid>MS151.001.GB</unitid><unitdate normal="1957/1976" type="inclusive">1957 -- 1976</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_4ee2c330cb62ff41e5554139765cb99a" label="Mixed Materials [39090017912110]" type="box">1</container></did><accessrestrict id="aspace_59c1cef5eb3d1d244716ae0a23493a99"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_47b14ff0e949ddbb594db42b28164cd6"><head>Scope and Contents</head><p>Electronic media - dates are approximate.</p></scopecontent></c><c id="aspace_5a7c8a7d72536f6a6e7a5985f2ada1db" level="file"><did><unittitle>Research materials and reprints</unittitle><unitid>MS151.002.GB</unitid><unitdate normal="1957/1983" type="inclusive">1957 -- 1983</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e00a2cd60c28fa704da540c313220642" label="Mixed Materials [39090017912128]" type="box">2</container></did><accessrestrict id="aspace_f22811419e2e3a0a6e8936f4a420f70d"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_594af7b3d61a4ad6cf5d6f5172ed5aa9"><head>Scope and Contents</head><p>Dates are approximate. former barcode 39090014018127g</p></scopecontent></c><c id="aspace_c1f8e61f4ef5ea4e944da8653480d652" level="file"><did><unittitle>Bat and moth mounted photographs</unittitle><unitid>MS151.005.GB</unitid><unitdate normal="1960/1969" type="inclusive">1960 -- 1969</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_710fa6fd8b7614694054f44943d77a48" label="Mixed Materials [39090017912136]" type="box">3</container></did><accessrestrict id="aspace_1ad65dbb771dd80971eda6f159e0cf68"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_0776f546374d0d9c8a9beb984f0d8b1c"><head>Scope and Contents</head><p>Dates are approximate. Three folder from the Vertical Files were added for future processing on 1/20/09. former barcode 39090014018424g</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>

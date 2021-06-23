@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/003644">MS193</eadid><filedesc><titlestmt><titleproper>Report Regarding the 14th Massachusetts Infantry<num>MS193</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 19:16:53 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Report Regarding the 14th Massachusetts Infantry</unittitle>
+    <unitid>MS193</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.55 Linear Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1863/1863" type="inclusive">1863</unitdate>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <arrangement id="aspace_f3ba3671d5a3f11d5b4ffa0980bb26ff">
+    <head>Arrangement</head>
+<p>This collection is organized in one series.</p>  </arrangement>
+  <custodhist id="aspace_8f8cd08ed2274a2b386a30750ed0c869">
+    <head>Custodial History</head>
+<p>Item was found in the Ryder Collection of Confederate Archives in 2011; the Ryder collection was cataloged as part of the WPA in 1939/1940 but in later decades the catalog (A Calendar of the Ryder Collection of the Confederate Archives at Tufts College 1940) was forgotten and library staff added other materials to the Ryder collection, usually items from the South, from the 18th and 19th century and around the time of the Civil War. </p>
+
+<p>Because it had not been part of the original Ryder collection, item was removed and a separate, 'artificial' collection was created. </p>
+  </custodhist>
+  <processinfo id="aspace_9d7703abd86b36c7becb34c8efbfb86b">
+    <head>Processing Information</head>
+<p>Processed by Susanne Belovari, spring 2012.</p>  </processinfo>
+  <scopecontent id="aspace_8a4332cc0124f1737ac9bf5d15a1a0dd">
+    <head>Scope and Contents</head>
+<p>This collection consists of one 8-page handwritten report written by Colonel Commanding Brigadier of Artillery William Batchelder Greene on May 2, 1863. In this report to Brigadier General William Farquhar Barry, Greene contradicts Brigadier General James S. Wadsworth's report to the Secretary of War regarding the 14th Regiment of Massachusetts Infantry.</p>  </scopecontent>
+  <processinfo id="aspace_ae729504309292e7da61e77befde74e1">
+    <head>Processing status</head>
+<p>This collection is processed.</p>  </processinfo>
+  <accessrestrict id="aspace_5156d94757236d67a74b21458791ad75">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <userestrict id="aspace_2f74d965813743f6a917938708752c3c">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. No documentation is available regarding the intellectual property rights in this collection.</p>  </userestrict>
+  <controlaccess>
+    <title source="local">Wadsworth, James S. (James Samuel), 1807-1864. </title>
+    <title source="local">William Farquhar Barry</title>
+    <title source="local">William Batchelder Greene </title>
+    <subject source="local">Civil War</subject>
+    <geogname authfilenumber="n 2002081276" source="lcsh">United States. Army. Massachusetts Heavy Artillery Regiment, 1st (1862-1865)</geogname>
+  </controlaccess>
+  <dsc><c id="aspace_49aae852bce6576fd89dc350d3ad0379" level="series"><did><unittitle>Report by William Batchelder Greene</unittitle><unitid>MS193.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent></physdesc><unitdate normal="1863/1863" type="inclusive">1863</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_29a0865e3fd31437bd56df13978f8896"><head>Scope and Contents</head><p>This series includes 8 page handwritten report by William Batchelder Greene (Colonel Commanding Brig. of Artillery) to Brigadier General William Farquhar Barry.</p></scopecontent><arrangement id="aspace_1d2d47612a5ac3a7afd2f4dc95005b87"><head>Arrangement</head><p>This series is not arranged.</p></arrangement><accessrestrict id="aspace_6eb4bc66215497ac5c0a4a3d2ad2a134"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_c65d02b2ba47e869befc4d636c085f03" level="file"><did><unittitle>Report by William Batchelder Greene (Colonel Commanding Brig. of Artillery) to Brigadier General William Farquhar Barry contradicting Brigadier General James S. Wadsworth report  to the Secretary of War (and as included in the records of the Committee on the Conduct of the War) regarding the 14th Massachusetts Infantry</unittitle><unitid>MS193.001.001.00001</unitid><unitdate normal="1863/1863" type="inclusive">1863</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Legal size document box" id="aspace_53ebb56d182ef2fbdad994fef85e404f" label="Mixed Materials [39090011479272]" type="box">Shared 14</container></did><accessrestrict id="aspace_4490f37038ea5be5530befc102b6b3f7"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>
