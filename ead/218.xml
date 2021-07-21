@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/14665">UA138</eadid><filedesc><titlestmt><titleproper>Educational Media Center Records<num>UA138</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-07-09 15:37:59 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Educational Media Center Records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Educational Media Center</corpname>
+    </origination>
+    <unitid>UA138</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1995/1995" type="inclusive">1995</unitdate>
+    <abstract id="aspace_718c5747637a63801c367cc86c54863d">This collection contains a videotape produced by the Educational Media Center.</abstract>
+    <langmaterial id="aspace_64f31efae2fc570f922a4b5e6b953542">English</langmaterial>
+  </did>
+  <arrangement id="aspace_84d5b20dc645f686eb19738feddc2679">
+    <head>Arrangement</head>
+<p>This collection is organized into one series: Audiovisual material</p>  </arrangement>
+  <scopecontent id="aspace_e65b01915c72bc06b833601db047fc78">
+    <head>Scope and Contents</head>
+<p>This collection contains a videotape produced by the Educational Media Center on the career of Sheldon M. Wolff.</p>  </scopecontent>
+  <processinfo id="aspace_12fc00ee56f9e0127c3507d65e2bf0d7">
+    <head>Processing status</head>
+<p>This collection is processed.</p>  </processinfo>
+  <accessrestrict id="aspace_cc751ce6e460ae846ce2410aa692a5d4">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <userestrict id="aspace_fc85b3b7aac45e007b943d751b55f6f9">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Copyright to all materials created by Tufts University employees in the course of their work is held by the Trustees of Tufts University.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Information Systems</subject>
+    <subject source="local">Teaching and learning</subject>
+    <subject source="local">Curriculum and Instruction -- Teaching Material</subject>
+  </controlaccess>
+  <dsc><c id="aspace_e852c6fe4ea555fbb841c0ed2fbda625" level="series"><did><unittitle>Audiovisual material</unittitle><unitid>UA138.000001</unitid></did><c id="aspace_938d5467086c5af09fb4d7cce85d82f6" level="file"><did><unittitle>Videotape: Sheldon M. Wolff: Man of Achievement, Integrity and Courage</unittitle><unitid>UA138-001</unitid><unitdate normal="1995/1995">1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_f21507b5de9ab9dbf3842c36e12d7fe5" label="Mixed Materials [39090017918000]" type="box">1</container></did><accessrestrict id="aspace_8a94eb1fcfc77aeade60eba07500e177"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/48288">UA121</eadid><filedesc><titlestmt><titleproper>Financial Aid Records<num>UA121</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-07-09 15:37:05 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Financial Aid Records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Financial Services, Office of Financial Aid</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Undergraduate Admissions and Financial Aid (AS&amp;E Faculty)</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Undergraduate Education, Student Affairs and Student Services</corpname>
+    </origination>
+    <unitid>UA121</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1983/1998" type="inclusive">1983 -- 1998</unitdate>
+    <langmaterial id="aspace_2198a1eb5feeb885f5ba921bcdcf88dc">English</langmaterial>
+  </did>
+  <arrangement id="aspace_9e002ac8d9b315dcae9979b537bc0f4d">
+    <head>Arrangement</head>
+<p>This collection is arranged into 1 series: Unprocessed accessions.</p>  </arrangement>
+  <scopecontent id="aspace_40cff65e3298f35000ea9862b209dddd">
+    <head>Scope and Contents</head>
+<p>This collection contains financial aid applications, pamphlets, brochures, and fliers.</p>  </scopecontent>
+  <bioghist id="aspace_d80f293895b1e7c26ef33520c834b388">
+    <head>Biographical / Historical</head>
+<p>Financial Services (1852-present) was established in 1852, when the university was founded (Light on the Hill, 82). This office was originally called the Treasurer's Office and it was where students paid tuition bills (Light on the Hill, 358).  It was originally located in Ballou Hall, also known as the main campus building prior to 1899 (Tufts College Catalogue 1894-1895, 63).</p><p> The bursar's office, which used to be located in Miner Hall, was considered part of financial services.  The first Bursar was the Rev. William A. Smart in 1894. Eventually, the bursar's office was placed under the Registrar's office (Light on the Hill, 358).</p><p> During the 1980s, the office had a window operating out of Sweet Hall, 419 Boston Ave. Medford, MA (which later became the site of Dowling Hall in 2000), where students would pick up and sign for their financial aid loans. Students could also pick up second semester loans in Eaton Hall (Office of Financial Aid records, UA038).  From 197X to 1980, The Office of Financial Aid was located in Ballou Hall. In the summer of 1980, the office was moved to 128 Professors Row, the old Fulton Hall. The office is currently located in Dowling Hall.</p> <p>Occasionally, President John Albert Cousens would have student files from the bursar's office transferred to him if students were having trouble paying tuition and bills. So specific accounts would fall under his office.</p><p>Scholarships and other financial aids were overseen by the Scholarships and Aids committee, which was part of the Faculty of Arts and Sciences. Awards are made by the Board of Trustees on the recommendation of the faculty. Scholarship applications had to be originally filed with the bursar (Tufts College Catalogue 1900-1901, 145).</p>  </bioghist>
+  <processinfo id="aspace_a0da502d88682c708f36863434c26f9a">
+    <head>Processing status</head>
+<p>This collection is minimally processed.</p>  </processinfo>
+  <userestrict id="aspace_4e4c35bf9ecced628248f046ebb77944">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Copyright to all materials created by Tufts University employees in the course of their work is held by the Trustees of Tufts University.</p>  </userestrict>
+  <accessrestrict id="aspace_82e96da0c77b0f0762d25b5a51c06c02">
+    <head>Conditions Governing Access</head>
+<p>Open for research. This collection may require review before it is available for use. Please contact DCA for further details.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="local">Student Affairs and Services</subject>
+  </controlaccess>
+  <dsc><c id="aspace_efe4e19215bb75a7a1baafb1e6a0259c" level="series"><did><unittitle>Additional accessions</unittitle><unitid>UA121.001</unitid><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_5a9bd69fd511658e637730fd4ddffb98" level="file"><did><unittitle>Financial Aid applications and information</unittitle><unitid>UA121-001</unitid><unitdate normal="1983/1998" type="inclusive">1983 -- 1998</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_02fd7fbb164a7767ab4e1b99bef2f8dd" label="Mixed Materials [39090017917150]" type="box">1</container></did><accessrestrict id="aspace_9feddc089a49c6e534ca8affabcd675b"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>

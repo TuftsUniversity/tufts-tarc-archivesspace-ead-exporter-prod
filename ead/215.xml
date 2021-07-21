@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/48298">UA131</eadid><filedesc><titlestmt><titleproper>Electro-Optics Technology Center Records<num>UA131</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-07-09 15:37:08 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Electro-Optics Technology Center Records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Tufts Electro-Optics Center</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Department of Electrical and Computer Engineering</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">School of Engineering</corpname>
+    </origination>
+    <unitid>UA131</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1986/1986" type="inclusive">1986</unitdate>
+    <langmaterial id="aspace_7d4040bffa1fb7cfadff423cd50c0301">English</langmaterial>
+  </did>
+  <arrangement id="aspace_627e3146416aad01c8179f558e8ff088">
+    <head>Arrangement</head>
+<p>This collection is arranged into one series: Brochures.</p>  </arrangement>
+  <scopecontent id="aspace_e4af8dfcf729703c038e14d0c25b606e">
+    <head>Scope and Contents</head>
+<p>This collection contains brochures from the Electro-Optics Technology Center.</p>  </scopecontent>
+  <bioghist id="aspace_69e6f94eccd2a32151d909228503e5f2">
+    <head>Biographical / Historical</head>
+<p>Realizing the importance of optics to the economy in the Boston area and the lack of a cohesive local academic resource in the discipline Professor Ronald Goldner, together with John DeVelis, founded the Tufts Electro-Optics Center in 1984 with the aim of providing graduate level education in this neglected area, and acted as its director in its early days. The unique courses offered by the Center, reflecting Dr. Goldners belief in hands-on learning, emphasized laboratory work. Drawing on some of the best optics talent in Boston, the Center created a University-Industry resource and the field of optics has benefited greatly from the connections and collaborations made possible by the Centers common meeting ground.</p>  </bioghist>
+  <processinfo id="aspace_163001d02161e3f8431af891b9e069c7">
+    <head>Processing status</head>
+<p>This collection is processed.</p>  </processinfo>
+  <accessrestrict id="aspace_4000649456eb6ba57ee2057685b2d1a3">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <userestrict id="aspace_7a6c00711af8621e9c08369432af8fdd">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Copyright to all materials created by Tufts University employees in the course of their work is held by the Trustees of Tufts University.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Curriculum and Instruction -- Academic Centers and Institutes</subject>
+  </controlaccess>
+  <dsc><c id="aspace_7e1c97a0b275f5244190c48e054fc766" level="series"><did><unittitle>Brochures</unittitle><unitid>UA131.000001</unitid></did><c id="aspace_d416a051a37c27943a809e79d82f1ebd" level="file"><did><unittitle>Brochure</unittitle><unitid>UA131-001</unitid><unitdate normal="1986/1986">1986</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d9f5d56e691e63b67c72cfe06b1643c4" label="Mixed Materials [39090017917242]" type="box">1</container></did><accessrestrict id="aspace_ca991d4be296d9d807fca0c8005f832b"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>

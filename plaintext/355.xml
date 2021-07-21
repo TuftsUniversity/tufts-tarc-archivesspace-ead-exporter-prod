@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/48222">MS129</eadid><filedesc><titlestmt><titleproper>Leland Stowe Papers<num>MS129</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-07-09 15:22:05 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Leland Stowe Papers</unittitle>
+    <origination label="Creator">
+      <persname source="local">Stowe, Leland</persname>
+    </origination>
+    <unitid>MS129</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.2 Linear Feet</extent>
+      <extent altrender="carrier">1 record carton
+</extent>
+    </physdesc>
+    <unitdate normal="1933/1980" type="inclusive">1933 -- 1980</unitdate>
+    <langmaterial id="aspace_efc686449529e95a5e9b51a9e8c7563b">English</langmaterial>
+  </did>
+  <arrangement id="aspace_39371dd3688e99255b2a2d12195b7911">
+    <head>Arrangement</head>
+<p>This collection is not processed. It is arranged as received from Stowe. See Box 001 for an inventory created by Stowe.</p>  </arrangement>
+  <custodhist id="aspace_989c8ead1d0b8f1f2d20ac88aa6e711f">
+    <head>Custodial History</head>
+<p>This collection was donated by Leland Stowe to the Edward R. Murrow Center in multiple installments, circa 1979-1984. See correspondence between Stowe and Hewson A. Ryan, Director, Edward R. Murrow Center. This collection was transferred to the Archives with the Edward R. Murrow papers.</p>  </custodhist>
+  <scopecontent id="aspace_b938b3d9d1f8f1793daab6e91c9018d8">
+    <head>Scope and Contents</head>
+<p>This collection documents Stowe's work as a war correspondent during World War II and the Korean War, as well as his later career as a journalism professor. Included are photographic portraits of Stowe, 1939-1945; interviews with Lt. Col. Walter Soderholm and General Pershing; lectures and articles, 1946-1952; University of Michigan journalism lectures and teaching files, 1956-1969; manuscripts and annotated publications, 1933-1980; and one poster-sized image of CBS correspondents (including Murrow), cameramen, and soundmen during the Korean War, 1952.</p>  </scopecontent>
+  <bioghist id="aspace_5556ddd76c1f12d56b2cc40b32b5a96e">
+    <head>Biographical / Historical</head>
+<p>Leland Stowe was born on November 10, 1899 in Southbury, Connecticut. After graduating from Wesleyan University, he joined the <i>New York Herald Tribune</i> in 1922. Stowe was still a reporter for the <i>Tribune</i> in 1929 when he covered the Paris Reparations Conference, his coverage of the conference won him the Pulitzer Prize for foreign correspondence.</p>
+
+<p>In 1939 Stowe went to Europe as a correspondent for the <i>Chicago Daily News</i> to report on the outbreak of World War II. He went on to report on combat around the globe, including China and Burma in 1942 and the Eastern front, first for the <i>Chicago Daily News</i> and then for the <i>New York Post</i> and the American Broadcasting Company. From 1952 to 1954, Stowe was director of Radio Free Europe's news service. In 1956, Mr. Stowe became a professor at the University of Michigan, retiring in 1969. He continued to write, working as both roving editor and writer for the <i>Reader's Digest</i>.</p>  </bioghist>
+  <processinfo id="aspace_65a97da49d5f82fd560089826b7eebb8">
+    <head>Processing status</head>
+<p>This collection is minimally processed and may not be available for research.</p>  </processinfo>
+  <accessrestrict id="aspace_6e12b29f3f38ffd12fa40b5dad34750d">
+    <head>Conditions Governing Access</head>
+<p>This collection may require review before it is available for use. Please contact DCA for further details.</p>  </accessrestrict>
+  <userestrict id="aspace_c8aff28f15363ca38f5bc588cf87938b">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproduction and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Any intellectual property rights that the donor possesses have not been transferred to Tufts University.</p>  </userestrict>
+  <controlaccess>
+    <title source="local">Stowe, Leland</title>
+    <title source="local">World War, 1939-1945--Journalism, Military</title>
+    <subject source="local">Media and broadcast history</subject>
+    <subject source="local">Foreign affairs</subject>
+  </controlaccess>
+  <dsc><c id="aspace_eea31f34063733c499f9aedca1a70c74" level="series"><did><unittitle>Additional accessions</unittitle><unitid>UA129.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">3.6 Linear Feet</extent></physdesc><unitdate normal="1933/1980" type="inclusive">1933 -- 1980</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_de1213663de446e578c7639b444e3119"><head>Scope and Contents</head><p>This series includes photographic portraits of Stowe, 1939-1945; interviews with Lt. Col. Walter Soderholm and General Pershing; lectures and articles, 1946-1952; University of Michigan journalism lectures and teaching files, 1956-1969; Photocopy of Stowe's first edition publication "Nazi Germany Means War," December 1933; photocopy manuscripts of Stowe's "Behind the Lines: The Untold Story of Leland Stowe's Supressed Exclusive Revelations of the Burma Road and Chiang Kai-Shek Regime's Scandals and Corruption, 1942" "His Expose of the Burma Road Racketeering and Widespread Corruption in Nationalist China's Chiang Kai-Shek Government," and "How and Why Four of His Seven Dispatches - the First Ordered to Report these Dismaying Facts - Were Ordered to be Supressed by the State Department, or the White House . . . in Late December, 1941;" and compilations of records annotated by Stowe, including "Between the Crossfires from Right-wing and Left-wing Extremists: The Case History of a Liberal Correspondent and News Commentator, 1937-1955," "Copies of the FBI's Files Concerning Leland Stowe: With Analyses and Annotations by Him, August 1980."</p>
+<p>Also included is one poster-sized image of CBS correspondents (including Murrow), cameramen, and soundmen during the Korean War, 1952.</p></scopecontent><arrangement id="aspace_d62a5a49171d3afaa2a82bcdce27bc35"><head>Arrangement</head><p>This collection is arranged as received from Stowe. See Box 001 for an inventory created by Stowe.</p></arrangement><accessrestrict id="aspace_382f131bf92ff38eaae6224450395328"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_703543c631ed93b2778e9e86a7f42610" level="file"><did><unittitle>Manuscripts, teaching files, and photographs</unittitle><unitid>MS129-001</unitid><unitdate certainty="approximate" normal="1933/1980" type="inclusive">1933 -- 1980</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_5bd9e512e57b741d8b6c1603ac58f825" label="Mixed Materials [39090017911518]" type="box">1</container></did><accessrestrict id="aspace_6089074a1b904f4bd2d184d254bb9753"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_c782e3da822583a6e263e0e6848886f6"><head>Scope and Contents</head><p>Photographic portraits of Stowe, 1939-1945; interviews with Lt. Col. Walter Soderholm and General Pershing; lectures and articles, 1946-1952; University of Michigan journalism lectures and teaching files, 1956-1969; Photocopy of Stowe's first edition publication "Nazi Germany Means War," December 1933; photocopy manuscripts of Stowe's "Behind the Lines: The Untold Story of Leland Stowe's Supressed Exclusive Revelations of the Burma Road and Chiang Kai-Shek Regime's Scandals and Corruption, 1942" "His Expose of the Burma Road Racketeering and Widespread Corruption in Nationalist China's Chiang Kai-Shek Government," and "How and Why Four of His Seven Dispatches - the First Ordered to Report these Dismaying Facts - Were Ordered to be Supressed by the State Department, or the White House . . . in Late December, 1941;" and compilations of records annotated by Stowe, including "Between the Crossfires from Right-wing and Left-wing Extremists: The Case History of a Liberal Correspondent and News Commentator, 1937-1955," "Copies of the FBI's Files Concerning Leland Stowe: With Analyses and Annotations by Him, August 1980."</p></scopecontent></c><c id="aspace_ede10da0b07c1bf8ef74f7e5f7e2ec19" level="file"><did><unittitle>Image of CBS correspondents (including Murrow), cameramen, and soundmen during the Korean War</unittitle><unitid>MS129-002</unitid><unitdate normal="1952/1952">1952</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_fa6a7790c20de173f528dfe3c8577062" label="Mixed Materials [39090017911526]" type="box">2</container></did><accessrestrict id="aspace_760520d7319440557a56aca5a80cf551"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_6d7c1b31d5de0eab949207ea4733059a"><head>Scope and Contents</head><p>Former barcode 39090011520547g</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>

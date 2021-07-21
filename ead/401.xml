@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/003651">MS195</eadid><filedesc><titlestmt><titleproper>Raoul Bott Papers<num>MS195</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-07-09 15:27:41 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Raoul Bott Papers</unittitle>
+    <origination label="Creator">
+      <persname source="local">Bott, Raoul, 1923-2005 </persname>
+    </origination>
+    <unitid>MS195</unitid>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1.2 Linear Feet</extent>
+      <extent altrender="carrier">1 record carton that contains 11 VHS tapes, 3 cassettes, 3 reels, 20 slides, 1 3.5" floppy, 1 CD-ROM.</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent>
+      <extent altrender="carrier">1 digital object comprising 4 files.</extent>
+    </physdesc>
+    <physdesc altrender="part">
+      <extent altrender="materialtype spaceoccupied">1.4 Megabytes</extent>
+    </physdesc>
+    <unitdate normal="1949/2010" type="inclusive">1949 -- 2010</unitdate>
+    <langmaterial id="aspace_f64c26e822f84de0a1bb24ac2ad0f2fb">English</langmaterial>
+  </did>
+  <accessrestrict id="aspace_fe1810904b7e1fb0d4aec8672e872d77">
+    <head>Conditions Governing Access</head>
+<p>This collection may require review before it is available for use. Please contact DCA for further details.</p>  </accessrestrict>
+  <arrangement id="aspace_9d0d34f7b36cb1e517b4ef07270339db">
+    <head>Arrangement</head>
+<p>This collection is not yet organized.</p>  </arrangement>
+  <bioghist id="aspace_e5e492c409333fa7bcc8f00c6806ad4a">
+    <head>Biographical / Historical</head>
+<p>Raoul Bott was born in Budapest, Hungary on September 24, 1923. His family emigrated to Canada in 1938, and subsequently he served in the Canadian Army in Europe during World War II. Bott later went to college at McGill University in Montreal, where he studied electrical engineering. He then earned a Ph.D. in mathematics from Carnegie Mellon University in Pittsburgh in 1949. Afterward, he began teaching at the University of Michigan in Ann Arbor. He was a professor at Harvard University from 1959 to 1999. He died in Carlsbad, California on December 21, 2005.</p>  </bioghist>
+  <custodhist id="aspace_25fd6f854e586ab64acbca674c15c4d2">
+    <head>Custodial History</head>
+<p>Donated by Bott's daughter. Content retrieved from one mini cd, but floppy disk was not immediately readable.</p>  </custodhist>
+  <processinfo id="aspace_63ebb0dfde76d4272cefff0da6697ca2">
+    <head>Processing status</head>
+<p>This collection is minimally processed and may not be available for research</p>  </processinfo>
+  <scopecontent id="aspace_db03753e9feb51364093f367a5df9c8b">
+    <head>Scope and Contents</head>
+<p>This collection contains Bott's Ph.D. thesis and media documenting his lectures and appearances.</p>  </scopecontent>
+  <userestrict id="aspace_f29230c92f030640203bd3962f438e10">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. 
+No documentation is available regarding the intellectual property rights in this collection.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Mathematics</subject>
+    <subject source="local">Faculty papers</subject>
+  </controlaccess>
+  <dsc><c id="aspace_c70fa5ec1e3c647edef5eb9ecdc8a16f" level="series"><did><unittitle>Digital content</unittitle><unitid>MS195.001.000002</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent><extent altrender="carrier">1 digital object comprising 4 files.</extent></physdesc><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.4 Megabytes</extent></physdesc><unitdate normal="2003/2010" type="inclusive">2003 -- 2010</unitdate></did><accessrestrict id="aspace_7c0add222b400b573b24ae898d812b4b"><head>Conditions Governing Access</head><p>Items are closed due to copyright and are in the Dark Archive.</p></accessrestrict><scopecontent id="aspace_6d10cfdc1e585648a8848e07355c55c6"><head>Scope and Contents</head><p>This series contains publications by Kiyoshi Igusa with ancillary materials, which are closed due to copyright.</p></scopecontent><c id="aspace_8601137def6bd123fcb577a672b4cc43" level="item"><did><unittitle>Publications and ancillary materials</unittitle><unitid>MS195.001.00001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent><extent altrender="carrier">Zip file contains four files: MMMK004.pdf, MMMK004.ps, MIT03.pdf, MMMK004.dvi.
+</extent></physdesc><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.4 Megabytes</extent></physdesc><unitdate normal="2003/2003">2003</unitdate></did><scopecontent id="aspace_0b8bb50d60edd88e16e78ab29f056edc"><head>Scope and Contents</head><p>Publications and ancillary materials by Kiyoshi Igusa.</p></scopecontent><accessrestrict id="aspace_b88e23790bf52774da9ee488e601e43b"><head>Conditions Governing Access</head><p>Closed due to copyright.</p></accessrestrict></c></c><c id="aspace_b8313272bf3ddfa493a449850dbf9eda" level="series"><did><unittitle>Additional accessions</unittitle><unitid>MS195.001.000001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent></physdesc><unitdate normal="1949/2003" type="inclusive">1949 -- 2003</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><accessrestrict id="aspace_8b7a9edae754327b89e76b35d300966f"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_eaf19819109232d2c737050d1b67b5e3" level="file"><did><unittitle>Bott audiovisual materials</unittitle><unitid>MS195-001</unitid><unitdate normal="1949/1996" type="inclusive">1949 -- 1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_3dec1bfa6e04eb018656fdcb900c75b6" label="Mixed Materials [39090017912722]" type="box">1</container></did><accessrestrict id="aspace_9ba30feb5a8621fc138f9ff6fbb75300"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>
