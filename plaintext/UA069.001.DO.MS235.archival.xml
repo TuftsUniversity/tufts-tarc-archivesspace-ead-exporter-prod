@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/012393">MS235</eadid><filedesc><titlestmt><titleproper>Deborah Digges Papers<num>MS235</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 19:15:00 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Deborah Digges Papers</unittitle>
+    <origination label="Creator">
+      <persname authfilenumber="n 85177797" rules="dacs" source="naf">Digges, Deborah</persname>
+    </origination>
+    <unitid>MS235</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
+      <extent altrender="carrier">3 folders and one book</extent>
+    </physdesc>
+    <unitdate certainty="approximate" normal="1987/2009" type="inclusive">circa 1987 -- 2009</unitdate>
+    <abstract id="aspace_74c6f4163873347b1c3168dc54309560">This collection contains correspondence and poetry of Deborah Digges, poet and Tufts University professor.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_17f10488a50776989296347cd0700e9c">
+    <head>Conditions Governing Access</head>
+<p>This collection contains some restricted material. Restrictions related to specific material are listed in the detailed contents list.</p>  </accessrestrict>
+  <acqinfo id="aspace_a7759671f15c49ce1042c946df156972">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Chard deNiord, 2017, accession MS-2017-054.</p>  </acqinfo>
+  <arrangement id="aspace_7b5050a1a869a65a5950b810e3cba7aa">
+    <head>Arrangement</head>
+<p>This collection is arranged in received order.</p>  </arrangement>
+  <bioghist id="aspace_0f0a613e70e952939776ae4a7b8c9227">
+    <head>Biographical / Historical</head>
+<p>Deborah Digges (1950-2009) was an American poet, author, and Tufts University associate professor of English from 1986-2009. </p><p>Born on February 6, 1950 in Jefferson City, Missouri to Everett D. Sugarbaker, an oncologist, and Geneva Sugarbaker, a former nurse, Deborah Digges studied at Wheaton College, Illinois, and William Jewell College, Missouri, before marrying Air Force Pilot Charles Digges in 1969. She received a BA in English from the University of California, Riverside in 1976; an MA in English from the University of Missouri-Columbia in 1982; and an MFA in Poetry from the Iowa Writer's Workshop in 1984.</p><p>Digges published several memoirs and books of poetry, including Vesper Sparrows (1986), Late in the Millennium (1989), Fugitive Spring (1992), Rough Music (1995), The Stardust Lounge: Stories From a Boy's Adolescence (2001), and Trapeze (2004). Her work also appeared in The New Yorker. She was the recipient of numerous awards, including the Delmore Schwartz Memorial Prize in 1987, the Pushcart Prize in 1977 and 1994, and the Kingsley Tufts Award in 1996. She was also awarded grants from the National Endowment of the Arts, the Ingram Merrill Foundation, and the John Simon Guggenheim Foundation. Digges taught English at Tufts University from 1986 until her death in 2009. She also taught at Boston University, Columbia University, and New York University. </p><p>Digges was married three times and had five children (including two stepsons and one foster son). Her marriage to Charles Digges ended in divorce in 1980. She married poet Stanley Plumly in 1985, and was divorced in 1993. She married Franklin Loew - former Dean of the Cummings School of Veterinary Medicine at Tufts University - in 2000. Loew passed away in 2003. Digges committed suicide in Northampton, Massachusetts, on April 10, 2009. </p>  </bioghist>
+  <prefercite id="aspace_34f0e4bdc97a7df650b3d76638dfba1f">
+    <head>Preferred Citation</head>
+<p>Deborah Digges Papers, 1987-2009. Tufts University. Digital Collections and Archives. Medford, MA.</p>  </prefercite>
+  <processinfo id="aspace_05c7fdfe10844406ab1dcb728705defa">
+    <head>Processing Information</head>
+<p>Processing completed by Leah Edelman in 2017. Materials were placed in archival boxes, and loose materials were placed in folders where needed. Received order was maintained. A folder-level inventory and series-level description were created as part of the finding aid created at the time of processing.  </p>  </processinfo>
+  <scopecontent id="aspace_65456698c00bb6af6dabec7f65158955">
+    <head>Content Description</head>
+<p>This collection contains one published book of poetry by Deborah Digges, "Rough Music;" one folder of poems; and two folders of correspondence between Deborah Digges and Chard deNiord.</p>  </scopecontent>
+  <userestrict id="aspace_82a473d15af355c80ff2c6436350cfa6">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish.
+Any intellectual property rights that the donor possesses have been transferred to Tufts University.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Poetry</subject>
+    <subject source="local">Tufts University -- Faculty -- Archives.</subject>
+    <subject source="local">Faculty papers</subject>
+  </controlaccess>
+  <dsc><c id="aspace_9ddfb134cf21e1a7ee6b7e451c9c13b3" level="series"><did><unittitle>Deborah Digges papers</unittitle><unitid>MS235.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent><extent altrender="carrier">4 folders</extent></physdesc><unitdate certainty="approximate" normal="1987/2009" type="inclusive">circa 1987 -- 2009</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><arrangement id="aspace_d54c2a1454ccc493beddca57626fbb57"><head>Arrangement</head><p>This series is arranged in received order.</p></arrangement><accessrestrict id="aspace_6bdf8728009e6f59fe09d65ace60ac22"><head>Conditions Governing Access</head><p>This series/sub-series contains some restricted material. Restrictions related to specific material are listed in the detailed contents list.</p></accessrestrict><scopecontent id="aspace_184ca7ef10723a33a457ccb5c00550e7"><head>Scope and Contents</head><p>This series contains one published book of poetry by Deborah Digges, "Rough Music;" one folder of poems; and two folders of correspondence between Deborah Digges and Chard deNiord.</p></scopecontent><c id="aspace_d3fd5bfbbe6bde46c7a53824960255cf" level="file"><did><unittitle>Rough Music</unittitle><unitid>MS235.001.001.00001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Folder(s)</extent></physdesc><unitdate normal="1995/1995">1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d6178dffc701a483fddd71a9ce8592b7" label="Mixed Materials [39090017907490]" type="box">1</container></did></c><c id="aspace_2dddbf8c2ce98566af619a189b1b931f" level="file"><did><unittitle>Poems</unittitle><unitid>MS235.001.001.00002</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Folder(s)</extent></physdesc><unitdate normal="1995/1995">1995</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_7c6683229adb906761ff21e3221696f4" label="Mixed Materials [39090017907490]" type="box">1</container></did></c><c id="aspace_e047c00984cafb95a8796ad1cb0607bf" level="file"><did><unittitle>Letters</unittitle><unitid>MS235.001.001.00003</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Folder(s)</extent></physdesc><unitdate normal="1987/1988" type="inclusive">1987 -- 1988</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_043dab230e838ebdd930d242aa1b2db6" label="Mixed Materials [39090017907490]" type="box">1</container></did></c><c id="aspace_4b017ff56919432e75b3e2d0e350542a" level="file"><did><unittitle>Letters</unittitle><unitid>MS235.001.001.00004</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Folder(s)</extent></physdesc><unitdate normal="1995/2009" type="inclusive">1995 -- 2009</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_410339f90bbf9d12807eee6e24270ffe" label="Mixed Materials [39090017907490]" type="box">1</container></did><accessrestrict id="aspace_60a6782b10ce1725cd08f72c7c3ca151"><head>Conditions Governing Access</head><p>75 years from date of creation.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>

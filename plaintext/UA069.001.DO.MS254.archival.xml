@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">MS254</eadid><filedesc><titlestmt><titleproper>Christopher Coenen Collection on P. T. Barnum and Tom Thumb<num>MS254</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 19:15:40 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Christopher Coenen Collection on P. T. Barnum and Tom Thumb</unittitle>
+    <unitid>MS254</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+    </physdesc>
+    <unitdate certainty="approximate" normal="1850/1977" type="inclusive">circa 1850 -- 1977</unitdate>
+    <abstract id="aspace_6836e10426909cdbf8ee4fe1939a772c">This collection contains material related to P. T. Barnum and Tom Thumb collected by Christopher Coenen, including prints, photographs, and programs.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_96c6fbf403a19c35406736594fcf1588">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <acqinfo id="aspace_2aba056fef4606c964f7babf95eed811">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Christopher Coenen A'71, 2018, accession number MS-2019-048.</p>  </acqinfo>
+  <arrangement id="aspace_1c8015e99dbcf7935fda6dc4dd7229fb">
+    <head>Arrangement</head>
+<p>This collection is arranged in one chronological series.</p>  </arrangement>
+  <prefercite id="aspace_a248609a74719b577c79b581ac69e586">
+    <head>Preferred Citation</head>
+<p>Christopher Coenen Collection on P. T. Barnum and Tom Thumb, 1850-1977. Tufts University. Digital Collections and Archives. Medford, MA.</p>  </prefercite>
+  <processinfo id="aspace_872ae3df7ce276a5b05836fe2997dc0b">
+    <head>Processing Information</head>
+<p>Processing of this collection was completed by Leah Edelman in 2019. Materials were placed in archival boxes, and loose materials were placed in folders where needed. Materials were arranged in one series with chronological order. A file and item-level inventory and series-level description were created, and the finding aid was also created at the time of processing.</p>  </processinfo>
+  <scopecontent id="aspace_462f40c3dcc60d4581f7ef5f7c0517e4">
+    <head>Scope and Contents</head>
+<p>This collection contains material related to P .T. Barnum and Tom Thumb collected by Christopher Coenen, including a print of General Tom Thumb; photographs, cards, and prints of Jumbo; a Ringling Brothers and Barnum and Bailey Circus program; and a portfolio of print reproductions of portrait photographs originally taken by Matthew Brady of members of Barnum's troupe.</p>  </scopecontent>
+  <userestrict id="aspace_7a1587804043f6224edd8b69a25d9b0f">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Any intellectual property rights that the donor possesses have been transferred to Tufts University.</p>  </userestrict>
+  <bioghist id="aspace_c1b9f9e098902548b44090cbf76be6d2">
+    <head>Biographical / Historical</head>
+<p>Christopher Joseph Coenen graduated from the Tufts University School of Arts, Sciences, and Engineering with a B.S. degree in 1971.</p>  </bioghist>
+  <controlaccess>
+    <title authfilenumber="no2014138969" source="lcsh">Jumbo (Elephant)</title>
+    <persname source="local">Barnum, P. T. (Phineas Taylor)</persname>
+  </controlaccess>
+  <dsc><c id="aspace_65a46f541f4510ba280b9beca9944bcc" level="series"><did><unittitle>Christopher Coenen Collection on P.T. Barnum and Tom Thumb</unittitle><unitid>MS254.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent></physdesc><unitdate certainty="approximate" normal="1850/1977" type="inclusive">circa 1850 -- 1977</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><arrangement id="aspace_5a6e1d6b27c8e816eb3487dc2f59b503"><head>Arrangement</head><p>This series is arranged chronologically.</p></arrangement><accessrestrict id="aspace_c87e4e4765e73056869d22ef38791012"><head>Conditions Governing Access</head><p>This series is open for research.</p></accessrestrict><scopecontent id="aspace_eddc864d387627985299fb8ac9ed5d5b"><head>Scope and Contents</head><p>This series contains a print of General Tom Thumb; photographs, cards, and prints of Jumbo; a Ringling Brothers and Barnum and Bailey Circus program; and a portfolio of print reproductions of portrait photographs originally taken by Matthew Brady of members of Barnum's troupe.</p></scopecontent><c id="aspace_12983303df53a85b213531281fb9d315" level="item"><did><unittitle>General Tom Thumb print</unittitle><unitid>MS254.001.001.00001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent></physdesc><unitdate certainty="approximate" normal="1850/1880" type="inclusive">circa 1850 -- 1880</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b383b0a0c369b066fea00eace88aaa49" label="Graphic Materials [39090015513094]" type="box">1</container><container id="aspace_00b5f0e2b4b77bca1dd002494c01f4c1" parent="aspace_b383b0a0c369b066fea00eace88aaa49" type="folder">1</container></did></c><c id="aspace_566d7e772fdb584f1fc48281a383e273" level="file"><did><unittitle>Jumbo photographs, cards, and prints</unittitle><unitid>MS254.001.001.00002</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent></physdesc><unitdate certainty="approximate" normal="1880/1975" type="inclusive">circa 1880 -- 1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_bd0c63b378a3c27a0fc94a631efe3b66" label="Graphic Materials [39090015513094]" type="box">1</container><container id="aspace_8e54e0f4e841f37d4e91b421390df281" parent="aspace_bd0c63b378a3c27a0fc94a631efe3b66" type="folder">2</container></did><scopecontent id="aspace_256b43c60979e06567da3af5c1dd349d"><head>Scope and Contents</head><p>This file contains two photographs of Jumbo in Barnum Hall and one photograph of the fire at Barnum Hall in 1975; a print titled "Jumbo at work and play;" and cards of Jumbo in various scenes.</p></scopecontent></c><c id="aspace_692db99ec5814617fe7a02c8fc1a5e13" level="item"><did><unittitle>Ringling Brothers and Barnum and Bailey Circus program</unittitle><unitid>MS254.001.001.00003</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent></physdesc><unitdate normal="1975/1975">1975</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_284fc7f3b8afeeb115b1e2370201b0e3" label="Mixed Materials [39090015513094]" type="box">1</container><container id="aspace_f5262b8821a96d6291fdf5143949e015" parent="aspace_284fc7f3b8afeeb115b1e2370201b0e3" type="folder">3</container></did></c><c id="aspace_97f9990b066bdfa288e846e4f18e795c" level="file"><did><unittitle>The World of Phineas T. Barnum photograph portfolio</unittitle><unitid>MS254.001.001.00004</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent></physdesc><unitdate normal="1977/1977">1977</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_089657ea95332301ebee083b1b992dc7" label="Graphic Materials [39090015513094]" type="box">1</container></did><scopecontent id="aspace_ae4512763b36e248c5bbe422d66878b7"><head>Scope and Contents</head><p>This file contains a portfolio of print reproductions of portrait photographs originally taken by Matthew Brady of members of Barnum's troupe, including dancer Ernestine de Faiber, General Tom Thumb and his wife Lavinia Warren Bumpus, James Murphy (the "Irish Giant"), Anna Swan (the "Nova Scotia Giantess"), Jane Campbell (the "Fat Lady"), Isaac Sprague (the "Living Skeleton"), Mrs. Myers (first name unknown, the "Bearded Lady"), and Siamese twins Chang and Eng.</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>

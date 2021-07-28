@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/55753">MS154</eadid><filedesc><titlestmt><titleproper>Bernhard Gottlieb Papers<num>MS154</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 19:04:13 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Bernhard Gottlieb Papers</unittitle>
+    <unitid>MS154</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.25 Linear Feet</extent>
+      <extent altrender="carrier">One box</extent>
+    </physdesc>
+    <unitdate normal="1920/2007" type="inclusive">1920 -- 2007</unitdate>
+    <langmaterial id="aspace_243653eec56e70d57f830a003063dade">English German</langmaterial>
+  </did>
+  <arrangement id="aspace_9d1651917e1701286bdfc9146a8d98a3">
+    <head>Arrangement</head>
+<p>This collection is not processed.</p>  </arrangement>
+  <custodhist id="aspace_ce83e73afa179d3a529259690bb814e9">
+    <head>Custodial History</head>
+<p>These items were found uncataloged in the stacks in winter of 2009.</p>  </custodhist>
+  <scopecontent id="aspace_b376a52fa43407369e859c05f7b00197">
+    <head>Scope and Contents</head>
+<p>This collection contains biographical information and unidentified photographs related to Austrian dentist Bernhard Gottlieb (1886-1950).</p>  </scopecontent>
+  <processinfo id="aspace_689ce4ede8a906828458cf2416fafda5">
+    <head>Processing status</head>
+<p>This collection is minimally processed and may not be available for research.</p>  </processinfo>
+  <accessrestrict id="aspace_3758dfcea8824e029092a5f7885efc14">
+    <head>Conditions Governing Access</head>
+<p>This collection may require review before it is available for use. Please contact DCA for further details.</p>  </accessrestrict>
+  <userestrict id="aspace_d3fca4ad74785a2bddf3826ac9877c11">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. No documentation is available regarding the intellectual property rights in this collection.</p>  </userestrict>
+  <bioghist id="aspace_b10c207d7af75beba57dc56456896aca">
+    <head>Biographical / Historical</head>
+<p>Bernhard Gottlieb (1886-1950) was born in Kuty, Austria (later Czechoslovakia) on July 17, 1886. He was a leading figure in the field of oral histology in dentistry. </p><p>Dr. Bernhard Gottlieb received his Doctor of Medicine degree from University of Vienna and his Doctorate in Medical Dentistry from University of Bonn in Germany. He belonged to a group of Viennese scientists who built the scientific foundations for the clinical sciences of periodontics, orthodontics, pedodontics, endodontics, and oral surgery. After the annexation of Austria by the Nazis in 1938, Gottlieb left for Palestine, where he worked to build up the dental profession. He immigrated to the United States in 1940, where he was briefly associated with Columbia University and the University of Michigan before moving to the Baylor College of Dentistry in Dallas. At Baylor, he became a professor and head of the Department of Pathology and Research, where he wrote hundreds of scientific articles and four textbooks. Many consider Gottlieb the father of Oral Histology. </p><p>Gottlieb died March 16, 1950 in Dallas, Texas at the age of 64.</p>  </bioghist>
+  <controlaccess>
+    <title source="local">Gottlieb, Bernhard</title>
+    <subject source="local">Teeth--Histology</subject>
+  </controlaccess>
+  <dsc><c id="aspace_526780fba162a5fab41806cc6663c4eb" level="series"><did><unittitle>Additional accessions</unittitle><unitid>MS154.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Volumes</extent></physdesc><unitdate normal="1920/2007" type="inclusive">1920 -- 2007</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_4874bab4248e505f540a8e19651b1361"><head>Scope and Contents</head><p>Biographical information and several unidentified photographs, presumably of Dr. Gottlieb and his family. Also included is one CD of digital images from the July 2005 opening celebration of the Gottlieb Universitaetszahnklinik dental clinic in Vienna, Austria. The clinic was named in Dr. Gottlieb's honor.</p></scopecontent><arrangement id="aspace_c101f039f4d59ea0e53cbf705c691ea2"><head>Arrangement</head><p>This series is not arranged.</p></arrangement><accessrestrict id="aspace_b6794b45c0b791a800182eb6eb26110f"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_ab27c67fc3c1f1d818af5cccf15cc5de" level="file"><did><unittitle>Biographical information and photographs</unittitle><unitid>MS154-001</unitid><unitdate certainty="approximate" normal="1920/2007" type="inclusive">1920 -- 2007</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_799cb20824e321457cc46d6d0bf67792" label="Mixed Materials [39090017912177]" type="box">1</container></did><accessrestrict id="aspace_3984301c77e3ce318ab0a45e96c191bc"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_4943f03bc60cdf79e8647f98dd60afe3"><head>Scope and Contents</head><p>Biographical information and several unidentified photographs, presumably of Dr. Gottlieb and his family. Also included is one CD of digital images from the July 2005 opening celebration of the Gottlieb Universitaetszahnklinik dental clinic in Vienna, Austria. The clinic was named in Dr. Gottlieb's honor.</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>
