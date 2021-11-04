@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/003649">MS192</eadid><filedesc><titlestmt><titleproper>Richmond Ledger of Warrants<num>MS192</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 19:04:58 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Richmond Ledger of Warrants</unittitle>
+    <unitid>MS192</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.42 Linear Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1809/1810" type="inclusive">1809 -- 1810</unitdate>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <arrangement id="aspace_39ba430d9a75b18737d979814892d2e3">
+    <head>Arrangement</head>
+<p>This collection is organized in one series.</p>  </arrangement>
+  <custodhist id="aspace_0ce4ff99aed3e7a9277c8af924249166">
+    <head>Custodial History</head>
+<p>This ledger was found in the Ryder Collection of Confederate Archives in 2011; the Ryder collection was cataloged as part of the WPA in 1939/1940 but in later decades the catalog (A Calendar of the Ryder Collection of the Confederate Archives at Tufts College 1940) was forgotten and library staff added other materials to the Ryder collection, usually items from the South, from the 18th and 19th century and around the time of the Civil War. </p>
+
+<p>Because it was not part of the original Ryder collection, it was removed and a separate, 'artificial' collection was created. </p>
+  </custodhist>
+  <processinfo id="aspace_d25370dfd08f050c619382d842e99d88">
+    <head>Processing Information</head>
+<p>Processed by Susanne Belovari, spring 2012.</p>  </processinfo>
+  <scopecontent id="aspace_4578c5178d5da5bc646ff0dbbc1e1a93">
+    <head>Scope and Contents</head>
+<p>This ledger  of warrants from Richmond, Virginia, is dated from 1809-1810. The ledger's individual records are chronologically listed and contain the following column headings: date of warrant, plaintiffs, defendants, nature of debt and amount of debt, witnesses for plaintiffs, witnesses for defendents, nature of judgement, amount of judgment, costs, appeals by whom, stay bonds, security to stay bonds, and return. Later pages include several additional sections, such as "Judgements delivered by Thomas C. Howard to John Seabrook" and "List of bonds delivered John Seabrook."</p>  </scopecontent>
+  <processinfo id="aspace_933d1b44b24e1effcdaf41194cae68db">
+    <head>Processing status</head>
+<p>This collection is processed.</p>  </processinfo>
+  <accessrestrict id="aspace_d3d5d627cb6606be89590fca460b7ae5">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <userestrict id="aspace_3aec4560c7032a46c21cd28b0507c26c">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. No documentation is available regarding the intellectual property rights in this collection.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Warrants (Law)</subject>
+    <geogname source="local">Richmond (Va.)</geogname>
+  </controlaccess>
+  <dsc><c id="aspace_2412a9833f4e771e9bcbef4155e65bdf" level="series"><did><unittitle>Richmond ledger of warrants</unittitle><unitid>MS192.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent></physdesc><unitdate normal="1809/1810" type="inclusive">1809 -- 1810</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_5cfc480125e23813d866f1ad780ddcf1"><head>Scope and Contents</head><p>This series includes a ledger from Richmond, Virginia, containing a chronological listing of warrants issued, naming plaintiffs, defendants, nature and amount of debt, witness for both, nature of judgement, amount and cost of judgement, appeals by whom, stay bonds and security to stay bonds, and return.</p></scopecontent><arrangement id="aspace_69f806598969888b59844cd671c59785"><head>Arrangement</head><p>This series is not arranged.</p></arrangement><accessrestrict id="aspace_d9a118f77798871c805a61816ea43f22"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_4374fcf444ca90b4e017e605d9c54224" level="item"><did><unittitle>Richmond ledger of warrants</unittitle><unitid>MS192.001.001.00001</unitid><unitdate normal="1809/1810" type="inclusive">1809 -- 1810</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_c898ac151d0ee2cf1c4ce25597f17366" label="Books [39090015524925y]" type="box">Shared 5</container></did><accessrestrict id="aspace_45a69005af3af64aff6da9d41c227656"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_56d85160acb2da2083b3cc1ad166ea58"><head>Scope and Contents</head><p>Fragile: cover and first page as well as back page separate. Ledger is from Richmond, Virginia, containing a chronological listing of warrants issued, naming plaintiffs, defendants, nature and amount of debt, witness for both, nature of judgement, amount and cost of judgement, appeals by whom, stay bonds and security to stay bonds, and return. Dates for warrants start Sept. 22 1809 and end July 28, 1810. Also included in ledger on later pages: a list of judgements and accounts delivered John Seabrook now high constable for the city of Richmond; Sept. 11 1810 received the papers relative to the foregoing cases from Franics Hodward later high constable for the city of Richmond, cosigned John Seabrook C. C. R.; judgements delivered by Thomas C. Howard to John Searbrook CCR Nov 8 1810; list of bonds delivered John Seabrook high constable for the city of Richmond Sept. 8, 1810; bonds satisfied January 1 1810; and a final list of received judgements from August 1810.</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/DV140724T">MS259</eadid><filedesc><titlestmt><titleproper>Tufts Dining Action Coalition Records<num>MS259</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-08-14 10:15:01 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Tufts Dining Action Coalition Records</unittitle>
+    <origination label="Creator">
+      <corpname rules="dacs" source="local">Tufts Dining Action Coalition</corpname>
+    </origination>
+    <unitid>MS259</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">1 half-size document box</extent>
+    </physdesc>
+    <unitdate certainty="approximate" normal="2018/2019" type="inclusive">circa 2018 -- 2019</unitdate>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <acqinfo id="aspace_6cebfc11c79f370be4aeb9978e1750a3">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of the Tufts Dining Action Coalition, 2019, accession MS-2019-070.</p>  </acqinfo>
+  <arrangement id="aspace_4e27f95a86bbbd3d57c8e7eb3e253f4b">
+    <head>Arrangement</head>
+<p>This collection is arranged in one series in the order in which it was received.</p>  </arrangement>
+  <bioghist id="aspace_9d1292edfb23c07faec1b6c504945646">
+    <head>Biographical / Historical</head>
+<p>Tufts Dining Action Coalition is a student organization founded in early 2018 in response to Tufts dining workers' efforts to unionize. Tufts Dining Action Coalition supported the dining workers by organizing events in support of unionization and contract negotiation efforts and educating other Tufts students about the dining workers' campaign. </p><p>Tufts Dining Action Coalition actions included organizing rallies, pickets, and worker speak-outs; phone banks to Tufts administrators; speaking out at an alumni event; placing banners around campus; and organizing in solidarity with other labor actions in the Boston area. Specific issues that Tufts Dining Action Coalition and dining workers focused on were healthcare, respect in the workplace, and freedom from discrimination and exploitation.</p><p>In October 2019, Tufts Dining Action Coalition joined the Tufts Activism Coalition, an umbrella organization formed to coordinate activities and share organizational tools.</p>  </bioghist>
+  <prefercite id="aspace_abdb488576fa9c0c7b29b856cf4587ef">
+    <head>Preferred Citation</head>
+<p>Tufts Dining Action Coalition Records, circa 2018 -- 2019. Tufts University. Digital Collections and Archives. Medford, MA.</p>  </prefercite>
+  <processinfo id="aspace_9d9cbe90a11a06da73fc508658613153">
+    <head>Processing Information</head>
+<p>This collection was processed by Records and Accessioning Archivist Jane Kelly in Spring 2020.</p>  </processinfo>
+  <scopecontent id="aspace_5cf6add5b25230ed744a4cc2616c303e">
+    <head>Content Description</head>
+<p>This collection contains records of the Tufts Dining Action Coalition (TDAC) and includes buttons, fliers, news articles, notes, and an organizing notebook. The records date from 2018 to 2019.</p>  </scopecontent>
+  <userestrict id="aspace_f28d960eee1752e8657ad3aa6b35ada4">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Any intellectual property rights that the donor possesses have not been transferred to Tufts University.</p>  </userestrict>
+  <accessrestrict id="aspace_19f5b195830e127e29df509974b40dac">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <controlaccess>
+    <subject source="local">Student activism</subject>
+    <subject authfilenumber="sh 85123969" source="lcsh">Social justice</subject>
+    <subject source="local">University history</subject>
+    <corpname rules="dacs" source="local">Tufts Dining Action Coalition</corpname>
+  </controlaccess>
+  <dsc><c id="aspace_d1e2c4d198031fb907e0288af300c59a" level="series"><did><unittitle>Tufts Dining Action Coalition records</unittitle><unitid>MS259.000001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent></physdesc><unitdate normal="2018/2019" type="inclusive">2018 -- 2019</unitdate></did><accessrestrict id="aspace_152c0c3988b72c163f30ed53b3ba126a"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_239f606ad46061df5d2d49f58a7c7bbb" level="file"><did><unittitle>Union organizing notes</unittitle><unitid>MS259.000002</unitid><unitdate normal="2018/2019" type="inclusive">2018 -- 2019</unitdate><container altrender="Half letter size document box" id="aspace_43283e4c1f18716759fe0065f8c06e08" label="Text [309090017902913]" type="box">1</container><container id="aspace_d3da562e477ee695d54c8c823c03cf99" parent="aspace_43283e4c1f18716759fe0065f8c06e08" type="folder">1</container></did><accessrestrict id="aspace_a5267b38085c042225683617cc3bafb1"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_f4fdd5dbb78c55fff6508108cdaa304f" level="file"><did><unittitle>Fliers and buttons</unittitle><unitid>MS259.000003</unitid><unitdate normal="2018/2019" type="inclusive">2018 -- 2019</unitdate><container altrender="Half letter size document box" id="aspace_b2f5a7b4139439ce6bfc47a816b70f76" label="Mixed Materials [309090017902913]" type="box">1</container><container id="aspace_c8ef9c407cd5cd24cb57d013b5aa4e9c" parent="aspace_b2f5a7b4139439ce6bfc47a816b70f76" type="folder">2</container></did><accessrestrict id="aspace_9fb15f504b7aedea209f95dc8cbb5487"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_a4cd869f428955317ce72ea3d1e667bb" level="file"><did><unittitle>News coverage</unittitle><unitid>MS259.000004</unitid><unitdate normal="2018-08/2019-03" type="inclusive">August 2018 -- March 2019</unitdate><container altrender="Half letter size document box" id="aspace_6e349f35de2ee43bd8aba62e105d489b" label="Text [309090017902913]" type="box">1</container><container id="aspace_0d557f4a6ae2a561888eb1bc75eda51b" parent="aspace_6e349f35de2ee43bd8aba62e105d489b" type="folder">3</container></did><accessrestrict id="aspace_527c70fa5ede8b98accb4e0bf9ed23e4"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_f7ec65bb924976dee8fedf4c1ba67260"><head>Scope and Contents</head><p>Contains the following issues: The Somerville Times, March 6, 2019 and The Tufts Daily, August 29, 2018; January 24, 2019; February 7, 2019; March 4, 2019; March 5, 2019; March 6, 2019. Please note that the August 29, 2018 and January 24, 2019 issues are not available as part of UP029, the Tufts Daily collection.</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>

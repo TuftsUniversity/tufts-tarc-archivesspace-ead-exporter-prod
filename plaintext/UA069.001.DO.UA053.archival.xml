@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/48247">UA053</eadid><filedesc><titlestmt><titleproper>Black Cultural Center Seminar at Tufts Records<num>UA053</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 18:16:37 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Black Cultural Center Seminar at Tufts Records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Africana Center</corpname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Center for Interdisciplinary Studies</corpname>
+    </origination>
+    <unitid>UA053</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.2 Linear Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1997/2004" type="inclusive">1990 -- 2000</unitdate>
+    <langmaterial id="aspace_dc5a2bb748113209eb94dfcb6b1e311a">English</langmaterial>
+  </did>
+  <arrangement id="aspace_93274dd83d10e8a95aef4f6cf4c85593">
+    <head>Arrangement</head>
+<p>The collection consists of 1 series: Unprocessed Accessions.</p>  </arrangement>
+  <acqinfo id="aspace_767a7d7ac10feb8e694a185e4cb7abb4">
+    <head>Immediate Source of Acquisition</head>
+<p>This collection was donated by Jeanne Penvenne.</p>  </acqinfo>
+  <bioghist id="aspace_e3c8635f12f64168e3151b943bfd415a">
+    <head>Biographical / Historical</head>
+<p>Founded in 1969, the Africana Center was developed in recognition of the realities of the needs and concerns of the students of African descent on a predominately white campus. The Center works to enhance the academic mission of the university by ensuring that students of African descent have access to a variety of academic, cultural and student resources that encourages them to have a successful Tufts experience and prepares them to be leaders for a wide range of professional experiences. In addition, the Center works to ensure that students have access to all necessary resources, advises the administrative and academic offices of the university on such issues and advocates proactively for students. The Africana Center is Located at 8 Professors Row on the 1st Floor. The second and third floors of the building serve as a living and learning space (Capen House) for fifteen undergraduates who reside in the house during the academic year. These students are selected each year to live in the dorm and work as a community to complete individual and group projects which celebrate the rich cultural heritage of people of African descent.</p>  </bioghist>
+  <processinfo id="aspace_982cd3aaeed89bb144a3c51354a4a170">
+    <head>Processing status</head>
+<p>This collection is mimimally processed.</p>  </processinfo>
+  <scopecontent id="aspace_8b0b8d34ddfacba1990af295d2fa8505">
+    <head>Scope and Contents</head>
+<p>This collection contains materials related to the Black Cultural Center Seminars at Tufts and includes correspondences, clippings, fliers, notes, posters, committee meetings minutes, and administrative materials.</p>  </scopecontent>
+  <accessrestrict id="aspace_890528a480adb309a2fe5a720a5f4ed2">
+    <head>Conditions Governing Access</head>
+<p>Records containing information related to student education, staff and faculty employment, and Board of Trustees records are closed for 75 years from the date of creation.</p><p>This collection may require review before it is available for use. Please contact DCA for further details</p>  </accessrestrict>
+  <userestrict id="aspace_2f1a378ac2e50ed94e34d59419eeefcb">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Copyright to all materials created by Tufts University employees in the course of their work is held by the Trustees of Tufts University.</p>  </userestrict>
+  <relatedmaterial id="aspace_951bd1f4de4ae5f679dd160556d31970">
+    <head>Related Materials</head>
+<p>Related materials can be found in UA035, Tufts African Forum Records.</p>  </relatedmaterial>
+  <controlaccess>
+    <subject source="local">Curriculum and Instruction -- Student Work</subject>
+  </controlaccess>
+  <dsc><c id="aspace_94962fb8f9657004cddbd7a61f72c58f" level="series"><did><unittitle>Additional accessions</unittitle><unitid>UA053.001</unitid><unitdate normal="1990/2000" type="inclusive">1990-2000</unitdate></did><c id="aspace_a5860868141d890e5c7ba17f182a94f2" level="file"><did><unittitle>Jeanne Penvenne Subject Files</unittitle><unitid>UA053-001</unitid><unitdate certainty="approximate" normal="1990/2000" type="inclusive">1990 -- 2000</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_1b07210b258d1e9faa1e02b657028d0d" label="Mixed Materials [39090017915634]" type="box">1</container></did><accessrestrict id="aspace_8fa0fed43697d057805f44c8f23f8715"><head>Conditions Governing Access</head><p>20 years from date of creation.</p></accessrestrict><scopecontent id="aspace_2d59cced7876c8383862cd6c2622c8b6"><head>Scope and Contents</head><p>Materials received from Jeanne Penvenne along with materials on Tufts Africa Forum (UA035); no accession information available--vam 2008-03-07; Date range is an approximation made during migration.</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>

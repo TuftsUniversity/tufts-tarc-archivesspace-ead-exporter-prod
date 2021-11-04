@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/DV140795S">MS272</eadid><filedesc><titlestmt><titleproper>Sunrise Tufts Records<num>MS272</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-08-14 10:18:11 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Sunrise Tufts Records</unittitle>
+    <unitid>MS272</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">54.1 Megabytes</extent>
+    </physdesc>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent>
+      <extent altrender="carrier">1 digital object comprising 27 files.</extent>
+    </physdesc>
+    <unitdate normal="2019/2021" type="inclusive">2019 -- 2021</unitdate>
+    <abstract id="aspace_2f6cf0d546f5197e8ea0a2e6d152bba3">This collection contains fliers, posters, strategic planning and resource documents, songs and chants, and related internal documents created by Sunrise Tufts.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_1a31df60a5c14d0c4e2d2407710c2895">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <arrangement id="aspace_a93cdbc94bb4c63bf6a626af72249c88">
+    <head>Arrangement</head>
+<p>This collection is arranged in one series, 2021 accessions.</p>  </arrangement>
+  <scopecontent id="aspace_cb753abbfd36ab69db7a66dae8ff82c3">
+    <head>Scope and Contents</head>
+<p>This collection contains fliers, posters, strategic planning and resource documents, songs and chants, and related internal documents created by Sunrise Tufts.</p>  </scopecontent>
+  <userestrict id="aspace_54fbd775ff4791884107baaa21818772">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Any intellectual property rights that the donor possesses have not been transferred to Tufts University.</p>  </userestrict>
+  <acqinfo id="aspace_2b0fb0d350aedf8551e804fe09f8f29e">
+    <head>Immediate Source of Acquisition</head>
+<p>Transferred by Rebeca Becdach, accession MS-2021-046, 2021.</p>  </acqinfo>
+  <prefercite id="aspace_ababed0862689337dbfba4a90428a47c">
+    <head>Preferred Citation</head>
+<p>Sunrise Tufts Records, 2019 -- 2021. Tufts University. Digital Collections and Archives. Medford, MA.</p>  </prefercite>
+  <processinfo id="aspace_1f7d7c8e78ea5b60f8c8a962f7b1fa7d">
+    <head>Processing Information</head>
+<p>This collection was processed by Records and Accesioning Archivist, Jane Kelly, in May 2021. Materials were bagged using Bagger and copied to Box for access. Series and collection-level description were updated at the time of processing.</p>  </processinfo>
+  <bioghist id="aspace_d4acc3d0fc50f8108b402ba6edf7a285">
+    <head>Biographical / Historical</head>
+<p>Sunrise Tufts was founded in 2019 as one of The Sunrise Movement's hubs working to replace systems responsible for the climate crisis with the Green New Deal, proposals calling for public policy to address climate change and reduce economic equality. The Sunrise Movement is a youth movement that aims to stop climate change and create jobs in the process.</p><p>At Tufts, Sunrise Tufts organized students for the Boston Climate Strikes  in 2019, a worldwide youth-led initiative that called for a week of action to address the climate crisis that coincided with the United Nations Climate Action Summit. The group also addressed corruption in the Massachusetts Statehouse, organized an anti-oppression book club, promoted anti-racism in its movement spaces, and helped shape Sunrise's national strategy.  Other priorities included pressuring Tufts to address its participation in system ic racism, mobilizing students around the Green New Deal, and endorsing and supporting progressive leaders in the United States Congress and Massachusetts state legislature.</p>  </bioghist>
+  <controlaccess>
+    <subject source="local">Student activism</subject>
+    <subject source="local">Student life</subject>
+  </controlaccess>
+  <dsc><c id="aspace_e4d8546d54e62ce4301f5890559ca907" level="series"><did><unittitle>2021 accessions</unittitle><unitid>MS272.000003</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">54.1 Megabytes</extent></physdesc><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent><extent altrender="carrier">1 digital object comprising 27 files.</extent></physdesc><unitdate normal="2019/2021" type="inclusive">2019 -- 2021</unitdate></did><accessrestrict id="aspace_6a350a207c14ede0bc92fe18bca2a60f"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><acqinfo id="aspace_55ef1d65791d610d1bd3dce562498288"><head>Immediate Source of Acquisition</head><p>Transferred by Rebeca Becdach, accession MS-2021-046, 2021.</p></acqinfo><arrangement id="aspace_6182c021e91915d24ec0f974e7848491"><head>Arrangement</head><p>This series is arranged in received order.</p></arrangement><processinfo id="aspace_75779034648d2055adcf017dbcdde891"><head>Processing Information</head><p>This series was processed by Records and Accesioning Archivist, Jane Kelly, in May 2021. Materials were bagged using Bagger and copied to Box for access. Series and collection-level description were updated at the time of processing.</p></processinfo><scopecontent id="aspace_4625515e6ff7fc6beee04fdd7dccb5ee"><head>Scope and Contents</head><p>This series contains fliers, posters, strategic planning and resource documents, songs and chants, and related internal documents created by Sunrise Tufts.</p></scopecontent><c id="aspace_812b58a84aba0c515c3e8cd2f2c8a39d" level="file"><did><unittitle>Sunrise Tufts records</unittitle><unitid>MS272.000004</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">54.1 Megabytes</extent></physdesc><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Digital Object(s)</extent><extent altrender="carrier">1 digital object comprising 27 files.</extent></physdesc><unitdate normal="2019/2021" type="inclusive">2019 -- 2021</unitdate></did><accessrestrict id="aspace_55764c4583d2f48ae5bb2c0e1834bd05"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>

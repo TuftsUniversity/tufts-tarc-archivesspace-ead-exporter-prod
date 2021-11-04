@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/48201">MS100</eadid><filedesc><titlestmt><titleproper>Zebulon White Manuscript "On National Greatness"<num>MS100</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 19:01:55 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Zebulon White Manuscript "On National Greatness"</unittitle>
+    <origination label="Creator">
+      <persname source="local">White, Zebulon Lewis</persname>
+    </origination>
+    <unitid>MS100</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">1 letter half size document box
+</extent>
+    </physdesc>
+    <unitdate normal="1872/1889" type="inclusive">1872 -- 1889</unitdate>
+    <langmaterial id="aspace_a8c6501271964b17cea8757dbc8f2a7e">English.</langmaterial>
+  </did>
+  <bioghist id="aspace_e121d81be5d7d2e58fb755ceae838bfc">
+    <head>Biographical / Historical</head>
+<p>Zebulon Lewis White was born on July 23, 1842 and received an A. B. from Tufts in 1866. He worked as a teacher from 1866-1867 and then as journalist, for example for the Galveston Daily News, Texas, in the 1870s. He served as a Trustee at Tufts from 1872 to 1889 and died on January 1, 1889 in the Bahamas.</p>  </bioghist>
+  <processinfo id="aspace_4615dc3b2b8e97d8f075c984aefb0b2c">
+    <head>Processing status</head>
+<p>This collection is processed.</p>  </processinfo>
+  <scopecontent id="aspace_f6eef038d07b970ff49d28db08a24d06">
+    <head>Scope and Contents</head>
+<p>This collection contains an essay written by Zebulon White titled "The Sources of National Greatness." It discusses how the United States should draw on lessons from Western history and from religious institutions to achieve national greatness.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="local">Alumni collections</subject>
+  </controlaccess>
+  <dsc><c id="aspace_716d70993d976334295c3f477bebd9e8" level="series"><did><unittitle>Zebulon White papers</unittitle><unitid>MS100.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Volumes</extent></physdesc><unitdate normal="1872/1889" type="inclusive">1872 -- 1889</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><accessrestrict id="aspace_97b6fa4428da9401258a17514750340f"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_af595171df6aa031b235dac9a81699b0" level="file"><did><unittitle>Zebulon White papers</unittitle><unitid>MS100.001.GB</unitid><unitdate normal="1872/1889" type="inclusive">1872 -- 1889</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_38cbafb67b19a244d62db5901247fedf" label="Mixed Materials [39090017911344]" type="box">1</container></did><accessrestrict id="aspace_fc2f312db5e888374a1a378c55f58563"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_c6c1a81703d2b97bd98b67c834c83846"><head>Scope and Contents</head><p>former barcode 39090011510225g</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>

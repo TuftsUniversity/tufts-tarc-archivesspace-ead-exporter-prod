@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/010699">MS233</eadid><filedesc><titlestmt><titleproper>Henry Delfiner Papers<num>MS233</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-08-14 18:28:59 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Henry Delfiner Papers</unittitle>
+    <origination label="Creator">
+      <persname authfilenumber="no2005083250" rules="rda" source="naf">Delfiner, Henry</persname>
+    </origination>
+    <unitid>MS233</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4.8 Linear Feet</extent>
+      <extent altrender="carrier">4 record cartons</extent>
+    </physdesc>
+    <unitdate certainty="approximate" normal="1950/2015" type="inclusive">circa 1950 -- 2015</unitdate>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_2699b528219a202c860131c232747b7b">
+    <head>Conditions Governing Access</head>
+<p>This collection contains some restricted material. Restrictions related to specific material are listed in the detailed contents list.</p><p>This collection may require review before it is available for use. Please contact DCA for further details.</p>  </accessrestrict>
+  <acqinfo id="aspace_475f69419fcf02ffc642c3f04392a32d">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Barbara Delfiner, 2017, accession number MS-2017-038.</p>  </acqinfo>
+  <arrangement id="aspace_49a5bcb237a3f455e2450e63bc14a528">
+    <head>Arrangement</head>
+<p>The order of records at the time of transfer - which separated writing, coursework, research, and correspondence from teaching and course materials - has been maintained.</p>  </arrangement>
+  <bioghist id="aspace_b2b8644e0365e614bd737f12f76585a1">
+    <head>Biographical / Historical</head>
+<p>Henry Delfiner was born in 1922 in Vienna, Austria and came to the United States in 1938. After graduating from Amherst College in 1943, he served in the 88th Infantry Division of the United States Army. Delfiner received a PhD from the Tufts Fletcher School of Law and Diplomacy in 1962, and later taught at Tufts University in the Experimental College as a professor of International Relations. He developed his own course, called "Understanding International News." Delfiner also taught at Boston University and the University of Wisconsin, and wrote numerous articles and reviews on the political climates of central Europe and the Soviet Union, especially as related to antisemitism. Delfiner died in 2016.</p>  </bioghist>
+  <prefercite id="aspace_a292ee73b552a24f4ca8bae4b903ed26">
+    <head>Preferred Citation</head>
+<p>Henry Delfiner papers, 1950-2015. Tufts University. Digital Collections and Archives. Medford, MA.</p>  </prefercite>
+  <processinfo id="aspace_164b28e4f4f804d08203e2e0deb5e4fa">
+    <head>Processing Information</head>
+<p>Processing performed by Leah Edelman in 2017. Materials were placed in archival boxes, and loose materials were placed in folders where needed. Received order was maintained. A finding aid with box-level inventory was created.   </p>  </processinfo>
+  <scopecontent id="aspace_8d18a974484ae4d2e24d0ed78dfdb2df">
+    <head>Scope and Contents</head>
+<p>This collection documents Henry Delfiner's career as a professor and academic. His papers include coursework and his PhD thesis from Tufts University's Fletcher School of Law and Diplomacy;  published and unpublished journal articles, reviews, and manuscripts; research notes and bibliographies; and correspondence. His papers also include teaching materials related to courses at the Experimental College at Tufts University, Boston University, and the University of Wisconsin. Teaching materials consist of course approvals, lecture notes, syllabi, student papers and exams, files related to job searches at academic institutions, and a Umatic tape labeled "Tufts Class of May 2 1977." Delfiner's course at the Experimental College, "Understanding International News," was based on current events, so materials for that course contain newsclippings and articles from well-known publications such as the <emph render="italic">New York Times</emph>, largely on topics related to the Middle East and Israel, often appearing with Delfiner's notes.</p>  </scopecontent>
+  <userestrict id="aspace_f6157523e7f933f37dd248ec9153b28d">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish.</p><p>Any intellectual property rights that the donor possesses have been transferred to Tufts University</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Tufts University -- History</subject>
+    <subject source="local">Antisemitism</subject>
+    <subject source="local">Experimental College</subject>
+    <subject source="local">University history</subject>
+    <subject source="local">Alumni collections</subject>
+    <subject source="local">Faculty papers</subject>
+    <subject source="local">Teaching and learning</subject>
+  </controlaccess>
+  <dsc><c id="aspace_d041dc2ed83992948ae6cfd26eb36039" level="series"><did><unittitle>Henry Delfiner papers</unittitle><unitid>MS233.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">4.8 Linear Feet</extent><extent altrender="carrier">4 record cartons</extent></physdesc><unitdate normal="1951/2015" type="inclusive">1951 -- 2015</unitdate></did><arrangement id="aspace_46f6d64ba7839ef9ec2d5310c33b2353"><head>Arrangement</head><p>This series maintains original order.</p></arrangement><accessrestrict id="aspace_fb8c6584c1b260b0ce3a3829e36c8d0e"><head>Conditions Governing Access</head><p>This series contains some restricted material. Restrictions related to specific material are listed in the detailed contents list.</p></accessrestrict><scopecontent id="aspace_efa7a3b64c70a08c62168f43f5d5bd97"><head>Scope and Contents</head><p>This series includes writings, coursework, research, correspondence, and teaching and course materials.</p></scopecontent><c id="aspace_d9a4d1086c9c6330139423d5738de007" level="file"><did><unittitle>Writing, coursework, research, correspondence</unittitle><unitid>MS233.001.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.2 Linear Feet</extent><extent altrender="carrier">1 record carton</extent></physdesc><unitdate normal="1951/2015" type="inclusive">1951 -- 2015</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_8f35b26d7051cbaa95a4310d1ee77436" label="Text [IM 991177345]" type="box">1</container></did></c><c id="aspace_d7a80ba40104ade60ac0d4a515db6923" level="file"><did><unittitle>Teaching and course materials</unittitle><unitid>MS233.001.002</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">3.6 Linear Feet</extent><extent altrender="carrier">3 record cartons</extent></physdesc><unitdate certainty="approximate" normal="1966/2011" type="inclusive">circa 1966 -- 2011</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_d2dec2aaab05c71978dcaa08443c3c56" label="Text [IM 991177346]" type="box">2</container><container id="aspace_c11279887ad20dfe7b81c97a661e7ff4" label="Text [IM 991177347]" type="box">3</container><container id="aspace_d3c4c2695c5550d8cdab852d5a0f3132" label="Text [IM 991177348]" type="box">4</container></did><accessrestrict id="aspace_727e05ae5f251e9045e46cf7e278d89c"><head>Conditions Governing Access</head><p>Records containing information related to student education, staff and faculty employment, and Board of Trustees records are closed for 75 years from the date of creation.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>

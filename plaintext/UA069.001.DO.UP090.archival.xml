@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/14570">UP090</eadid><filedesc><titlestmt><titleproper>College of Engineering, Engineering News<num>UP090</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 19:06:27 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>College of Engineering, Engineering News</unittitle>
+    <origination label="Creator">
+      <corpname source="local">School of Engineering</corpname>
+    </origination>
+    <unitid>UP090</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+    </physdesc>
+    <unitdate normal="1981/1993" type="inclusive">1981 -- 1993</unitdate>
+    <langmaterial id="aspace_67403a553819fdb459cc0b37c1c5e450">English</langmaterial>
+  </did>
+  <arrangement id="aspace_0eee96cc7ef52ec3f4c0508df1fefb4e">
+    <head>Arrangement</head>
+<p>This collection is organized into one series.</p>  </arrangement>
+  <scopecontent id="aspace_36e67c31f51002b9fc1509ee0cdc0fb1">
+    <head>Scope and Contents</head>
+<p>This collection contains the semi-annual publication of Tufts University College of Engineering from 1981 to 1993.  Articles on research, programs, students, faculty and alumni of the College of Engineering.</p>  </scopecontent>
+  <bioghist id="aspace_1e8b2edfd475dfef3cf87e555f3146f5">
+    <head>Biographical / Historical</head>
+<p> In 1865 Tufts College began a three-year degree program in civil engineering. The Departments of Electrical and Chemical Engineering were later established in 1890, with chemistry labs initially located in Ballou Hall. The School of Engineering was officially established as a distinct school within Tufts College in 1898. Engineering continued to be differentiated from other academic disciplines within Tufts College in 1902, when the Faculty of Arts and Sciences was established with Engineering as a constituent faculty. </p>
+
+<p>In 1922, Edith Linwood Bush, a Tufts alumna, was made an assistant professor of mathematics and therefore became the first female College of Engineering faculty member. In 1943, the first female student graduated from the College of Engineering. </p>
+
+<p>In 1944, the Medford reservoir was drained and dismantled, and recycled bricks were put to use in the construction of new engineering buildings. Among these was the Charles D. Bray Laboratory of Mechanical Engineering, named in 1946 in honor of the first Tufts faculty member to have an academic title containing the words "mechanical engineering." </p>
+
+<p>In 1992, the Gordon Institute became part of Tufts University. Founded in 1984 by Bernard Gordon as the first organization dedicated to training engineering managers and leaders, the Gordon Institute offers graduate degrees in Engineering Management and Innovation and Management, as well as undergraduate programs in Engineering Management and Entrepreneurial Leadership. </p>
+
+<p> In 2004, the Tissue Engineering Resource Center (TERC) was established within the department of Biomedical Engineering with funds from the National Institute of Health. TERC, which also has a partner institute at Columbia University, works to engineer human tissues for medical research. </p>
+
+<p>As of 2015, the School of Engineering contains six academic departments, the Tufts Gordon Institute, and the Center for Engineering Education and Outreach.</p>
+  </bioghist>
+  <processinfo id="aspace_4afa2161090546243168ad64aaff0140">
+    <head>Processing status</head>
+<p>This collection is processed and open for research</p>  </processinfo>
+  <dsc><c id="aspace_f8e50f6d75da59c0d67737e457479c41" level="series"><did><unittitle>College of Engineering, Engineering News</unittitle><unitid>UP090.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent></physdesc><unitdate normal="1981/1993" type="inclusive">1981 -- 1993</unitdate><unitdate normal="1981/1993" type="bulk">1981 -- 1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_fc3d368e3b827cb6b61540fbbc8ef491"><head>Scope and Contents</head><p>This series contains the semi-annual publication of Tufts University College of Engineering from 1981 to 1993.  Articles on research, programs, students, faculty and alumni of the College of Engineering.</p></scopecontent><arrangement id="aspace_e58e77cc5ee2b949fbdec0ff0e171143"><head>Arrangement</head><p>This series is arranged chronologically.</p></arrangement><accessrestrict id="aspace_f2334b2ad46c3913d54ff9d2c01869ac"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_b35557111097fb5111d522e684e041e8" level="file"><did><unittitle>College of Engineering, Engineering News</unittitle><unitid>UP090.001.001.00001</unitid><unitdate normal="1981/1993" type="inclusive">1981 -- 1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Half legal size document box" id="aspace_0db42314091435c2591aa1e8ba16be66" label="Mixed Materials [39090010626196]" type="box">1</container></did><accessrestrict id="aspace_c53766e2f145f1c43578a02f4e95589b"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c><c id="aspace_20d0a8948a92392dd5f116dccb808ab4" level="file"><did><unittitle>College of Engineering, Engineering News</unittitle><unitid>UP090.001.001.00002</unitid><unitdate normal="1981/1993" type="inclusive">1981 -- 1993</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Half legal size document box" id="aspace_2c248df735534da713b2852560b3df87" label="Mixed Materials [39090010626196]" type="box">1</container></did><accessrestrict id="aspace_cb63498903dd654cdb5c4c47540953b5"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>

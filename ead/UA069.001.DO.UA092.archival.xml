@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/48260">UA092</eadid><filedesc><titlestmt><titleproper>Tufts University European Center Records<num>UA092</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-08-14 08:38:20 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Tufts University European Center Records</unittitle>
+    <origination label="Creator">
+      <persname source="local">Mayer, Jean</persname>
+    </origination>
+    <origination label="Creator">
+      <corpname source="local">Tufts University European Center</corpname>
+    </origination>
+    <unitid>UA092</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">.4 Linear Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1978/2018" type="inclusive">1978 -- 2018</unitdate>
+    <langmaterial id="aspace_df45e935d8986d2c37bff10b416dd096">English</langmaterial>
+  </did>
+  <arrangement id="aspace_e9bbb8bf1d0be92965aca5692c310228">
+    <head>Arrangement</head>
+<p>This collection is organized into one series: Publications and reports.</p>  </arrangement>
+  <scopecontent id="aspace_89f44d79873f70aa34d6d987817a064f">
+    <head>Scope and Contents</head>
+<p>This collection contains reports, guides, and brochures created by the Tufts University European Center.</p>  </scopecontent>
+  <bioghist id="aspace_e750a23a71873fc9a0a137b2f2d486bd">
+    <head>Biographical / Historical</head>
+<p>Charlotte Blensdorf MacJannet (1901-1999) was the wife of Tufts alum and benefactor Donald Ross MacJannet (1894-1986). The MacJannets were educators who operated their own international schools and camps. In 1979 the MacJannets generously donated their property, an 11th century monastery in Talloires, France, to Tufts for use as the Tufts Center for European Studies. In 1958, Charlotte MacJannet, looking for a facility where she could teach her movement classes, heard that the Priory was up for auction, and the couple managed to secure the property. Throughout the 1960s and into the 1970s, the MacJannets used the Priory to house educational sessions on eurythmics, as well as concerts and ecumenical conferences. Their promotion of international learning specifically extended to Tufts when they set up an endowment for an exchange program with the Fletcher School of Law and Diplomacy and the Graduate Institute of International Studies in Geneva. After his 80th birthday, Donald MacJannet began to think of the future of the Priory. Because of his strong allegiance to Tufts, he dreamed of seeing it as part of Tufts educational mission. On May 27, 1979, French Prime Minister Raymond Barre and a small group of academic, business and government figures joined Tufts President Jean Mayer in inaugurating the Tufts Center for European Studies. The 30-room masonry and stone structure, situated on an acre and a half of lawns and gardens overlooking Lake Annecy, prompted Mayer to emphasize Tufts special responsibility to be imaginative and wise stewards of this historic and beautiful building, and of the tradition it represents. Seymour Simches, then the John Wade Professor of Modern Languages, was named administrative director of the Center. Professor Emeritus John Gibson, founder of the Tufts International Relations program, and historian Pierre-Henri Laurent envisioned a modest four-week academic program with classes in history and international relations, combined with field trips to Geneva.</p>  </bioghist>
+  <processinfo id="aspace_b5f8481344f97d37b0097ba68f728a73">
+    <head>Processing status</head>
+<p>This collection is minimally processed.</p>  </processinfo>
+  <accessrestrict id="aspace_7fc1bff7d20784aa3ca82cbb78d4106f">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research. This collection may require review before it is available for use. Please contact DCA for further details.</p>  </accessrestrict>
+  <userestrict id="aspace_9ffd2bcd1e3408bacf746d416d9f02b3">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Copyright to all materials created by Tufts University employees in the course of their work is held by the Trustees of Tufts University.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Curriculum and Instruction -- Academic Centers and Institutes</subject>
+  </controlaccess>
+  <dsc><c id="aspace_5b2d3160da8c4ceb690560121dea0c87" level="series"><did><unittitle>Publications and reports</unittitle><unitid>UA092.001</unitid><unitdate normal="1978/2018" type="inclusive">1978 -- 2018</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><c id="aspace_d0e6a65e85d26131d1d540aeddba41f9" level="file"><did><unittitle>European Center, pamphlets, reports, and guides</unittitle><unitid>UA092-001</unitid><unitdate normal="1978/2018" type="inclusive">1978 -- 2018</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_b7c8af7f4a2588a46b2008ebebc3c2cf" label="Mixed Materials [39090017916863]" type="box">1</container></did><accessrestrict id="aspace_9863d6d1ce77b6dc8c5f6f03a3ed32d0"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>

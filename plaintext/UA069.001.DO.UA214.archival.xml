@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/003684">UA214</eadid><filedesc><titlestmt><titleproper>Civilian Pilot Training Program (CPTP) Records<num>UA214</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 18:56:15 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Civilian Pilot Training Program (CPTP) Records</unittitle>
+    <origination label="Creator">
+      <corpname source="local">Civilian Pilot Training Program</corpname>
+    </origination>
+    <unitid>UA214</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.45 Linear Feet</extent>
+      <extent altrender="carrier">1 box</extent>
+    </physdesc>
+    <unitdate normal="1942/1943" type="inclusive">1942 -- 1943</unitdate>
+    <langmaterial id="aspace_a96cac1c1140987e88f79adabd11505b">English</langmaterial>
+  </did>
+  <arrangement id="aspace_1a73b073907a6f2c071752d9f3bb1fee">
+    <head>Arrangement</head>
+<p>This collection is organized into one series: Student Index Cards.</p>  </arrangement>
+  <custodhist id="aspace_ab71f5c9cc3f4a0ba943ee6645b41ac7">
+    <head>Custodial History</head>
+<p>The card index was found in the basement vault of Ballou Hall in the summer of 2010 and transferred to DCA.</p>  </custodhist>
+  <processinfo id="aspace_8cc16751d8ecf78c2cf6663e86095b78">
+    <head>Processing Information</head>
+<p>Each sub-index is arranged alphabetically.</p>  </processinfo>
+  <scopecontent id="aspace_a6cf02521bdaaf34465c0090f8349efe">
+    <head>Scope and Contents</head>
+<p>This collection contains student index cards from 1942-1943 including small sections of students killed, missing, imprisoned, and taking part in the helicopter program. Cards typically contain name of student, address, date, and sometimes whether the student had passed CAA, was waiting for the next screening, took what course when, as well as membership in Army/Navy; most cards are mental examination registration cards labeled 'CPT' (Civilian Pilot Training) Tufts College.</p>  </scopecontent>
+  <relatedmaterial id="aspace_f3a5403de78597b5f9a2a537e33e8445">
+    <head>Related Materials</head>
+<p>UA001.009.003.00005: Civil Aeronautics Administration, DCA</p><p>UA007.001.003.00003: Civilian Pilot Training, DCA</p>  </relatedmaterial>
+  <bioghist id="aspace_d06c58a6131f106d8d034db2d85af512">
+    <head>Biographical / Historical</head>
+<p>Nationwide, the CPTP existed from 1938-1944 as a civilian program to train civilian pilots that, however, clearly intended to  increase the number of potential pilots in the case of war - several European nations had already instigated similar government sponsored programs. Until summer of 1944, CPTP and WTS trained "435,165 people, including hundreds of women and African Americans."</p>
+<p>With the military less than enthusiastic and Congress split on partly lines, the Civil Aeronautics Act of 1938 authorized and funded a trial program which President Franklin D. Roosevelt announced on December 27, 1938 promising to fund pilot training for up to 20,000 college students a year. CPTP began in 1939 offering 72 hours ground school course plus 35  to 50 hours of flight instructions "at facilities located near eleven colleges and universities."</p>
+<p>Once World War II was declared after the Polish invasion by National Socialists, the 'military value of the CPTP became obvious, even to the program's detractors. The United States started to evaluate its ability to fight an air war and the results were appalling. Pilots, instructors, and training aircraft were all in short supply. Acknowledging the shortage of trained pilots, both the U. S. Army and Navy reluctantly waived certain 'elimination' courses for CPTP graduates and allowed them to proceed directly into pilot training. The Army Air corps deemed the situation to be so grave it proposed that private aviation be suspended and all pilot training (most notably the CPTP) be brought under the control of the military." Private companies organized the National Aviation Training Association and successfully lobbied against the Army's efforts. </p>
+<p>In consequence, CPTP was expanded and within a couple of years "1,132 educational institutions and 1,469 flight schools were participating in the CPTP." Since this included several African American colleges, CPTP was integral to train African American pilots who went on to serve as officers and pilots in the U.S. Army Air Corps. In consequence of a dearth of training aircrafts of particular types, the aircraft industry quickly expanded their production.</p>
+<p>With the U. S. entering World War II, the CPTP was renamed the War Training Service (WTS) 'and, from 1942 to 1944, served primarily as the screening program for potential pilot candidates. Students still attended classes at colleges and universities and flight training was still conducted by private flight schools, but all WTS graduates were required to sign a contract egreeing to enter the military following graduation."</p>
+<p>The CPTP program at Tufts started in fall of 1939 and 30 Tufts students completed the primary course in the first year. CPTP apparently was referred to as the C.A.A. (Civil Aeronatics Authority) at Tufts. As of November 27 1941, women could only take the primary course of C.A.A./CPTP. Tufts also organized elementary Civilian Pilot Training courses for men who were ineligible for Army combat piloting but were interested in becoming service pilots, liaison pilots, glider pilots, or instructors in the Air Corps whereas it declined participation in the Civial Aeronatucis Administration for aeronautical training of teachers because the university was taxed to is capacity in training men for the Army and Navy (correspondence between Leonard Carmichael and Bruce Uthus, Jan/Feb 1943). </p>
+<p>For Tufts related records see: UA001.009.003.00005:Civil Aeronautics Administration and UA007.001.003.00003: Civilian Pilot Training; as well as The Tufts Weekly (see e.g. TW November 27, 1941, p. 1).  </p>  </bioghist>
+  <processinfo id="aspace_ea1b75b445c5106eccf29adc3abeebb3">
+    <head>Processing status</head>
+<p>This collection is processed.</p>  </processinfo>
+  <accessrestrict id="aspace_1527ca0a57ce8d62ebd5214fef88a8a0">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <userestrict id="aspace_b8f4b7bd5905fbfad029eacd373385a2">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Copyright to all materials created by Tufts University employees in the course of their work is held by the Trustees of Tufts University.</p>  </userestrict>
+  <controlaccess>
+    <subject source="local">Student activities</subject>
+  </controlaccess>
+  <dsc><c id="aspace_7482f12defb029279fa76c340962cfc0" level="series"><did><unittitle>Student Index Cards</unittitle><unitid>UA214.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent></physdesc><unitdate normal="1942/1943" type="inclusive">1942 -- 1943</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_ee01bdcc7e5664398cd47b57c863d0ac"><head>Scope and Contents</head><p>This collection contains student index cards from 1942-1943 including small sub-sections of students killed, missing, imprisoned, and taking part in the helicopter program. Cards typically contain name of student, address, date, and sometimes whether the student had passed CAA, was waiting for the next screening, took which course when, as well as membership in Army/Navy; most cards are mental examination registration cards CPT (Civilian Pilot Training) Tufts College.</p></scopecontent><arrangement id="aspace_ad6407add1d7e3498e19a062abd78619"><head>Arrangement</head><p>The card index includes several sub-indices usually arranged alphabetically.</p></arrangement><accessrestrict id="aspace_44628eef4f0188d6ba3d71e90751398d"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_4a9bcd236e61b7ec545c97ce77b239a0" level="file"><did><unittitle>Civilian Pilot Training</unittitle><unitid>UA214.001.001</unitid><unitdate normal="1942/1943" type="inclusive">1942 -- 1943</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_7c351d24601eea1c83f09f27e489d7cd" label="Mixed Materials [39090015521590]" type="box">1</container></did><accessrestrict id="aspace_4ec7316d31be07465612c0e0cb527636"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict></c></c></dsc>
+</archdesc>
+</ead>

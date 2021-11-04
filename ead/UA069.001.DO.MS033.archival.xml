@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/14654">MS033</eadid><filedesc><titlestmt><titleproper>Virginia Drury Papers<num>MS033</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 19:12:58 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Virginia Drury Papers</unittitle>
+    <origination label="Creator">
+      <persname source="local">Drury, Virginia</persname>
+    </origination>
+    <unitid>MS033</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+    </physdesc>
+    <unitdate normal="1925/1928" type="bulk">1925 -- 1928</unitdate>
+    <unitdate normal="1925/1930" type="inclusive">1925 -- 1930</unitdate>
+    <langmaterial id="aspace_9a661a53afea1dafc167b590340b8118">English</langmaterial>
+  </did>
+  <arrangement id="aspace_dc40a9a8ce17b77ebd0dfb2d265b06da">
+    <head>Arrangement</head>
+<p>This collection is organized into one series.</p>  </arrangement>
+  <custodhist id="aspace_88ead3c56e055c7fd5a0bcf08e3361b2">
+    <head>Custodial History</head>
+<p>Gift of Marian Schmuhl, J1967.</p>  </custodhist>
+  <scopecontent id="aspace_699414c42ed0a3790c940a902e2edee8">
+    <head>Scope and Contents</head>
+<p>The collection includes class material and memorabilia collected by Virginia Drury. This material includes cafeteria cards, class attendance cards, photographs, hygiene class attendance card, dance cards, playbills, and correspondence.</p>  </scopecontent>
+  <bioghist id="aspace_29808fcd4f770a6f5e00c4ea2a3e1438">
+    <head>Biographical / Historical</head>
+<p>Virginia "Gin" Drury (1907-1991), a native of Winthrop, Massachusetts, graduated from Jackson College in 1930 with a degree in French. As a student, Drury was a member of the Alpha Omicron Pi women's fraternity and participated in many campus activities such as field hockey, French Club, and Sociology Club. On June 28, 1931, Drury married Richard Clark Shipman, '31 in a ceremony at Tufts College.  The Shipmans lived in Lewistown, Montana, where they raised at least one son. Over the years Drury maintained her ties with Tufts making several donations to the college. Drury died in March 1991.</p>  </bioghist>
+  <processinfo id="aspace_d0324db2c2b0ca8ce5a457e155615268">
+    <head>Processing status</head>
+<p>This collection is processed.</p>  </processinfo>
+  <accessrestrict id="aspace_489f2626bf0e03ffd261b9dc72f35187">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <userestrict id="aspace_cc0073ccb086197ce328971d166b616e">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. No documentation is available regarding the intellectual property rights in this collection.</p>  </userestrict>
+  <controlaccess>
+    <title source="local">Drury, Virginia</title>
+    <subject source="local">Alumni and alumnae</subject>
+    <subject source="local">Alumni collections</subject>
+  </controlaccess>
+  <dsc><c id="aspace_778f20abc73bd3dd80e8466c6db413c3" level="series"><did><unittitle>Drury Campus Activities</unittitle><unitid>MS033.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent></physdesc><unitdate normal="1925/1930" type="inclusive">1925 -- 1930</unitdate><unitdate normal="1925/1927" type="bulk">1925 -- 1927</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_ca48860d2b3089d34873c97d3ce6ca89"><head>Scope and Contents</head><p>This series contains materials related to campus activities of Virginia Drury while at Tufts.</p></scopecontent><arrangement id="aspace_51e166b2c1ece747f3b4f63c98cce1c2"><head>Arrangement</head><p>This series is not arranged.</p></arrangement><accessrestrict id="aspace_879be8a2815359a549f7bbb6caf82e3e"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_6899c1ff0d4e4e5d7963810630db600b" level="file"><did><unittitle>Campus Activities 1</unittitle><unitid>MS033.001.001.00001</unitid><unitdate normal="1925/1930" type="inclusive">1925 -- 1930</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Half letter size document box" id="aspace_b9434eb538efc04c0299697fd6a39493" label="Mixed Materials [39090011539331]" type="box">1</container></did><accessrestrict id="aspace_5a8749c81630c31cfec9423afa4dffe5"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_73638b545025b1383de6ea969ca138bc"><head>Scope and Contents</head><p>includes dance cards, playbills, and correspondence</p></scopecontent></c><c id="aspace_9f5d611523501be3862feb589a573ada" level="file"><did><unittitle>Campus Activities 2</unittitle><unitid>MS033.001.001.00002</unitid><unitdate normal="1925/1930" type="inclusive">1925 -- 1930</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Half letter size document box" id="aspace_069bbaf5eaf0c09d21111feb768a9ffd" label="Mixed Materials [39090011539331]" type="box">1</container></did><accessrestrict id="aspace_801a261526ebe5e60b517a45137ff289"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_b4fcdcf1ab65d5e8bfcf384a5a8a3cc2"><head>Scope and Contents</head><p>includes cafeteria cards, class attendance cards, photographs, hygiene class attendance card and Registration Department's 1925 student housing list</p></scopecontent></c><c id="aspace_54f0b8681675c79d29f165761f45a112" level="file"><did><unittitle>Paper Objects</unittitle><unitid>MS033.001.001.00003</unitid><unitdate normal="1925/1930" type="inclusive">1925 -- 1930</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container altrender="Half letter size document box" id="aspace_51c979fa92d38a8669676b2b0b1281c4" label="Mixed Materials [39090011539331]" type="box">1</container></did><accessrestrict id="aspace_bb51b68a0d4c095ef5bae45bf8b33348"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_cd55ad5dab1b59f5399f81d8ab99e64e"><head>Scope and Contents</head><p>includes an invitation written on a paper cigarette, and a paper figure with a graduation cap and striped red/white shorts.</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>
