@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/012588">MS236</eadid><filedesc><titlestmt><titleproper>Sidney Lutzin Papers<num>MS236</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 19:26:44 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Sidney Lutzin Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Lutzin, Sidney</persname>
+    </origination>
+    <unitid>MS236</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      <extent altrender="carrier">1 document box, 1 oversize box, 1 oversize folder</extent>
+    </physdesc>
+    <unitdate certainty="approximate" normal="1931/1985" type="inclusive">circa 1931 -- 1985</unitdate>
+    <abstract id="aspace_331ba9a81f77edb7762cb189dd0f9c27">This collection contains diplomas and Tufts memorabilia created or collected by Sidney Lutzin, Tufts alumnus (A1935).</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_035111f6f844bb93451c4e24b01dadea">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research. Certain items in this collection are fragile and may require supervision while in use; restrictions related to specific material are listed in the detailed contents list.</p>  </accessrestrict>
+  <acqinfo id="aspace_49970679137899263d4ad604793fa7a8">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Muffy Lutzin, 2017, accession number MS-2017-055.</p>  </acqinfo>
+  <arrangement id="aspace_d65a50dde2349b42e9922e1e5db63c2b">
+    <head>Arrangement</head>
+<p>This collection is arranged by format. Original order was maintained where possible.</p>  </arrangement>
+  <bioghist id="aspace_37a6bb5547e8cc22e14aa4c1c7f87501">
+    <head>Biographical / Historical</head>
+<p>Sidney George Lutzin (1914-1999) was born in Kingston, New York, on July 17, 1914 to Philip Lutzin and Fannie Lutzin.  He matriculated to Tufts in the fall of 1931. During his time at Tufts, Lutzin served as the president for the Menorah Society, as well as the Treasurer and Business Manager of the student organization Pen, Paint and Pretzels. Lutzin also was a member of the wrestling team, the Tufts College orchestra, and the Jumbo Book. After graduating with a Bachelor of Science in Chemistry in 1935, Lutzin married Lillian Fleischmann on August 17, 1941. They had two daughters, Paula and Judith. Lutzin worked for many years as the regional director of the New York State Division for Youth, and served on the editorial board for the American Recreation Journal. He died on July 10th, 1999.</p>  </bioghist>
+  <prefercite id="aspace_8d77de0467bd9cd019eb2d3a2f92272e">
+    <head>Preferred Citation</head>
+<p>Sidney Lutzin Papers, 1931-1985. Tufts University. Digital Collections and Archives. Medford, MA.</p>  </prefercite>
+  <processinfo id="aspace_00292fde4487dd2f0c75e55af1c939fc">
+    <head>Processing Information</head>
+<p>Processing completed by Leah Edelman and Stefana Breitweiser in 2017. Materials were placed in archival boxes and loose materials were placed in folders. Received order was maintained where possible. A box-level inventory, series-level description, and finding aid were created at the time of processing.  </p>  </processinfo>
+  <scopecontent id="aspace_1a8c900d1a8849a95ccddd3ce896e5ca">
+    <head>Scope and Contents</head>
+<p>This collection contains memorabilia created or collected by Sidney Lutzin, including scrapbooks, photographs, invitations and programs, and newspaper clippings. This collection also contains Lutzin's diplomas.</p>  </scopecontent>
+  <userestrict id="aspace_9e12e718a60ed2d77708ff2407b3cdd5">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish.
+Any intellectual property rights that the donor possesses have been transferred to Tufts University.</p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Tufts University -- History</subject>
+    <subject source="local">University history</subject>
+    <subject source="local">Alumni collections</subject>
+  </controlaccess>
+  <dsc><c id="aspace_fd3e4e8c604bd5c847bd96a2846f9455" level="series"><did><unittitle>Sidney Lutzin Papers</unittitle><unitid>MS236.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">2 Linear Feet</extent><extent altrender="carrier">1 document box, 1 oversize folder, 1 oversize box</extent></physdesc><unitdate certainty="approximate" normal="1931/1985" type="inclusive">circa 1931 -- 1985</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><arrangement id="aspace_e947dc3beefb1b03a16060639630d8f1"><head>Arrangement</head><p>This series is arranged by format.</p></arrangement><accessrestrict id="aspace_f39c93c831cc8c1f1431cf8531e4d38e"><head>Conditions Governing Access</head><p>This series is open for research. Certain items in this series are fragile and may require supervision while in use; restrictions related to specific material are listed in the detailed contents list.</p></accessrestrict><scopecontent id="aspace_1539b120b3cc813f14b15c2345329d05"><head>Scope and Contents</head><p>This series includes scrapbooks, diplomas, and various Tufts memorabilia including photographs, invitations/programs, and newspaper clippings.</p></scopecontent><c id="aspace_96f7d14af6ffdc476840268891204a8f" level="file"><did><unittitle>Scrapbooks and memorabilia</unittitle><unitid>MS236.001.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">.4 Linear Feet</extent><extent altrender="carrier">1 document box</extent></physdesc><unitdate normal="1931/1985" type="inclusive">1931 -- 1985</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e32195d73a3cfae15359ffb8d1bd2976" label="Mixed Materials [39090017908753]" type="box">1</container></did><accessrestrict id="aspace_331e47088cf6f5c2c80bffededceb947"><head>Conditions Governing Access</head><p>Items in this box are fragile and may require supervision while in use.</p></accessrestrict></c><c id="aspace_834f43818bc04d5fd40dee89e4bf4ab6" level="file"><did><unittitle>Scrapbook</unittitle><unitid>MS236.001.002</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">.8 Linear Feet</extent><extent altrender="carrier">1 oversize box</extent></physdesc><unitdate normal="1932/1934" type="inclusive">1932 -- 1934</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_7e61cb64c9c14f5dd14a5832786c0a94" label="Mixed Materials [39090017908761]" type="box">2</container></did><accessrestrict id="aspace_79dc2c4f044f029ad515cfff0f460331"><head>Conditions Governing Access</head><p>This item is fragile and may require supervision while in use.</p></accessrestrict></c><c id="aspace_e0b033ebf61654ac1969a93d2cd5e82f" level="file"><did><unittitle>Diplomas</unittitle><unitid>MS236.001.003</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">.8 Linear Feet</extent><extent altrender="carrier">1 oversize folder</extent></physdesc><unitdate normal="1935/1936" type="inclusive">1935 -- 1936</unitdate><langmaterial><language langcode="lat">Latin</language>.</langmaterial><container id="aspace_6bea06bd56af3f936dbfe2caa969a268" label="Mixed Materials [39090015524594o]" type="box">Small Map Case 2 Drawer 1</container></did></c></c></dsc>
+</archdesc>
+</ead>

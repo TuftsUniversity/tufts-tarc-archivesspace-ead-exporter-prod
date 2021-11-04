@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/012331">MS234</eadid><filedesc><titlestmt><titleproper>Larry D. Struve Papers<num>MS234</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-04-10 19:26:43 -0400</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Larry D. Struve Papers</unittitle>
+    <origination label="Creator">
+      <persname rules="dacs" source="local">Struve, Larry D.</persname>
+    </origination>
+    <unitid>MS234</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">3.6 Linear Feet</extent>
+      <extent altrender="carrier">3 record cartons</extent>
+    </physdesc>
+    <unitdate normal="1995/2017" type="inclusive">1995 -- 2017</unitdate>
+    <abstract id="aspace_b5c38861eec76e74e7a5724c8fa5182b">This collection documents Larry D. Struve's efforts to reconnect the members of the Tufts Fletcher School of Law and Diplomacy Class of 1965, and details their reflections on their time at Fletcher, as well as their accomplishments after graduating.</abstract>
+    <langmaterial>
+      <language langcode="eng">English</language>
+.    </langmaterial>
+  </did>
+  <accessrestrict id="aspace_090f8aa30f9acef83b6ca73eea07eb48">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <acqinfo id="aspace_94238ade320d57d00f2fe9f5c02244db">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Larry D. Struve, 2017, accession number MS-2017-041.</p>  </acqinfo>
+  <arrangement id="aspace_ee890b46fa135c6111d943b5ff005a1f">
+    <head>Arrangement</head>
+<p>Correspondence in Box 1 arranged alphabetically; original order maintained throughout collection.</p>  </arrangement>
+  <bioghist id="aspace_1715c0fd4e8e2bd6178056dc2ce384e1">
+    <head>Biographical / Historical</head>
+<p>Larry D. Struve was born in Los Angeles, California in 1942. He received a Bachelor's degree from the University of Nevada in 1964, a Master of Arts from the Fletcher School of Law and Diplomacy at Tufts University in 1965, and a Juris Doctor from the University of California, Berkeley in 1968. He then worked in Nevada as a law clerk and as part of a law firm before becoming the Chief Deputy District Attorney for the State of Nevada, Carson City from 1975—1978, and the Chief Deputy Attorney General for the State of Nevada, Carson City from 1979—1982. From 1983-1993, Struve served as the Director of the Nevada Department of Commerce, and since 1993 he has served as the Chief of Industrial Development.</p>  </bioghist>
+  <prefercite id="aspace_ca1130751b5368d9cb563f92a16a45ce">
+    <head>Preferred Citation</head>
+<p>Larry D. Struve Papers, 1995-2017. Tufts University. Digital Collections and Archives. Medford, MA.</p>  </prefercite>
+  <processinfo id="aspace_43838abb4287696c89c0e04adb6cadf9">
+    <head>Processing Information</head>
+<p>This collection was processed by Leah Edelman in March 2017. Materials were placed in archival boxes if the original housing was damaged, and loose materials were placed in folders where needed. Received order was maintained. A box-level inventory and series-level description were created and a finding aid was created.  </p>  </processinfo>
+  <scopecontent id="aspace_713bfda805da29b407be7c43c350ccf1">
+    <head>Scope and Contents</head>
+<p>Larry D. Struve graduated from the Tufts Fletcher School of Law and Diplomacy in 1965. His papers document his efforts to reconnect members of this class and to publish a memoir book, titled "In the Shadow of Camelot," detailing their reflections on their time at Fletcher, as well as their accomplishments after graduating. This collection includes correspondence; Fletcher publications and reunion materials; photographs; drafts and promotional, production, and research material related to "In the Shadow of Camelot;" and material related to the establishment of the Fletcher School's Camelot Legacy Scholarship by the class of 1965. </p><p>Box 1 contains correspondence with classmates to gather information eventually published in class newsletters and "In the Shadow of Camelot," as well as a draft introduction to the book. Box 2 contains the 18 editions of Fletcher ClassNotes 1965, a publication used to share information and encourage attendance at the Class of 1965's 30th, 35th, and 40th reunions; as well as photographs of and correspondence with classmates about these reunions; and a binder presented to Assistant Dean Chuck Shane at the 35th reunion in 2000.</p><p>Box 3 contains correspondence pertaining to the 40th and 50th class reunions; material related to the production and promotion of "In the Shadow of Camelot," including drafts of text, a CD of songs quoted in the book, and books by Fletcher classmates; and correspondence regarding the Fletcher School's Camelot Legacy Scholarship, funded by the Class of 1965 in 2016. </p>  </scopecontent>
+  <userestrict id="aspace_666f1ec1ba258f5cd4667f2c7baa6b9b">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish.</p><p>Any intellectual property rights that the donor possesses have not been transferred to Tufts University. </p>  </userestrict>
+  <controlaccess>
+    <subject source="lcsh">Tufts University -- History</subject>
+    <subject source="local">Fletcher School of Law and Diplomacy, records</subject>
+    <subject source="local">Alumni collections</subject>
+    <subject source="local">University history</subject>
+  </controlaccess>
+  <dsc><c id="aspace_98ed31928ab270b2a2a216c95ac84704" level="series"><did><unittitle>Larry D. Struve papers</unittitle><unitid>MS234.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">3.6 Linear Feet</extent><extent altrender="carrier">3 record cartons</extent></physdesc><unitdate normal="1995/2017" type="inclusive">1995 -- 2017</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_70633501ac1fa604eb3081ca9854ebc3"><head>Scope and Contents</head><p>This series contains correspondence, Fletcher ClassNotes, Reunion materials, photographs, books and manuscripts, and materials relating to the establishment of the Camelot Legacy Scholarship.</p></scopecontent><arrangement id="aspace_a5117a78fb4f505d02ba81319637902c"><head>Arrangement</head><p>This series maintains original order.</p></arrangement><accessrestrict id="aspace_166c34150ea069435858cc6fd392efbc"><head>Conditions Governing Access</head><p>This series is open for research.</p></accessrestrict><c id="aspace_e0994e288af8a7c5f19c53ac9e61debb" level="file"><did><unittitle>Correspondence</unittitle><unitid>MS234.001.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.2 Linear Feet</extent><extent altrender="carrier">1 record carton</extent></physdesc><unitdate normal="1995/2005" type="inclusive">1995 -- 2005</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_94167cdf94ec145a17d5f3df24ad42f8" label="Text [IM 991177349]" type="box">1</container></did></c><c id="aspace_319416f9648f8cb5ed4c7022d410fc83" level="file"><did><unittitle>Fletcher ClassNotes, correspondence, Reunion materials, photographs</unittitle><unitid>MS234.001.002</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.2 Linear Feet</extent><extent altrender="carrier">1 record carton</extent></physdesc><unitdate normal="1995/2005" type="inclusive">1995 -- 2005</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_2882a1beae65eba3bf009b8fef28fd2e" label="Mixed Materials [IM 991177350]" type="box">2</container></did></c><c id="aspace_98cec3e00a399b8bdceebc2be8a297d1" level="file"><did><unittitle>Books and manuscripts, correspondence, Reunion materials, Camelot Legacy Scholarship</unittitle><unitid>MS234.001.003</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1.2 Linear Feet</extent><extent altrender="carrier">1 record carton</extent></physdesc><unitdate normal="2000/2017" type="inclusive">2000 -- 2017</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_3fd26c3eea8f29ef17bb5f401324ae05" label="Mixed Materials [IM 991177351]" type="box">3</container></did></c></c></dsc>
+</archdesc>
+</ead>
