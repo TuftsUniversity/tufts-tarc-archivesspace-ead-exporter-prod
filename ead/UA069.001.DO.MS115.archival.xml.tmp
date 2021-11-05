@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">MS115</eadid><filedesc><titlestmt><titleproper>American Antiquarian Society Voting Records<num>MS115</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2021-10-13 11:24:34 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>American Antiquarian Society Voting Records</unittitle>
+    <origination label="Creator">
+      <persname source="local">Lampi, Phil </persname>
+    </origination>
+    <unitid>MS115</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">15647 Digital Object(s)</extent>
+    </physdesc>
+    <unitdate normal="1787/2010" type="inclusive">1787 -- 2010</unitdate>
+    <langmaterial id="aspace_9b82098ad400281b0d29df7a36ab0f7a">English</langmaterial>
+  </did>
+  <arrangement id="aspace_790b1e1441f860ef43f11ed1a2c3b749">
+    <head>Arrangement</head>
+<p>This collection is organized in one series.</p>  </arrangement>
+  <scopecontent id="aspace_b6c6b975bbe82baaf415c02303f76bfc">
+    <head>Scope and Contents</head>
+This collection contains scans of Phil Lampi's notes on early American voting records. The scans and output of this project, A New Nation Votes, can be viewed here: <extref xlink:href="https://elections.lib.tufts.edu/">https://elections.lib.tufts.edu/</extref></a>  </scopecontent>
+  <bioghist id="aspace_ae9d32709b2c8588f56ce6f1f9e7f8bf">
+    <head>Biographical / Historical</head>
+<p>Philip J. Lampi (born 1944 in Fitchburg, Massachusetts) is a scholar and historian. His career has been defined by his ground-breaking work reassembling records of early American election returns. He is currently employed as a researcher at the American Antiquarian Society(AAS) in Worcester, Massachusetts. The AAS, Tufts University, and the National Endowment for the Humanities collaborated on the project "A New Nation Votes," a digital record of Lampi's work.</p>
+
+<p>As a child, Lampi became fascinated with election returns, and noticed that the data stopped at 1825. He decided to find the missing facts and figures. And so began a lifelong quest, with Lampi crisscrossing the nation in search of state archives, historical societies, newspaper collections, compendia of letters, and biographies holding records of how Americans voted when the Constitution was still young.</p>
+
+<p>The A New Nation Votes website makes public and searchable what, until now, could only be found in Lampi's loose-leaf notebooks: a comprehensive record of early American election returns from 1787 to 1825.</p>  </bioghist>
+  <processinfo id="aspace_67e20a50b1521b2a8d2c5e84bfcba5ee">
+    <head>Processing status</head>
+<p>This collection is processed.</p>  </processinfo>
+  <otherfindaid id="aspace_b4bc197b8252a2b982e9b9c5ac113f60">
+    <head>Other Finding Aids</head>
+The content of this collection, and its complete catalog, may be found at: <extref xlink:href="https://elections.lib.tufts.edu/">https://elections.lib.tufts.edu/</extref></a>  </otherfindaid>
+  <controlaccess>
+    <title source="local">Phil Lampi</title>
+  </controlaccess>
+  <dsc></dsc>
+</archdesc>
+</ead>
