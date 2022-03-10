@@ -2,6 +2,7 @@
 
 EAD | EAD ID | Identifier | Title | Other versions
 --- | ------ | ---------- | ----- | --------------
+ [UA069.001.DO.UP046.archival.xml](UA069.001.DO.UP046.archival.xml) | UP046 | UP046 | School of Medicine Bulletins and Catalogs | 
  [UA069.001.DO.UP033.archival.xml](UA069.001.DO.UP033.archival.xml) | UP033 | UP033 | The Zamboni | 
  [UA069.001.DO.UA012.archival.xml](UA069.001.DO.UA012.archival.xml) | UA012 | UA012 | Office of Publications Records | 
  [UA069.001.DO.UP012.archival.xml](UA069.001.DO.UP012.archival.xml) | UP012 | UP012 | Hemispheres: The Tufts University Journal of International Affairs | 
