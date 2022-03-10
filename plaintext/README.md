@@ -7,6 +7,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP169.archival.xml](UA069.001.DO.UP169.archival.xml) | UP169 | UP169 | Fletcher School of Law and Diplomacy Bulletins and Connections | 
  [UA069.001.DO.UP209.archival.xml](UA069.001.DO.UP209.archival.xml) | UP209 | UP209 | Bulletin of Tufts University School of Nutrition | 
  [UA069.001.DO.UP210.archival.xml](UA069.001.DO.UP210.archival.xml) | UP210 | UP210 | Bulletin of Tufts Graduate School of Biomedical Sciences | 
+ [UA069.001.DO.UP211.archival.xml](UA069.001.DO.UP211.archival.xml) | UP211 | UP211 | Bulletin of Tufts University, School of Veterinary Medicine | 
  [UA069.001.DO.UP033.archival.xml](UA069.001.DO.UP033.archival.xml) | UP033 | UP033 | The Zamboni | 
  [UA069.001.DO.UA012.archival.xml](UA069.001.DO.UA012.archival.xml) | UA012 | UA012 | Office of Publications Records | 
  [UA069.001.DO.UP012.archival.xml](UA069.001.DO.UP012.archival.xml) | UP012 | UP012 | Hemispheres: The Tufts University Journal of International Affairs | 
