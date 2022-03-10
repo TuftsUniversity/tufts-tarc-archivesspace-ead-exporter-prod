@@ -2,6 +2,7 @@
 
 EAD | EAD ID | Identifier | Title | Other versions
 --- | ------ | ---------- | ----- | --------------
+ [UA069.001.DO.UP028.archival.xml](UA069.001.DO.UP028.archival.xml) | UP028 | UP028 | Bulletin of Tufts University School of Dental Medicine | 
  [UA069.001.DO.UP046.archival.xml](UA069.001.DO.UP046.archival.xml) | UP046 | UP046 | School of Medicine Bulletins and Catalogs | 
  [UA069.001.DO.UP169.archival.xml](UA069.001.DO.UP169.archival.xml) | UP169 | UP169 | Fletcher School of Law and Diplomacy Bulletins and Connections | 
  [UA069.001.DO.UP209.archival.xml](UA069.001.DO.UP209.archival.xml) | UP209 | UP209 | Bulletin of Tufts University School of Nutrition | 
