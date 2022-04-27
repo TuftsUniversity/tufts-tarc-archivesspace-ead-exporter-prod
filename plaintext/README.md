@@ -3,6 +3,7 @@
 EAD | EAD ID | Identifier | Title | Other versions
 --- | ------ | ---------- | ----- | --------------
  [UA069.001.DO.UA137.archival.xml](UA069.001.DO.UA137.archival.xml) | UA137 | UA137 | Tisch Library Records | 
+ [UA069.001.DO.UP007.archival.xml](UA069.001.DO.UP007.archival.xml) | UP007 | UP007 | Tufts Medicine | 
  [UA069.001.DO.UP028.archival.xml](UA069.001.DO.UP028.archival.xml) | UP028 | UP028 | Bulletin of Tufts University School of Dental Medicine | 
  [UA069.001.DO.UP046.archival.xml](UA069.001.DO.UP046.archival.xml) | UP046 | UP046 | School of Medicine Bulletins and Catalogs | 
  [UA069.001.DO.UP169.archival.xml](UA069.001.DO.UP169.archival.xml) | UP169 | UP169 | Fletcher School of Law and Diplomacy Bulletins and Connections | 
