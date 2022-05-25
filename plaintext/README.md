@@ -2,92 +2,232 @@
 
 EAD | EAD ID | Identifier | Title | Other versions
 --- | ------ | ---------- | ----- | --------------
+ [UA069.001.DO.UA036.archival.xml](UA069.001.DO.UA036.archival.xml) | UA036 | UA036 | Administrators' Annual Reports Collection | 
  [UA069.001.DO.UA041.archival.xml](UA069.001.DO.UA041.archival.xml) | UA041 | UA041 | Cummings School of Veterinary Medicine Records | 
- [UA069.001.DO.UA069.archival.xml](UA069.001.DO.UA069.archival.xml) | UA069 | UA069 | Digital Collections and Archives Records | 
- [UA069.001.DO.UA132.archival.xml](UA069.001.DO.UA132.archival.xml) | UA132 | UA132 | Friedman School of Nutrition Science and Policy Records | 
- [UA069.001.DO.UA133.archival.xml](UA069.001.DO.UA133.archival.xml) | UA133 | UA133 | School of the Museum of Fine Arts Records | 
+ [UA069.001.DO.UA052.archival.xml](UA069.001.DO.UA052.archival.xml) | UA052 | UA052 | Office of the Vice-President for Planning Records | 
+ [UA069.001.DO.UA054.archival.xml](UA069.001.DO.UA054.archival.xml) | UA054 | UA054 | Office of the Dean, Fletcher School Records | 
+ [UA069.001.DO.UA090.archival.xml](UA069.001.DO.UA090.archival.xml) | UA090 | UA090 | Department of Urban and Environmental Policy and Planning Records | 
+ [UA069.001.DO.UA097.archival.xml](UA069.001.DO.UA097.archival.xml) | UA097 | UA097 | University Bookstore Records | 
  [UA069.001.DO.UA137.archival.xml](UA069.001.DO.UA137.archival.xml) | UA137 | UA137 | Tisch Library Records | 
+ [UA069.001.DO.UA145.archival.xml](UA069.001.DO.UA145.archival.xml) | UA145 | UA145 | Department of Classical Studies Records | 
+ [UA069.001.DO.UA155.archival.xml](UA069.001.DO.UA155.archival.xml) | UA155 | UA155 | Center for Public Service Records | 
+ [UA069.001.DO.UA191.archival.xml](UA069.001.DO.UA191.archival.xml) | UA191 | UA191 | Parents Program Records | 
+ [UA069.001.DO.UA226.archival.xml](UA069.001.DO.UA226.archival.xml) | UA226 | UA226 | University Library Council and Teams Records | 
  [UA069.001.DO.UP007.archival.xml](UA069.001.DO.UP007.archival.xml) | UP007 | UP007 | Tufts Medicine | 
+ [UA069.001.DO.UP015.archival.xml](UA069.001.DO.UP015.archival.xml) | UP015 | UP015 | Catnip, A Newsletter for Caring Cat Owners | 
+ [UA069.001.DO.MS172.archival.xml](UA069.001.DO.MS172.archival.xml) | MS172 | MS172 | Coolidge and Dame Family Papers | 
  [UA069.001.DO.UP028.archival.xml](UA069.001.DO.UP028.archival.xml) | UP028 | UP028 | Bulletin of Tufts University School of Dental Medicine | 
+ [UA069.001.DO.UP031.archival.xml](UA069.001.DO.UP031.archival.xml) | UP031 | UP031 | Issues | 
  [UA069.001.DO.UP046.archival.xml](UA069.001.DO.UP046.archival.xml) | UP046 | UP046 | School of Medicine Bulletins and Catalogs | 
- [UA069.001.DO.UP143.archival.xml](UA069.001.DO.UP143.archival.xml) | UP143 | UP143 | Tufts Dental Yearbook and Senior Biographies | 
- [UA069.001.DO.UP150.archival.xml](UA069.001.DO.UP150.archival.xml) | UP150 | UP150 | Tufts University School of Medicine Yearbook | 
+ [UA069.001.DO.UP061.archival.xml](UA069.001.DO.UP061.archival.xml) | UP061 | UP061 | Health and Nutrition Letter | 
  [UA069.001.DO.UP169.archival.xml](UA069.001.DO.UP169.archival.xml) | UP169 | UP169 | Fletcher School of Law and Diplomacy Bulletins and Connections | 
  [UA069.001.DO.UP209.archival.xml](UA069.001.DO.UP209.archival.xml) | UP209 | UP209 | Bulletin of Tufts University School of Nutrition | 
  [UA069.001.DO.UP210.archival.xml](UA069.001.DO.UP210.archival.xml) | UP210 | UP210 | Bulletin of Tufts Graduate School of Biomedical Sciences | 
  [UA069.001.DO.UP211.archival.xml](UA069.001.DO.UP211.archival.xml) | UP211 | UP211 | Bulletin of Tufts University, School of Veterinary Medicine | 
+ [UA069.001.DO.UP214.archival.xml](UA069.001.DO.UP214.archival.xml) | UP214 | UP214 | Tufts Veterinary Medicine | 
  [UA069.001.DO.AC.archival.xml](UA069.001.DO.AC.archival.xml) | AC | AC | Artifact Collection | 
+ [UA069.001.DO.UP239.archival.xml](UA069.001.DO.UP239.archival.xml) | UP239 | UP239 | Newsletter of the American Association of University Professors, Tufts Chapter | 
  [UA069.001.DO.UA235.archival.xml](UA069.001.DO.UA235.archival.xml) | UA235 | UA235 | Office of Student Services, School of Dental Medicine Records | 
+ [UA069.001.DO.MS216.archival.xml](UA069.001.DO.MS216.archival.xml) | MS216 | MS216 | William Moomaw Papers | 
+ [UA069.001.DO.UA242.archival.xml](UA069.001.DO.UA242.archival.xml) | UA242 | UA242 | Office of Faculty Affairs at the Friedman School of Nutrition Science and Policy Records | 
  [UA069.001.DO.UP033.archival.xml](UA069.001.DO.UP033.archival.xml) | UP033 | UP033 | The Zamboni | 
  [UA069.001.DO.UA015.archival.xml](UA069.001.DO.UA015.archival.xml) | UA015 | UA015 | Fletcher School Records | 
  [UA069.001.DO.UA002.archival.xml](UA069.001.DO.UA002.archival.xml) | UA002 | UA002 | Office of the Provost and Senior Vice President Records | 
  [UA069.001.DO.UA003.archival.xml](UA069.001.DO.UA003.archival.xml) | UA003 | UA003 | Office of the Board of Trustees Records | 
+ [UA069.001.DO.UA006.archival.xml](UA069.001.DO.UA006.archival.xml) | UA006 | UA006 | Graduate School of Arts and Sciences Records | 
+ [UA069.001.DO.UA007.archival.xml](UA069.001.DO.UA007.archival.xml) | UA007 | UA007 | School of Engineering Records | 
+ [UA069.001.DO.UA009.archival.xml](UA069.001.DO.UA009.archival.xml) | UA009 | UA009 | Eliot-Pearson Department of Child Development Records | 
+ [UA069.001.DO.UA010.archival.xml](UA069.001.DO.UA010.archival.xml) | UA010 | UA010 | School of Medicine Records | 
+ [UA069.001.DO.UA011.archival.xml](UA069.001.DO.UA011.archival.xml) | UA011 | UA011 | Office of Alumni Relations Records | 
  [UA069.001.DO.UA012.archival.xml](UA069.001.DO.UA012.archival.xml) | UA012 | UA012 | Office of Publications Records | 
  [UA069.001.DO.UA013.archival.xml](UA069.001.DO.UA013.archival.xml) | UA013 | UA013 | Department of Romance Languages Records | 
+ [UA069.001.DO.UA017.archival.xml](UA069.001.DO.UA017.archival.xml) | UA017 | UA017 | Department of Music Records | 
+ [UA069.001.DO.UA030.archival.xml](UA069.001.DO.UA030.archival.xml) | UA030 | UA030 | Tufts Programs Abroad Records | 
  [UA069.001.DO.UA032.archival.xml](UA069.001.DO.UA032.archival.xml) | UA032 | UA032 | Boston School of Occupational Therapy (BSOT) Records | 
  [UA069.001.DO.UA037.archival.xml](UA069.001.DO.UA037.archival.xml) | UA037 | UA037 | Secretary of the Faculty for Arts, Sciences and Engineering Records | 
- [UA069.001.DO.UA044.archival.xml](UA069.001.DO.UA044.archival.xml) | UA044 | UA044 | Experimental College Records | 
+ [UA069.001.DO.UA038.archival.xml](UA069.001.DO.UA038.archival.xml) | UA038 | UA038 | Office of the Dean of Student Affairs Records | 
+ [UA069.001.DO.UA042.archival.xml](UA069.001.DO.UA042.archival.xml) | UA042 | UA042 | Office of Institutional Research and Evaluation Records | 
  [UA069.001.DO.UA046.archival.xml](UA069.001.DO.UA046.archival.xml) | UA046 | UA046 | Department of Physical Education and Athletics Records | 
- [UA069.001.DO.UA061.archival.xml](UA069.001.DO.UA061.archival.xml) | UA061 | UA061 | Office of the Vice President for Arts, Sciences, and Technology Records | 
+ [UA069.001.DO.UA049.archival.xml](UA069.001.DO.UA049.archival.xml) | UA049 | UA049 | Office of Undergraduate Education Records | 
+ [UA069.001.DO.UA051.archival.xml](UA069.001.DO.UA051.archival.xml) | UA051 | UA051 | Department of Mechanical Engineering Records | 
+ [UA069.001.DO.UA053.archival.xml](UA069.001.DO.UA053.archival.xml) | UA053 | UA053 | Black Cultural Center Seminar at Tufts Records | 
+ [UA069.001.DO.UA059.archival.xml](UA069.001.DO.UA059.archival.xml) | UA059 | UA059 | Women's Club Records | 
  [UA069.001.DO.UA188.archival.xml](UA069.001.DO.UA188.archival.xml) | UA188 | UA188 | Lesbian, Gay, Bisexual and Transgender Center Records | 
- [UA069.001.DO.UA062.archival.xml](UA069.001.DO.UA062.archival.xml) | UA062 | UA062 | The Observer Records | 
- [UA069.001.DO.UA072.archival.xml](UA069.001.DO.UA072.archival.xml) | UA072 | UA072 | Office of the Registrar, Arts, Sciences and Engineering Records | 
+ [UA069.001.DO.UA056.archival.xml](UA069.001.DO.UA056.archival.xml) | UA056 | UA056 | Tufts Institute of the Environment Records | 
+ [UA069.001.DO.UA063.archival.xml](UA069.001.DO.UA063.archival.xml) | UA063 | UA063 | Office of Public Relations Records | 
+ [UA069.001.DO.UA068.archival.xml](UA069.001.DO.UA068.archival.xml) | UA068 | UA068 | Pen, Paint, and Pretzels Records | 
+ [UA069.001.DO.UA070.archival.xml](UA069.001.DO.UA070.archival.xml) | UA070 | UA070 | Department of Drama and Dance Records | 
+ [UA069.001.DO.UA074.archival.xml](UA069.001.DO.UA074.archival.xml) | UA074 | UA074 | Department of English Records | 
+ [UA069.001.DO.UA075.archival.xml](UA069.001.DO.UA075.archival.xml) | UA075 | UA075 | Office of the Registrar, School of Medicine Records | 
+ [UA069.001.DO.UA080.archival.xml](UA069.001.DO.UA080.archival.xml) | UA080 | UA080 | Eliot-Pearson Children's School Records | 
  [UA069.001.DO.UA082.archival.xml](UA069.001.DO.UA082.archival.xml) | UA082 | UA082 | Film and Media Studies Program Records | 
+ [UA069.001.DO.UA083.archival.xml](UA069.001.DO.UA083.archival.xml) | UA083 | UA083 | American Studies Program Records | 
+ [UA069.001.DO.UA084.archival.xml](UA069.001.DO.UA084.archival.xml) | UA084 | UA084 | Community Health Program Records | 
+ [UA069.001.DO.UA085.archival.xml](UA069.001.DO.UA085.archival.xml) | UA085 | UA085 | Conference Bureau Records | 
+ [UA069.001.DO.UA087.archival.xml](UA069.001.DO.UA087.archival.xml) | UA087 | UA087 | Summer Session Records | 
+ [UA069.001.DO.UA091.archival.xml](UA069.001.DO.UA091.archival.xml) | UA091 | UA091 | Program in International Relations Records | 
+ [UA069.001.DO.UA092.archival.xml](UA069.001.DO.UA092.archival.xml) | UA092 | UA092 | Tufts University European Center Records | 
+ [UA069.001.DO.UA096.archival.xml](UA069.001.DO.UA096.archival.xml) | UA096 | UA096 | Center for Environmental Management Records | 
+ [UA069.001.DO.UA098.archival.xml](UA069.001.DO.UA098.archival.xml) | UA098 | UA098 | University Theses and Dissertations Collection | 
+ [UA069.001.DO.UA100.archival.xml](UA069.001.DO.UA100.archival.xml) | UA100 | UA100 | Orientation Records | 
+ [UA069.001.DO.UA101.archival.xml](UA069.001.DO.UA101.archival.xml) | UA101 | UA101 | Commencement Records | 
+ [UA069.001.DO.UA103.archival.xml](UA069.001.DO.UA103.archival.xml) | UA103 | UA103 | Pre-law Committee Records | 
+ [UA069.001.DO.UA105.archival.xml](UA069.001.DO.UA105.archival.xml) | UA105 | UA105 | Office of Undergraduate Admissions Records | 
+ [UA069.001.DO.UA106.archival.xml](UA069.001.DO.UA106.archival.xml) | UA106 | UA106 | Asian American Center Records | 
+ [UA069.001.DO.UA109.archival.xml](UA069.001.DO.UA109.archival.xml) | UA109 | UA109 | Resumed Education for Adult Learning (R.E.A.L.) Program Records | 
+ [UA069.001.DO.UA110.archival.xml](UA069.001.DO.UA110.archival.xml) | UA110 | UA110 | Tufts University Center for Children Records | 
+ [UA069.001.DO.UA113.archival.xml](UA069.001.DO.UA113.archival.xml) | UA113 | UA113 | Africana Center Records | 
  [UA069.001.DO.UA116.archival.xml](UA069.001.DO.UA116.archival.xml) | UA116 | UA116 | University Chaplaincy Records | 
+ [UA069.001.DO.UA117.archival.xml](UA069.001.DO.UA117.archival.xml) | UA117 | UA117 | Housing and Residential Life Records | 
+ [UA069.001.DO.UA120.archival.xml](UA069.001.DO.UA120.archival.xml) | UA120 | UA120 | Global Development and Environment Institute Records | 
+ [UA069.001.DO.UA121.archival.xml](UA069.001.DO.UA121.archival.xml) | UA121 | UA121 | Financial Aid Records | 
+ [UA069.001.DO.UA124.archival.xml](UA069.001.DO.UA124.archival.xml) | UA124 | UA124 | Office of Student Activities Records | 
+ [UA069.001.DO.UA126.archival.xml](UA069.001.DO.UA126.archival.xml) | UA126 | UA126 | Department of Philosophy Records | 
+ [UA069.001.DO.UA127.archival.xml](UA069.001.DO.UA127.archival.xml) | UA127 | UA127 | Health Services Records | 
+ [UA069.001.DO.UA130.archival.xml](UA069.001.DO.UA130.archival.xml) | UA130 | UA130 | Fares Center for Eastern Mediterranean Studies Records | 
+ [UA069.001.DO.UA131.archival.xml](UA069.001.DO.UA131.archival.xml) | UA131 | UA131 | Electro-Optics Technology Center Records | 
+ [UA069.001.DO.UA135.archival.xml](UA069.001.DO.UA135.archival.xml) | UA135 | UA135 | Office of the Dean, Graduate School of Arts and Sciences Records | 
  [UA069.001.DO.UA136.archival.xml](UA069.001.DO.UA136.archival.xml) | UA136 | UA136 | Historical Materials Collection | 
+ [UA069.001.DO.UA138.archival.xml](UA069.001.DO.UA138.archival.xml) | UA138 | UA138 | Educational Media Center Records | 
+ [UA069.001.DO.UA141.archival.xml](UA069.001.DO.UA141.archival.xml) | UA141 | UA141 | Humanities in the Millenium Records | 
+ [UA069.001.DO.UA142.archival.xml](UA069.001.DO.UA142.archival.xml) | UA142 | UA142 | Student Council of Tufts College Records | 
+ [UA069.001.DO.UA144.archival.xml](UA069.001.DO.UA144.archival.xml) | UA144 | UA144 | Tufts Medical Center Records | 
+ [UA069.001.DO.UA149.archival.xml](UA069.001.DO.UA149.archival.xml) | UA149 | UA149 | Office of Organizational Development at Tufts Records | 
+ [UA069.001.DO.UA150.archival.xml](UA069.001.DO.UA150.archival.xml) | UA150 | UA150 | Center for Decision-Making Records | 
+ [UA069.001.DO.UA151.archival.xml](UA069.001.DO.UA151.archival.xml) | UA151 | UA151 | Department of Chemistry Records | 
+ [UA069.001.DO.UA152.archival.xml](UA069.001.DO.UA152.archival.xml) | UA152 | UA152 | Department of Biology Records | 
+ [UA069.001.DO.UA156.archival.xml](UA069.001.DO.UA156.archival.xml) | UA156 | UA156 | Women's Center Records | 
+ [UA069.001.DO.UA159.archival.xml](UA069.001.DO.UA159.archival.xml) | UA159 | UA159 | Department of Earth and Ocean Sciences Records | 
+ [UA069.001.DO.UA160.archival.xml](UA069.001.DO.UA160.archival.xml) | UA160 | UA160 | Academic Resource Center Records | 
  [UA069.001.DO.UA161.archival.xml](UA069.001.DO.UA161.archival.xml) | UA161 | UA161 | University Information Technology Records | 
- [UA069.001.DO.UA166.archival.xml](UA069.001.DO.UA166.archival.xml) | UA166 | UA166 | Office of the Vice Provost Records | 
- [UA069.001.DO.UA176.archival.xml](UA069.001.DO.UA176.archival.xml) | UA176 | UA176 | Tufts Daily Records | 
+ [UA069.001.DO.UA162.archival.xml](UA069.001.DO.UA162.archival.xml) | UA162 | UA162 | Tufts Educational Day Care Center Records | 
+ [UA069.001.DO.UA164.archival.xml](UA069.001.DO.UA164.archival.xml) | UA164 | UA164 | Tufts Community Union Judiciary Records | 
+ [UA069.001.DO.UA165.archival.xml](UA069.001.DO.UA165.archival.xml) | UA165 | UA165 | Dance Program Records | 
+ [UA069.001.DO.UA182.archival.xml](UA069.001.DO.UA182.archival.xml) | UA182 | UA182 | Web Central Records | 
  [UA069.001.DO.UA183.archival.xml](UA069.001.DO.UA183.archival.xml) | UA183 | UA183 | Jonathan M. Tisch College of Civic Life Records | 
- [UA069.001.DO.UA187.archival.xml](UA069.001.DO.UA187.archival.xml) | UA187 | UA187 | Public Health and Professional Degree Programs Records | 
+ [UA069.001.DO.UA184.archival.xml](UA069.001.DO.UA184.archival.xml) | UA184 | UA184 | Gordon Institute Records | 
+ [UA069.001.DO.UA185.archival.xml](UA069.001.DO.UA185.archival.xml) | UA185 | UA185 | Department of Psychology Records | 
+ [UA069.001.DO.UA190.archival.xml](UA069.001.DO.UA190.archival.xml) | UA190 | UA190 | The Forsyth School for Dental Hygienists Records | 
  [UA069.001.DO.UA200.archival.xml](UA069.001.DO.UA200.archival.xml) | UA200 | UA200 | Office of the Boards of Advisors Records | 
+ [UA069.001.DO.UA204.archival.xml](UA069.001.DO.UA204.archival.xml) | UA204 | UA204 | High Energy Physics Records | 
+ [UA069.001.DO.UA207.archival.xml](UA069.001.DO.UA207.archival.xml) | UA207 | UA207 | Center for Interdisciplinary Studies Records | 
  [UA069.001.DO.UA209.archival.xml](UA069.001.DO.UA209.archival.xml) | UA209 | UA209 | Institute for Global Leadership Records | 
+ [UA069.001.DO.UA213.archival.xml](UA069.001.DO.UA213.archival.xml) | UA213 | UA213 | V-12 Program (United States Department of the Navy) Records | 
+ [UA069.001.DO.UA216.archival.xml](UA069.001.DO.UA216.archival.xml) | UA216 | UA216 | Tufts Mountain Club Records | 
  [UA069.001.DO.UA219.archival.xml](UA069.001.DO.UA219.archival.xml) | UA219 | UA219 | Office for Campus Life Records | 
  [UA069.001.DO.UA225.archival.xml](UA069.001.DO.UA225.archival.xml) | UA225 | UA225 | Hirsh Health Sciences Library Records | 
- [UA069.001.DO.UP001.archival.xml](UA069.001.DO.UP001.archival.xml) | UP001 | UP001 | Tuftonian | 
+ [UA069.001.DO.MS014.archival.xml](UA069.001.DO.MS014.archival.xml) | MS014 | MS014 | Political Research Associates Records |   [JSON](285.json) 
  [UA069.001.DO.MS014.archival.xml](UA069.001.DO.MS014.archival.xml) | MS014 | MS014 | Political Research Associates Records | 
  [UA069.001.DO.MS004.archival.xml](UA069.001.DO.MS004.archival.xml) | MS004 | MS004 | Edwin C. Bolles Papers | 
- [UA069.001.DO.UP006.archival.xml](UA069.001.DO.UP006.archival.xml) | UP006 | UP006 | Arts and Sciences and Engineering Bulletins | 
+ [UA069.001.DO.MS005.archival.xml](UA069.001.DO.MS005.archival.xml) | MS005 | MS005 | Atomic Veterans Records | 
  [UA069.001.DO.UP012.archival.xml](UA069.001.DO.UP012.archival.xml) | UP012 | UP012 | Hemispheres: The Tufts University Journal of International Affairs | 
+ [UA069.001.DO.MS023.archival.xml](UA069.001.DO.MS023.archival.xml) | MS023 | MS023 | TheaterWorks Records | 
  [UA069.001.DO.MS025.archival.xml](UA069.001.DO.MS025.archival.xml) | MS025 | MS025 | Edward R. Murrow Papers | 
+ [UA069.001.DO.MS028.archival.xml](UA069.001.DO.MS028.archival.xml) | MS028 | MS028 | Ruth Odell Papers | 
  [UA069.001.DO.MS029.archival.xml](UA069.001.DO.MS029.archival.xml) | MS029 | MS029 | NROTC/V-12 Collection | 
+ [UA069.001.DO.MS045.archival.xml](UA069.001.DO.MS045.archival.xml) | MS045 | MS045 | George Edward Crowell Papers | 
+ [UA069.001.DO.MS049.archival.xml](UA069.001.DO.MS049.archival.xml) | MS049 | MS049 | Henri Goiran Papers | 
  [UA069.001.DO.MS050.archival.xml](UA069.001.DO.MS050.archival.xml) | MS050 | MS050 | Tufts Family Collection | 
+ [UA069.001.DO.MS051.archival.xml](UA069.001.DO.MS051.archival.xml) | MS051 | MS051 | Henry Levi Davis Papers | 
+ [UA069.001.DO.MS055.archival.xml](UA069.001.DO.MS055.archival.xml) | MS055 | MS055 | Mystic River Watershed Association Records | 
+ [UA069.001.DO.MS057.archival.xml](UA069.001.DO.MS057.archival.xml) | MS057 | MS057 | World War II Posters and Publications | 
+ [UA069.001.DO.MS061.archival.xml](UA069.001.DO.MS061.archival.xml) | MS061 | MS061 | Hagop Martin Deranian Papers | 
+ [UA069.001.DO.MS064.archival.xml](UA069.001.DO.MS064.archival.xml) | MS064 | MS064 | Elizabeth Ahn Toupin Papers | 
+ [UA069.001.DO.MS073.archival.xml](UA069.001.DO.MS073.archival.xml) | MS073 | MS073 | E. B. Dennison Photographs | 
+ [UA069.001.DO.MS075.archival.xml](UA069.001.DO.MS075.archival.xml) | MS075 | MS075 | Memory Books Collection | 
+ [UA069.001.DO.MS080.archival.xml](UA069.001.DO.MS080.archival.xml) | MS080 | MS080 | Tufts Oral History Project Records | 
  [UA069.001.DO.UP029.archival.xml](UA069.001.DO.UP029.archival.xml) | UP029 | UP029 | Tufts Daily | 
+ [UA069.001.DO.MS087.archival.xml](UA069.001.DO.MS087.archival.xml) | MS087 | MS087 | Robert B. Shira Papers | 
  [UA069.001.DO.MS094.archival.xml](UA069.001.DO.MS094.archival.xml) | MS094 | MS094 | W. F. Welch Photographs | 
- [UA069.001.DO.MS171.archival.xml](UA069.001.DO.MS171.archival.xml) | MS171 | MS171 | Spencer Grant Photographs | 
- [UA069.001.DO.MS148.archival.xml](UA069.001.DO.MS148.archival.xml) | MS148 | MS148 | Marc Brown Papers | 
+ [UA069.001.DO.MS100.archival.xml](UA069.001.DO.MS100.archival.xml) | MS100 | MS100 | Zebulon White Manuscript "On National Greatness" | 
+ [UA069.001.DO.MS114.archival.xml](UA069.001.DO.MS114.archival.xml) | MS114 | MS114 | Roberta Shepard Bruns Papers | 
+ [UA069.001.DO.MS129.archival.xml](UA069.001.DO.MS129.archival.xml) | MS129 | MS129 | Leland Stowe Papers | 
+ [UA069.001.DO.MS131.archival.xml](UA069.001.DO.MS131.archival.xml) | MS131 | MS131 | Rachel G. Hill Papers | 
+ [UA069.001.DO.MS134.archival.xml](UA069.001.DO.MS134.archival.xml) | MS134 | MS134 | Walter B. Wriston Papers | 
+ [UA069.001.DO.MS137.archival.xml](UA069.001.DO.MS137.archival.xml) | MS137 | MS137 | Reuven Frank Papers | 
+ [UA069.001.DO.MS152.archival.xml](UA069.001.DO.MS152.archival.xml) | MS152 | MS152 | John Leland Hedges Papers | 
+ [UA069.001.DO.MS153.archival.xml](UA069.001.DO.MS153.archival.xml) | MS153 | MS153 | Boston Sub-Masters Association Records | 
+ [UA069.001.DO.MS154.archival.xml](UA069.001.DO.MS154.archival.xml) | MS154 | MS154 | Bernhard Gottlieb Papers | 
+ [UA069.001.DO.MS157.archival.xml](UA069.001.DO.MS157.archival.xml) | MS157 | MS157 | Something About the Women Radio Show Records | 
+ [UA069.001.DO.MS160.archival.xml](UA069.001.DO.MS160.archival.xml) | MS160 | MS160 | Alvin Howell Papers | 
+ [UA069.001.DO.MS161.archival.xml](UA069.001.DO.MS161.archival.xml) | MS161 | MS161 | Gerhard Schmidt Oral Histories | 
+ [UA069.001.DO.MS173.archival.xml](UA069.001.DO.MS173.archival.xml) | MS173 | MS173 | Earl Stanley and Charles H. Stewart Theater Collection | 
  [UA069.001.DO.MS177.archival.xml](UA069.001.DO.MS177.archival.xml) | MS177 | MS177 | Ellen L. Lutz Papers | 
- [UA069.001.DO.MS225.archival.xml](UA069.001.DO.MS225.archival.xml) | MS225 | MS225 | Janet Brewster Murrow and Edward R. Murrow Family Papers | 
+ [UA069.001.DO.MS195.archival.xml](UA069.001.DO.MS195.archival.xml) | MS195 | MS195 | Raoul Bott Papers | 
  [UA069.001.DO.MS196.archival.xml](UA069.001.DO.MS196.archival.xml) | MS196 | MS196 | ACCION International Records | 
+ [UA069.001.DO.MS197.archival.xml](UA069.001.DO.MS197.archival.xml) | MS197 | MS197 | Phillip L. Zweig Collection on Walter Wriston | 
  [UA069.001.DO.UP027.archival.xml](UA069.001.DO.UP027.archival.xml) | UP027 | UP027 | Application and Admissions Publications | 
+ [UA069.001.DO.UP038.archival.xml](UA069.001.DO.UP038.archival.xml) | UP038 | UP038 | Crane Review | 
+ [UA069.001.DO.UP049.archival.xml](UA069.001.DO.UP049.archival.xml) | UP049 | UP049 | Public Journal | 
+ [UA069.001.DO.UP052.archival.xml](UA069.001.DO.UP052.archival.xml) | UP052 | UP052 | Tufts Magazine | 
+ [UA069.001.DO.UP054.archival.xml](UA069.001.DO.UP054.archival.xml) | UP054 | UP054 | Tufts Journal | 
+ [UA069.001.DO.UP055.archival.xml](UA069.001.DO.UP055.archival.xml) | UP055 | UP055 | Tufts Observer |   [XML](426.xml)  ,  [JSON](426.json) 
  [UA069.001.DO.UP055.archival.xml](UA069.001.DO.UP055.archival.xml) | UP055 | UP055 | Tufts Observer | 
+ [UA069.001.DO.UP056.archival.xml](UA069.001.DO.UP056.archival.xml) | UP056 | UP056 | Tufts Weekly |   [JSON](427.json) 
  [UA069.001.DO.UP056.archival.xml](UA069.001.DO.UP056.archival.xml) | UP056 | UP056 | Tufts Weekly | 
+ [UA069.001.DO.UP058.archival.xml](UA069.001.DO.UP058.archival.xml) | UP058 | UP058 | Tufts Hilltopper | 
+ [UA069.001.DO.UP126.archival.xml](UA069.001.DO.UP126.archival.xml) | UP126 | UP126 | Tufts University Health Sciences News | 
  [UA069.001.DO.UP215.archival.xml](UA069.001.DO.UP215.archival.xml) | UP215 | UP215 | Short-Run Student Publications | 
+ [UA069.001.DO.UP226.archival.xml](UA069.001.DO.UP226.archival.xml) | UP226 | UP226 | TuftScope: The Interdisciplinary Journal of Health, Ethics and Policy | 
  [UA069.001.DO.UP243.archival.xml](UA069.001.DO.UP243.archival.xml) | UP243 | UP243 | Melisma, Tufts New Music Magazine | 
- [UA069.001.DO.MS207.archival.xml](UA069.001.DO.MS207.archival.xml) | MS207 | MS207 | Neha Erasmus African Union High Level Implementation Panel Papers | 
+ [UA069.001.DO.UA227.archival.xml](UA069.001.DO.UA227.archival.xml) | UA227 | UA227 | Tau Beta Pi Records | 
+ [UA069.001.DO.UA228.archival.xml](UA069.001.DO.UA228.archival.xml) | UA228 | UA228 | Center for International Environment and Resource Policy Records | 
+ [UA069.001.DO.UA232.archival.xml](UA069.001.DO.UA232.archival.xml) | UA232 | UA232 | iSIS Project Records | 
+ [UA069.001.DO.MS208.archival.xml](UA069.001.DO.MS208.archival.xml) | MS208 | MS208 | Mobius, Inc. Records | 
+ [UA069.001.DO.MS210.archival.xml](UA069.001.DO.MS210.archival.xml) | MS210 | MS210 | UNESCO Second Canadian Archaeological Expedition to Carthage Records | 
  [UA069.001.DO.UA237.archival.xml](UA069.001.DO.UA237.archival.xml) | UA237 | UA237 | Tufts University Ballroom Dance Team Records | 
+ [UA069.001.DO.UA238.archival.xml](UA069.001.DO.UA238.archival.xml) | UA238 | UA238 | Beelzebubs Records | 
  [UA069.001.DO.UA239.archival.xml](UA069.001.DO.UA239.archival.xml) | UA239 | UA239 | Department of Visual and Critical Studies Records | 
+ [UA069.001.DO.MS227.archival.xml](UA069.001.DO.MS227.archival.xml) | MS227 | MS227 | Julian Knipp Papers | 
+ [UA069.001.DO.MS230.archival.xml](UA069.001.DO.MS230.archival.xml) | MS230 | MS230 | Christopher Schmidt-Nowara Papers | 
  [UA069.001.DO.UA001.archival.xml](UA069.001.DO.UA001.archival.xml) | UA001 | UA001 | Office of the President Records | 
  [UA069.001.DO.UA020.archival.xml](UA069.001.DO.UA020.archival.xml) | UA020 | UA020 | School of Dental Medicine Records | 
- [UA069.001.DO.UA029.archival.xml](UA069.001.DO.UA029.archival.xml) | UA029 | UA029 | Student Body Collection | 
+ [UA069.001.DO.UA021.archival.xml](UA069.001.DO.UA021.archival.xml) | UA021 | UA021 | Facilities Management Records | 
+ [UA069.001.DO.UA023.archival.xml](UA069.001.DO.UA023.archival.xml) | UA023 | UA023 | Alumni/ae Records | 
+ [UA069.001.DO.UA027.archival.xml](UA069.001.DO.UA027.archival.xml) | UA027 | UA027 | Nuclear Age History and Humanities Center Records | 
+ [UA069.001.DO.UA033.archival.xml](UA069.001.DO.UA033.archival.xml) | UA033 | UA033 | Jackson College for Women Records | 
  [UA069.001.DO.UA039.archival.xml](UA069.001.DO.UA039.archival.xml) | UA039 | UA039 | Classes Collection | 
+ [UA069.001.DO.UA057.archival.xml](UA069.001.DO.UA057.archival.xml) | UA057 | UA057 | Office of Equal Opportunity Records | 
+ [UA069.001.DO.UA058.archival.xml](UA069.001.DO.UA058.archival.xml) | UA058 | UA058 | General Administration Records | 
+ [UA069.001.DO.UA129.archival.xml](UA069.001.DO.UA129.archival.xml) | UA129 | UA129 | Dining Services Records | 
+ [UA069.001.DO.UA134.archival.xml](UA069.001.DO.UA134.archival.xml) | UA134 | UA134 | Department of Public and Environmental Safety Records | 
+ [UA069.001.DO.UA146.archival.xml](UA069.001.DO.UA146.archival.xml) | UA146 | UA146 | Office of Educational Affairs, School of Medicine Records | 
+ [UA069.001.DO.MS188.archival.xml](UA069.001.DO.MS188.archival.xml) | MS188 | MS188 | Donald B. Darling Papers | 
  [UA069.001.DO.MS024.archival.xml](UA069.001.DO.MS024.archival.xml) | MS024 | MS024 | Donald and Charlotte MacJannet Papers | 
+ [UA069.001.DO.MS031.archival.xml](UA069.001.DO.MS031.archival.xml) | MS031 | MS031 | Sumner Ware Shepard Papers | 
  [UA069.001.DO.MS039.archival.xml](UA069.001.DO.MS039.archival.xml) | MS039 | MS039 | William D. Hersey Papers | 
- [UA069.001.DO.MS117.archival.xml](UA069.001.DO.MS117.archival.xml) | MS117 | MS117 | Russell E. Miller Papers | 
+ [UA069.001.DO.MS043.archival.xml](UA069.001.DO.MS043.archival.xml) | MS043 | MS043 | Frederick A. Masse Jr. Papers | 
+ [UA069.001.DO.MS046.archival.xml](UA069.001.DO.MS046.archival.xml) | MS046 | MS046 | Harold G. Simms Papers | 
+ [UA069.001.DO.MS047.archival.xml](UA069.001.DO.MS047.archival.xml) | MS047 | MS047 | George Preston Bacon Papers | 
+ [UA069.001.DO.MS048.archival.xml](UA069.001.DO.MS048.archival.xml) | MS048 | MS048 | Robert C. Givler Papers | 
+ [UA069.001.DO.MS085.archival.xml](UA069.001.DO.MS085.archival.xml) | MS085 | MS085 | Martin Green Papers | 
+ [UA069.001.DO.MS097.archival.xml](UA069.001.DO.MS097.archival.xml) | MS097 | MS097 | Charles Neal Barney Papers | 
+ [UA069.001.DO.MS098.archival.xml](UA069.001.DO.MS098.archival.xml) | MS098 | MS098 | Fred Gowing Papers | 
+ [UA069.001.DO.MS103.archival.xml](UA069.001.DO.MS103.archival.xml) | MS103 | MS103 | Fred T. Nelson Diaries | 
+ [UA069.001.DO.MS106.archival.xml](UA069.001.DO.MS106.archival.xml) | MS106 | MS106 | Lena Fuller Papers | 
+ [UA069.001.DO.MS107.archival.xml](UA069.001.DO.MS107.archival.xml) | MS107 | MS107 | Russel G. Hemenway Papers | 
+ [UA069.001.DO.MS113.archival.xml](UA069.001.DO.MS113.archival.xml) | MS113 | MS113 | Ralph C. Cutting Jr. Photographs | 
+ [UA069.001.DO.MS122.archival.xml](UA069.001.DO.MS122.archival.xml) | MS122 | MS122 | David Locke Papers | 
+ [UA069.001.DO.MS124.archival.xml](UA069.001.DO.MS124.archival.xml) | MS124 | MS124 | Lost Theatres of Somerville Papers | 
+ [UA069.001.DO.MS133.archival.xml](UA069.001.DO.MS133.archival.xml) | MS133 | MS133 | Donald Sur Papers | 
  [UA069.001.DO.MS138.archival.xml](UA069.001.DO.MS138.archival.xml) | MS138 | MS138 | Daniel C. Dennett Papers | 
- [UA069.001.DO.MS099.archival.xml](UA069.001.DO.MS099.archival.xml) | MS099 | MS099 | New England Medical Center Records |   [JSON](671.json) 
+ [UA069.001.DO.MS151.archival.xml](UA069.001.DO.MS151.archival.xml) | MS151 | MS151 | Kenneth D. Roeder Papers | 
+ [UA069.001.DO.MS158.archival.xml](UA069.001.DO.MS158.archival.xml) | MS158 | MS158 | Charles Millstein Dental History Collection | 
+ [UA069.001.DO.MS164.archival.xml](UA069.001.DO.MS164.archival.xml) | MS164 | MS164 | John McDonald Papers | 
+ [UA069.001.DO.MS165.archival.xml](UA069.001.DO.MS165.archival.xml) | MS165 | MS165 | Bengali Oral Histories | 
+ [UA069.001.DO.MS170.archival.xml](UA069.001.DO.MS170.archival.xml) | MS170 | MS170 | Gerald R. Gill Papers | 
+ [UA069.001.DO.MS101.archival.xml](UA069.001.DO.MS101.archival.xml) | MS101 | MS101 | Seymour O. Simches Illuminated Manuscript | 
  [UA069.001.DO.MS099.archival.xml](UA069.001.DO.MS099.archival.xml) | MS099 | MS099 | New England Medical Center Records | 
- [UA069.001.DO.UA243.archival.xml](UA069.001.DO.UA243.archival.xml) | UA243 | UA243 | Center for the Humanities at Tufts Records | 
- [UA069.001.DO.MS232.archival.xml](UA069.001.DO.MS232.archival.xml) | MS232 | MS232 | Sol Gittleman Papers | 
- [UA069.001.DO.MS239.archival.xml](UA069.001.DO.MS239.archival.xml) | MS239 | MS239 | Charles Trantanella Papers on Greek Life at Tufts | 
+ [UA069.001.DO.MS209.archival.xml](UA069.001.DO.MS209.archival.xml) | MS209 | MS209 | David Johnson Photographs | 
+ [UA069.001.DO.MS214.archival.xml](UA069.001.DO.MS214.archival.xml) | MS214 | MS214 | Boston Dispensary Records | 
+ [UA069.001.DO.MS217.archival.xml](UA069.001.DO.MS217.archival.xml) | MS217 | MS217 | Lester Gaynor Class of 1949 Memorabilia Collection | 
+ [UA069.001.DO.MS218.archival.xml](UA069.001.DO.MS218.archival.xml) | MS218 | MS218 | Downing Cless Papers | 
+ [UA069.001.DO.MS241.archival.xml](UA069.001.DO.MS241.archival.xml) | MS241 | MS241 | Phil Primack Papers | 
  [UA069.001.DO.UA252.archival.xml](UA069.001.DO.UA252.archival.xml) | UA252 | UA252 | Office of Communications and Marketing Records | 
- [UA069.001.DO.UP270.archival.xml](UA069.001.DO.UP270.archival.xml) | UP270 | UP270 | The Tufts Historical Review | 
- [UA069.001.DO.MS254.archival.xml](UA069.001.DO.MS254.archival.xml) | MS254 | MS254 | Chris Coenen Collection on General Tom Thumb | 
- [UA069.001.DO.MS261.archival.xml](UA069.001.DO.MS261.archival.xml) | MS261 | MS261 | Sarah Moore Field Collection | 
- [UA069.001.DO.MS263.archival.xml](UA069.001.DO.MS263.archival.xml) | MS263 | MS263 | Lillian Seavey Artwork | 
+ [UA069.001.DO.MS254.archival.xml](UA069.001.DO.MS254.archival.xml) | MS254 | MS254 | Christopher Coenen Collection on P. T. Barnum and Tom Thumb | 
+ [UA069.001.DO.MS261.archival.xml](UA069.001.DO.MS261.archival.xml) | MS261 | MS261 | Sarah Moore Field Collection: PLACEHOLDER | 
+ [UA069.001.DO.MS264.archival.xml](UA069.001.DO.MS264.archival.xml) | MS264 | MS264 | Tufts Food Rescue Collaborative Records | 
  [UA069.001.DO.UP274.archival.xml](UA069.001.DO.UP274.archival.xml) | UP274 | UP274 | Future Histories | 
  [UA069.001.DO.MS269.archival.xml](UA069.001.DO.MS269.archival.xml) | MS269 | MS269 | COVID-19 Pandemic Collection | 
  [UA069.001.DO.MS270.archival.xml](UA069.001.DO.MS270.archival.xml) | MS270 | MS270 | Tufts Student Activism Collection | 
- [UA069.001.DO.UP277.archival.xml](UA069.001.DO.UP277.archival.xml) | UP277 | UP277 | The Palmier | 
- [UA069.001.DO.MS275.archival.xml](UA069.001.DO.MS275.archival.xml) | MS275 | MS275 | John A. Seaverns Equine Collection | 
 
