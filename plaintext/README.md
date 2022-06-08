@@ -13,6 +13,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA133.archival.xml](UA069.001.DO.UA133.archival.xml) | UA133 | UA133 | School of the Museum of Fine Arts Records | 
  [UA069.001.DO.UA137.archival.xml](UA069.001.DO.UA137.archival.xml) | UA137 | UA137 | Tisch Library Records | 
  [UA069.001.DO.UA145.archival.xml](UA069.001.DO.UA145.archival.xml) | UA145 | UA145 | Department of Classical Studies Records | 
+ [UA069.001.DO.UA145.archival.xml](UA069.001.DO.UA145.archival.xml) | UA145 | UA145 | Department of Classical Studies Records |   [JSON](17.json) 
  [UA069.001.DO.UA155.archival.xml](UA069.001.DO.UA155.archival.xml) | UA155 | UA155 | Center for Public Service Records | 
  [UA069.001.DO.UA171.archival.xml](UA069.001.DO.UA171.archival.xml) | UA171 | UA171 | Office of the Dean, Tufts Graduate School of Biomedical Sciences Records | 
  [UA069.001.DO.UA191.archival.xml](UA069.001.DO.UA191.archival.xml) | UA191 | UA191 | Parents Program Records | 
