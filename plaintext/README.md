@@ -134,6 +134,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA219.archival.xml](UA069.001.DO.UA219.archival.xml) | UA219 | UA219 | Office for Campus Life Records | 
  [UA069.001.DO.UA225.archival.xml](UA069.001.DO.UA225.archival.xml) | UA225 | UA225 | Hirsh Health Sciences Library Records | 
  [UA069.001.DO.UP001.archival.xml](UA069.001.DO.UP001.archival.xml) | UP001 | UP001 | Tuftonian | 
+ [UA069.001.DO.MS014.archival.xml](UA069.001.DO.MS014.archival.xml) | MS014 | MS014 | Political Research Associates Records |   [JSON](285.json) 
  [UA069.001.DO.MS014.archival.xml](UA069.001.DO.MS014.archival.xml) | MS014 | MS014 | Political Research Associates Records | 
  [UA069.001.DO.MS004.archival.xml](UA069.001.DO.MS004.archival.xml) | MS004 | MS004 | Edwin C. Bolles Papers | 
  [UA069.001.DO.MS005.archival.xml](UA069.001.DO.MS005.archival.xml) | MS005 | MS005 | Atomic Veterans Records | 
