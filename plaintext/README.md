@@ -249,6 +249,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA243.archival.xml](UA069.001.DO.UA243.archival.xml) | UA243 | UA243 | Center for the Humanities at Tufts Records | 
  [UA069.001.DO.MS232.archival.xml](UA069.001.DO.MS232.archival.xml) | MS232 | MS232 | Sol Gittleman Papers | 
  [UA069.001.DO.MS239.archival.xml](UA069.001.DO.MS239.archival.xml) | MS239 | MS239 | Charles Trantanella Papers on Greek Life at Tufts | 
+ [UA069.001.DO.MS239.archival.xml](UA069.001.DO.MS239.archival.xml) | MS239 | MS239 | Charles Trantanella Papers on Greek Life at Tufts |   [JSON](756.json) 
  [UA069.001.DO.MS241.archival.xml](UA069.001.DO.MS241.archival.xml) | MS241 | MS241 | Phil Primack Papers | 
  [UA069.001.DO.UA252.archival.xml](UA069.001.DO.UA252.archival.xml) | UA252 | UA252 | Office of Communications and Marketing Records | 
  [UA069.001.DO.UP270.archival.xml](UA069.001.DO.UP270.archival.xml) | UP270 | UP270 | The Tufts Historical Review | 
