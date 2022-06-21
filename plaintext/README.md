@@ -41,6 +41,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA242.archival.xml](UA069.001.DO.UA242.archival.xml) | UA242 | UA242 | Office of Faculty Affairs at the Friedman School of Nutrition Science and Policy Records | 
  [UA069.001.DO.UP033.archival.xml](UA069.001.DO.UP033.archival.xml) | UP033 | UP033 | The Zamboni | 
  [UA069.001.DO.UA015.archival.xml](UA069.001.DO.UA015.archival.xml) | UA015 | UA015 | Fletcher School Records | 
+ [UA069.001.DO.UA015.archival.xml](UA069.001.DO.UA015.archival.xml) | UA015 | UA015 | Fletcher School Records |   [XML](120.xml)  ,  [JSON](120.json) 
  [UA069.001.DO.UA002.archival.xml](UA069.001.DO.UA002.archival.xml) | UA002 | UA002 | Office of the Provost and Senior Vice President Records | 
  [UA069.001.DO.UA003.archival.xml](UA069.001.DO.UA003.archival.xml) | UA003 | UA003 | Office of the Board of Trustees Records | 
  [UA069.001.DO.UA006.archival.xml](UA069.001.DO.UA006.archival.xml) | UA006 | UA006 | Graduate School of Arts and Sciences Records | 
