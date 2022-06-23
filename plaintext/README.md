@@ -208,6 +208,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS230.archival.xml](UA069.001.DO.MS230.archival.xml) | MS230 | MS230 | Christopher Schmidt-Nowara Papers | 
  [UA069.001.DO.UA001.archival.xml](UA069.001.DO.UA001.archival.xml) | UA001 | UA001 | Office of the President Records | 
  [UA069.001.DO.UA020.archival.xml](UA069.001.DO.UA020.archival.xml) | UA020 | UA020 | School of Dental Medicine Records | 
+ [UA069.001.DO.UA020.archival.xml](UA069.001.DO.UA020.archival.xml) | UA020 | UA020 | School of Dental Medicine Records |   [JSON](565.json) 
  [UA069.001.DO.UA021.archival.xml](UA069.001.DO.UA021.archival.xml) | UA021 | UA021 | Facilities Management Records | 
  [UA069.001.DO.UA023.archival.xml](UA069.001.DO.UA023.archival.xml) | UA023 | UA023 | Alumni/ae Records | 
  [UA069.001.DO.UA027.archival.xml](UA069.001.DO.UA027.archival.xml) | UA027 | UA027 | Nuclear Age History and Humanities Center Records | 
