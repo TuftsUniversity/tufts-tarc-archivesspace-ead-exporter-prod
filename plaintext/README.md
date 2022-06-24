@@ -238,6 +238,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS117.archival.xml](UA069.001.DO.MS117.archival.xml) | MS117 | MS117 | Russell E. Miller Papers | 
  [UA069.001.DO.MS122.archival.xml](UA069.001.DO.MS122.archival.xml) | MS122 | MS122 | David Locke Papers | 
  [UA069.001.DO.MS124.archival.xml](UA069.001.DO.MS124.archival.xml) | MS124 | MS124 | Lost Theatres of Somerville Papers | 
+ [UA069.001.DO.MS124.archival.xml](UA069.001.DO.MS124.archival.xml) | MS124 | MS124 | Lost Theatres of Somerville Papers |   [JSON](647.json) 
  [UA069.001.DO.MS133.archival.xml](UA069.001.DO.MS133.archival.xml) | MS133 | MS133 | Donald Sur Papers | 
  [UA069.001.DO.MS138.archival.xml](UA069.001.DO.MS138.archival.xml) | MS138 | MS138 | Daniel C. Dennett Papers | 
  [UA069.001.DO.MS151.archival.xml](UA069.001.DO.MS151.archival.xml) | MS151 | MS151 | Kenneth D. Roeder Papers | 
