@@ -75,6 +75,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA068.archival.xml](UA069.001.DO.UA068.archival.xml) | UA068 | UA068 | Pen, Paint, and Pretzels Records | 
  [UA069.001.DO.UA068.archival.xml](UA069.001.DO.UA068.archival.xml) | UA068 | UA068 | Pen, Paint, and Pretzels Records |   [JSON](162.json) 
  [UA069.001.DO.UA070.archival.xml](UA069.001.DO.UA070.archival.xml) | UA070 | UA070 | Department of Drama and Dance Records | 
+ [UA069.001.DO.UA070.archival.xml](UA069.001.DO.UA070.archival.xml) | UA070 | UA070 | Department of Drama and Dance Records |   [JSON](163.json) 
  [UA069.001.DO.UA072.archival.xml](UA069.001.DO.UA072.archival.xml) | UA072 | UA072 | Office of the Registrar, Arts, Sciences and Engineering Records | 
  [UA069.001.DO.UA074.archival.xml](UA069.001.DO.UA074.archival.xml) | UA074 | UA074 | Department of English Records | 
  [UA069.001.DO.UA075.archival.xml](UA069.001.DO.UA075.archival.xml) | UA075 | UA075 | Office of the Registrar, School of Medicine Records | 
