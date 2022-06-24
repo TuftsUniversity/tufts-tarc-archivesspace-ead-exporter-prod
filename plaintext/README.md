@@ -252,8 +252,10 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS170.archival.xml](UA069.001.DO.MS170.archival.xml) | MS170 | MS170 | Gerald R. Gill Papers | 
  [UA069.001.DO.MS101.archival.xml](UA069.001.DO.MS101.archival.xml) | MS101 | MS101 | Seymour O. Simches Illuminated Manuscript | 
  [UA069.001.DO.MS099.archival.xml](UA069.001.DO.MS099.archival.xml) | MS099 | MS099 | New England Medical Center Records | 
+ [UA069.001.DO.MS099.archival.xml](UA069.001.DO.MS099.archival.xml) | MS099 | MS099 | New England Medical Center Records |   [JSON](671.json) 
  [UA069.001.DO.MS209.archival.xml](UA069.001.DO.MS209.archival.xml) | MS209 | MS209 | David Johnson Photographs | 
  [UA069.001.DO.MS214.archival.xml](UA069.001.DO.MS214.archival.xml) | MS214 | MS214 | Boston Dispensary Records | 
+ [UA069.001.DO.MS214.archival.xml](UA069.001.DO.MS214.archival.xml) | MS214 | MS214 | Boston Dispensary Records |   [JSON](675.json) 
  [UA069.001.DO.MS217.archival.xml](UA069.001.DO.MS217.archival.xml) | MS217 | MS217 | Lester Gaynor Class of 1949 Memorabilia Collection | 
  [UA069.001.DO.MS218.archival.xml](UA069.001.DO.MS218.archival.xml) | MS218 | MS218 | Downing Cless Papers | 
  [UA069.001.DO.UA243.archival.xml](UA069.001.DO.UA243.archival.xml) | UA243 | UA243 | Center for the Humanities at Tufts Records | 
