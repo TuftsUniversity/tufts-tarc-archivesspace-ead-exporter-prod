@@ -65,6 +65,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA051.archival.xml](UA069.001.DO.UA051.archival.xml) | UA051 | UA051 | Department of Mechanical Engineering Records | 
  [UA069.001.DO.UA053.archival.xml](UA069.001.DO.UA053.archival.xml) | UA053 | UA053 | Black Cultural Center Seminar at Tufts Records | 
  [UA069.001.DO.UA059.archival.xml](UA069.001.DO.UA059.archival.xml) | UA059 | UA059 | Women's Club Records | 
+ [UA069.001.DO.UA059.archival.xml](UA069.001.DO.UA059.archival.xml) | UA059 | UA059 | Women's Club Records |   [JSON](152.json) 
  [UA069.001.DO.UA061.archival.xml](UA069.001.DO.UA061.archival.xml) | UA061 | UA061 | Office of the Vice President for Arts, Sciences, and Technology Records | 
  [UA069.001.DO.UA188.archival.xml](UA069.001.DO.UA188.archival.xml) | UA188 | UA188 | Lesbian, Gay, Bisexual and Transgender Center Records | 
  [UA069.001.DO.UA056.archival.xml](UA069.001.DO.UA056.archival.xml) | UA056 | UA056 | Tufts Institute of the Environment Records | 
@@ -207,6 +208,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS227.archival.xml](UA069.001.DO.MS227.archival.xml) | MS227 | MS227 | Julian Knipp Papers | 
  [UA069.001.DO.MS230.archival.xml](UA069.001.DO.MS230.archival.xml) | MS230 | MS230 | Christopher Schmidt-Nowara Papers | 
  [UA069.001.DO.UA001.archival.xml](UA069.001.DO.UA001.archival.xml) | UA001 | UA001 | Office of the President Records | 
+ [UA069.001.DO.UA001.archival.xml](UA069.001.DO.UA001.archival.xml) | UA001 | UA001 | Office of the President Records |   [XML](562.xml)  ,  [JSON](562.json) 
  [UA069.001.DO.UA020.archival.xml](UA069.001.DO.UA020.archival.xml) | UA020 | UA020 | School of Dental Medicine Records | 
  [UA069.001.DO.UA020.archival.xml](UA069.001.DO.UA020.archival.xml) | UA020 | UA020 | School of Dental Medicine Records |   [JSON](565.json) 
  [UA069.001.DO.UA021.archival.xml](UA069.001.DO.UA021.archival.xml) | UA021 | UA021 | Facilities Management Records | 
