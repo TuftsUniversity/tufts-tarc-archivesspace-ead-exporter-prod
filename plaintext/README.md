@@ -48,6 +48,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA007.archival.xml](UA069.001.DO.UA007.archival.xml) | UA007 | UA007 | School of Engineering Records | 
  [UA069.001.DO.UA009.archival.xml](UA069.001.DO.UA009.archival.xml) | UA009 | UA009 | Eliot-Pearson Department of Child Development Records | 
  [UA069.001.DO.UA010.archival.xml](UA069.001.DO.UA010.archival.xml) | UA010 | UA010 | School of Medicine Records | 
+ [UA069.001.DO.UA010.archival.xml](UA069.001.DO.UA010.archival.xml) | UA010 | UA010 | School of Medicine Records |   [JSON](128.json)  ,  [XML](128.xml) 
  [UA069.001.DO.UA011.archival.xml](UA069.001.DO.UA011.archival.xml) | UA011 | UA011 | Office of Alumni Relations Records | 
  [UA069.001.DO.UA012.archival.xml](UA069.001.DO.UA012.archival.xml) | UA012 | UA012 | Office of Publications Records |   [JSON](130.json) 
  [UA069.001.DO.UA012.archival.xml](UA069.001.DO.UA012.archival.xml) | UA012 | UA012 | Office of Publications Records | 
