@@ -177,6 +177,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS157.archival.xml](UA069.001.DO.MS157.archival.xml) | MS157 | MS157 | Something About the Women Radio Show Records | 
  [UA069.001.DO.MS160.archival.xml](UA069.001.DO.MS160.archival.xml) | MS160 | MS160 | Alvin Howell Papers | 
  [UA069.001.DO.MS161.archival.xml](UA069.001.DO.MS161.archival.xml) | MS161 | MS161 | Gerhard Schmidt Oral Histories | 
+ [UA069.001.DO.MS173.archival.xml](UA069.001.DO.MS173.archival.xml) | MS173 | MS173 | Earl Stanley and Charles H. Stewart Theater Collection |   [JSON](383.json) 
  [UA069.001.DO.MS173.archival.xml](UA069.001.DO.MS173.archival.xml) | MS173 | MS173 | Earl Stanley and Charles H. Stewart Theater Collection | 
  [UA069.001.DO.MS177.archival.xml](UA069.001.DO.MS177.archival.xml) | MS177 | MS177 | Ellen L. Lutz Papers | 
  [UA069.001.DO.MS225.archival.xml](UA069.001.DO.MS225.archival.xml) | MS225 | MS225 | Janet Brewster Murrow and Edward R. Murrow Family Papers | 
@@ -222,6 +223,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA129.archival.xml](UA069.001.DO.UA129.archival.xml) | UA129 | UA129 | Dining Services Records | 
  [UA069.001.DO.UA134.archival.xml](UA069.001.DO.UA134.archival.xml) | UA134 | UA134 | Department of Public and Environmental Safety Records | 
  [UA069.001.DO.UA146.archival.xml](UA069.001.DO.UA146.archival.xml) | UA146 | UA146 | Office of Educational Affairs, School of Medicine Records | 
+ [UA069.001.DO.MS003.archival.xml](UA069.001.DO.MS003.archival.xml) | MS003 | MS003 | Henry Y. Porter Theater Memorabilia Collection | 
  [UA069.001.DO.MS188.archival.xml](UA069.001.DO.MS188.archival.xml) | MS188 | MS188 | Donald B. Darling Papers | 
  [UA069.001.DO.MS024.archival.xml](UA069.001.DO.MS024.archival.xml) | MS024 | MS024 | Donald and Charlotte MacJannet Papers | 
  [UA069.001.DO.MS031.archival.xml](UA069.001.DO.MS031.archival.xml) | MS031 | MS031 | Sumner Ware Shepard Papers | 
