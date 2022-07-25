@@ -220,6 +220,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA029.archival.xml](UA069.001.DO.UA029.archival.xml) | UA029 | UA029 | Student Body Collection | 
  [UA069.001.DO.UA033.archival.xml](UA069.001.DO.UA033.archival.xml) | UA033 | UA033 | Jackson College for Women Records | 
  [UA069.001.DO.UA039.archival.xml](UA069.001.DO.UA039.archival.xml) | UA039 | UA039 | Classes Collection | 
+ [UA069.001.DO.UA039.archival.xml](UA069.001.DO.UA039.archival.xml) | UA039 | UA039 | Classes Collection |   [XML](576.xml)  ,  [JSON](576.json) 
  [UA069.001.DO.UA057.archival.xml](UA069.001.DO.UA057.archival.xml) | UA057 | UA057 | Office of Equal Opportunity Records | 
  [UA069.001.DO.UA058.archival.xml](UA069.001.DO.UA058.archival.xml) | UA058 | UA058 | General Administration Records | 
  [UA069.001.DO.UA129.archival.xml](UA069.001.DO.UA129.archival.xml) | UA129 | UA129 | Dining Services Records | 
