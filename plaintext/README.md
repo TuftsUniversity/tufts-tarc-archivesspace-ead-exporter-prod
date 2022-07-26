@@ -100,6 +100,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA116.archival.xml](UA069.001.DO.UA116.archival.xml) | UA116 | UA116 | University Chaplaincy Records | 
  [UA069.001.DO.UA117.archival.xml](UA069.001.DO.UA117.archival.xml) | UA117 | UA117 | Housing and Residential Life Records | 
  [UA069.001.DO.UA120.archival.xml](UA069.001.DO.UA120.archival.xml) | UA120 | UA120 | Global Development and Environment Institute Records | 
+ [UA069.001.DO.UA120.archival.xml](UA069.001.DO.UA120.archival.xml) | UA120 | UA120 | Global Development and Environment Institute Records |   [JSON](205.json) 
  [UA069.001.DO.UA121.archival.xml](UA069.001.DO.UA121.archival.xml) | UA121 | UA121 | Financial Aid Records | 
  [UA069.001.DO.UA124.archival.xml](UA069.001.DO.UA124.archival.xml) | UA124 | UA124 | Office of Student Activities Records | 
  [UA069.001.DO.UA126.archival.xml](UA069.001.DO.UA126.archival.xml) | UA126 | UA126 | Department of Philosophy Records | 
