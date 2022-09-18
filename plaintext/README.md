@@ -6,11 +6,13 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA041.archival.xml](UA069.001.DO.UA041.archival.xml) | UA041 | UA041 | Cummings School of Veterinary Medicine Records | 
  [UA069.001.DO.UA052.archival.xml](UA069.001.DO.UA052.archival.xml) | UA052 | UA052 | Office of the Vice-President for Planning Records | 
  [UA069.001.DO.UA054.archival.xml](UA069.001.DO.UA054.archival.xml) | UA054 | UA054 | Office of the Dean, Fletcher School Records | 
+ [UA069.001.DO.UA054.archival.xml](UA069.001.DO.UA054.archival.xml) | UA054 | UA054 | Office of the Dean, Fletcher School Records |   [JSON](7.json) 
  [UA069.001.DO.UA069.archival.xml](UA069.001.DO.UA069.archival.xml) | UA069 | UA069 | Digital Collections and Archives Records | 
  [UA069.001.DO.UA090.archival.xml](UA069.001.DO.UA090.archival.xml) | UA090 | UA090 | Department of Urban and Environmental Policy and Planning Records | 
  [UA069.001.DO.UA097.archival.xml](UA069.001.DO.UA097.archival.xml) | UA097 | UA097 | University Bookstore Records | 
  [UA069.001.DO.UA132.archival.xml](UA069.001.DO.UA132.archival.xml) | UA132 | UA132 | Friedman School of Nutrition Science and Policy Records | 
  [UA069.001.DO.UA133.archival.xml](UA069.001.DO.UA133.archival.xml) | UA133 | UA133 | School of the Museum of Fine Arts Records | 
+ [UA069.001.DO.UA133.archival.xml](UA069.001.DO.UA133.archival.xml) | UA133 | UA133 | School of the Museum of Fine Arts Records |   [JSON](15.json) 
  [UA069.001.DO.UA137.archival.xml](UA069.001.DO.UA137.archival.xml) | UA137 | UA137 | Tisch Library Records | 
  [UA069.001.DO.UA145.archival.xml](UA069.001.DO.UA145.archival.xml) | UA145 | UA145 | Department of Classical Studies Records | 
  [UA069.001.DO.UA145.archival.xml](UA069.001.DO.UA145.archival.xml) | UA145 | UA145 | Department of Classical Studies Records |   [JSON](17.json) 
@@ -61,6 +63,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA042.archival.xml](UA069.001.DO.UA042.archival.xml) | UA042 | UA042 | Office of Institutional Research and Evaluation Records | 
  [UA069.001.DO.UA044.archival.xml](UA069.001.DO.UA044.archival.xml) | UA044 | UA044 | Experimental College Records | 
  [UA069.001.DO.UA044.archival.xml](UA069.001.DO.UA044.archival.xml) | UA044 | UA044 | Experimental College Records |   [JSON](144.json) 
+ [UA069.001.DO.UA045.archival.xml](UA069.001.DO.UA045.archival.xml) | UA045 | UA045 | Office of the Dean of Arts, Sciences, and Engineering Records | 
  [UA069.001.DO.UA046.archival.xml](UA069.001.DO.UA046.archival.xml) | UA046 | UA046 | Department of Physical Education and Athletics Records | 
  [UA069.001.DO.UA049.archival.xml](UA069.001.DO.UA049.archival.xml) | UA049 | UA049 | Office of Undergraduate Education Records | 
  [UA069.001.DO.UA051.archival.xml](UA069.001.DO.UA051.archival.xml) | UA051 | UA051 | Department of Mechanical Engineering Records | 
@@ -77,6 +80,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA070.archival.xml](UA069.001.DO.UA070.archival.xml) | UA070 | UA070 | Department of Drama and Dance Records | 
  [UA069.001.DO.UA070.archival.xml](UA069.001.DO.UA070.archival.xml) | UA070 | UA070 | Department of Drama and Dance Records |   [JSON](163.json) 
  [UA069.001.DO.UA072.archival.xml](UA069.001.DO.UA072.archival.xml) | UA072 | UA072 | Office of the Registrar, Arts, Sciences and Engineering Records | 
+ [UA069.001.DO.UA072.archival.xml](UA069.001.DO.UA072.archival.xml) | UA072 | UA072 | Office of the Registrar, Arts, Sciences and Engineering Records |   [JSON](164.json) 
  [UA069.001.DO.UA074.archival.xml](UA069.001.DO.UA074.archival.xml) | UA074 | UA074 | Department of English Records | 
  [UA069.001.DO.UA075.archival.xml](UA069.001.DO.UA075.archival.xml) | UA075 | UA075 | Office of the Registrar, School of Medicine Records | 
  [UA069.001.DO.UA080.archival.xml](UA069.001.DO.UA080.archival.xml) | UA080 | UA080 | Eliot-Pearson Children's School Records | 
@@ -109,6 +113,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA131.archival.xml](UA069.001.DO.UA131.archival.xml) | UA131 | UA131 | Electro-Optics Technology Center Records | 
  [UA069.001.DO.UA135.archival.xml](UA069.001.DO.UA135.archival.xml) | UA135 | UA135 | Office of the Dean, Graduate School of Arts and Sciences Records | 
  [UA069.001.DO.UA136.archival.xml](UA069.001.DO.UA136.archival.xml) | UA136 | UA136 | Historical Materials Collection | 
+ [UA069.001.DO.UA136.archival.xml](UA069.001.DO.UA136.archival.xml) | UA136 | UA136 | Historical Materials Collection |   [JSON](217.json)  ,  [XML](217.xml) 
  [UA069.001.DO.UA138.archival.xml](UA069.001.DO.UA138.archival.xml) | UA138 | UA138 | Educational Media Center Records | 
  [UA069.001.DO.UA141.archival.xml](UA069.001.DO.UA141.archival.xml) | UA141 | UA141 | Humanities in the Millenium Records | 
  [UA069.001.DO.UA142.archival.xml](UA069.001.DO.UA142.archival.xml) | UA142 | UA142 | Student Council of Tufts College Records | 
@@ -145,6 +150,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS014.archival.xml](UA069.001.DO.MS014.archival.xml) | MS014 | MS014 | Political Research Associates Records |   [JSON](285.json) 
  [UA069.001.DO.MS014.archival.xml](UA069.001.DO.MS014.archival.xml) | MS014 | MS014 | Political Research Associates Records | 
  [UA069.001.DO.MS004.archival.xml](UA069.001.DO.MS004.archival.xml) | MS004 | MS004 | Edwin C. Bolles Papers | 
+ [UA069.001.DO.MS004.archival.xml](UA069.001.DO.MS004.archival.xml) | MS004 | MS004 | Edwin C. Bolles Papers |   [JSON](286.json) 
  [UA069.001.DO.MS005.archival.xml](UA069.001.DO.MS005.archival.xml) | MS005 | MS005 | Atomic Veterans Records | 
  [UA069.001.DO.UP006.archival.xml](UA069.001.DO.UP006.archival.xml) | UP006 | UP006 | Arts and Sciences and Engineering Bulletins | 
  [UA069.001.DO.UP012.archival.xml](UA069.001.DO.UP012.archival.xml) | UP012 | UP012 | Hemispheres: The Tufts University Journal of International Affairs | 
@@ -178,6 +184,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS152.archival.xml](UA069.001.DO.MS152.archival.xml) | MS152 | MS152 | John Leland Hedges Papers | 
  [UA069.001.DO.MS153.archival.xml](UA069.001.DO.MS153.archival.xml) | MS153 | MS153 | Boston Sub-Masters Association Records | 
  [UA069.001.DO.MS154.archival.xml](UA069.001.DO.MS154.archival.xml) | MS154 | MS154 | Bernhard Gottlieb Papers | 
+ [UA069.001.DO.MS156.archival.xml](UA069.001.DO.MS156.archival.xml) | MS156 | MS156 | Louise Z. Young Photographs | 
  [UA069.001.DO.MS157.archival.xml](UA069.001.DO.MS157.archival.xml) | MS157 | MS157 | Something About the Women Radio Show Records | 
  [UA069.001.DO.MS160.archival.xml](UA069.001.DO.MS160.archival.xml) | MS160 | MS160 | Alvin Howell Papers | 
  [UA069.001.DO.MS161.archival.xml](UA069.001.DO.MS161.archival.xml) | MS161 | MS161 | Gerhard Schmidt Oral Histories | 
@@ -188,14 +195,18 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS195.archival.xml](UA069.001.DO.MS195.archival.xml) | MS195 | MS195 | Raoul Bott Papers | 
  [UA069.001.DO.MS196.archival.xml](UA069.001.DO.MS196.archival.xml) | MS196 | MS196 | ACCION International Records |   [XML](402.xml)  ,  [JSON](402.json) 
  [UA069.001.DO.MS196.archival.xml](UA069.001.DO.MS196.archival.xml) | MS196 | MS196 | ACCION International Records | 
+ [UA069.001.DO.MS197.archival.xml](UA069.001.DO.MS197.archival.xml) | MS197 | MS197 | Phillip L. Zweig Collection on Walter Wriston |   [JSON](405.json) 
  [UA069.001.DO.MS197.archival.xml](UA069.001.DO.MS197.archival.xml) | MS197 | MS197 | Phillip L. Zweig Collection on Walter Wriston | 
+ [UA069.001.DO.UP024.archival.xml](UA069.001.DO.UP024.archival.xml) | UP024 | UP024 | The Jumbo Yearbook | 
  [UA069.001.DO.UP027.archival.xml](UA069.001.DO.UP027.archival.xml) | UP027 | UP027 | Application and Admissions Publications | 
  [UA069.001.DO.UP038.archival.xml](UA069.001.DO.UP038.archival.xml) | UP038 | UP038 | Crane Review | 
  [UA069.001.DO.UP049.archival.xml](UA069.001.DO.UP049.archival.xml) | UP049 | UP049 | Public Journal | 
  [UA069.001.DO.UP052.archival.xml](UA069.001.DO.UP052.archival.xml) | UP052 | UP052 | Tufts Magazine | 
  [UA069.001.DO.UP054.archival.xml](UA069.001.DO.UP054.archival.xml) | UP054 | UP054 | Tufts Journal | 
  [UA069.001.DO.UP055.archival.xml](UA069.001.DO.UP055.archival.xml) | UP055 | UP055 | Tufts Observer | 
+ [UA069.001.DO.UP055.archival.xml](UA069.001.DO.UP055.archival.xml) | UP055 | UP055 | Tufts Observer |   [JSON](426.json) 
  [UA069.001.DO.UP056.archival.xml](UA069.001.DO.UP056.archival.xml) | UP056 | UP056 | Tufts Weekly | 
+ [UA069.001.DO.UP056.archival.xml](UA069.001.DO.UP056.archival.xml) | UP056 | UP056 | Tufts Weekly |   [JSON](427.json) 
  [UA069.001.DO.UP058.archival.xml](UA069.001.DO.UP058.archival.xml) | UP058 | UP058 | Tufts Hilltopper | 
  [UA069.001.DO.UP126.archival.xml](UA069.001.DO.UP126.archival.xml) | UP126 | UP126 | Tufts University Health Sciences News | 
  [UA069.001.DO.UP215.archival.xml](UA069.001.DO.UP215.archival.xml) | UP215 | UP215 | Short-Run Student Publications | 
@@ -214,6 +225,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS230.archival.xml](UA069.001.DO.MS230.archival.xml) | MS230 | MS230 | Christopher Schmidt-Nowara Papers | 
  [UA069.001.DO.UA001.archival.xml](UA069.001.DO.UA001.archival.xml) | UA001 | UA001 | Office of the President Records | 
  [UA069.001.DO.UA001.archival.xml](UA069.001.DO.UA001.archival.xml) | UA001 | UA001 | Office of the President Records |   [XML](562.xml)  ,  [JSON](562.json) 
+ [UA069.001.DO.UA004.archival.xml](UA069.001.DO.UA004.archival.xml) | UA004 | UA004 | Academics Collection | 
  [UA069.001.DO.UA020.archival.xml](UA069.001.DO.UA020.archival.xml) | UA020 | UA020 | School of Dental Medicine Records | 
  [UA069.001.DO.UA020.archival.xml](UA069.001.DO.UA020.archival.xml) | UA020 | UA020 | School of Dental Medicine Records |   [JSON](565.json) 
  [UA069.001.DO.UA021.archival.xml](UA069.001.DO.UA021.archival.xml) | UA021 | UA021 | Facilities Management Records | 
@@ -225,6 +237,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA039.archival.xml](UA069.001.DO.UA039.archival.xml) | UA039 | UA039 | Classes Collection |   [XML](576.xml)  ,  [JSON](576.json) 
  [UA069.001.DO.UA057.archival.xml](UA069.001.DO.UA057.archival.xml) | UA057 | UA057 | Office of Equal Opportunity Records | 
  [UA069.001.DO.UA058.archival.xml](UA069.001.DO.UA058.archival.xml) | UA058 | UA058 | General Administration Records | 
+ [UA069.001.DO.UA073.archival.xml](UA069.001.DO.UA073.archival.xml) | UA073 | UA073 | Vertical File Collection | 
  [UA069.001.DO.UA129.archival.xml](UA069.001.DO.UA129.archival.xml) | UA129 | UA129 | Dining Services Records | 
  [UA069.001.DO.UA134.archival.xml](UA069.001.DO.UA134.archival.xml) | UA134 | UA134 | Department of Public and Environmental Safety Records | 
  [UA069.001.DO.UA146.archival.xml](UA069.001.DO.UA146.archival.xml) | UA146 | UA146 | Office of Educational Affairs, School of Medicine Records | 
@@ -232,7 +245,9 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS188.archival.xml](UA069.001.DO.MS188.archival.xml) | MS188 | MS188 | Donald B. Darling Papers | 
  [UA069.001.DO.MS024.archival.xml](UA069.001.DO.MS024.archival.xml) | MS024 | MS024 | Donald and Charlotte MacJannet Papers | 
  [UA069.001.DO.MS031.archival.xml](UA069.001.DO.MS031.archival.xml) | MS031 | MS031 | Sumner Ware Shepard Papers | 
+ [UA069.001.DO.MS036.archival.xml](UA069.001.DO.MS036.archival.xml) | MS036 | MS036 | Melville S. Munro Papers | 
  [UA069.001.DO.MS039.archival.xml](UA069.001.DO.MS039.archival.xml) | MS039 | MS039 | William D. Hersey Papers | 
+ [UA069.001.DO.MS039.archival.xml](UA069.001.DO.MS039.archival.xml) | MS039 | MS039 | William D. Hersey Papers |   [JSON](611.json) 
  [UA069.001.DO.MS043.archival.xml](UA069.001.DO.MS043.archival.xml) | MS043 | MS043 | Frederick A. Masse Jr. Papers | 
  [UA069.001.DO.MS046.archival.xml](UA069.001.DO.MS046.archival.xml) | MS046 | MS046 | Harold G. Simms Papers | 
  [UA069.001.DO.MS047.archival.xml](UA069.001.DO.MS047.archival.xml) | MS047 | MS047 | George Preston Bacon Papers | 
@@ -270,8 +285,10 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS241.archival.xml](UA069.001.DO.MS241.archival.xml) | MS241 | MS241 | Phil Primack Papers | 
  [UA069.001.DO.UA252.archival.xml](UA069.001.DO.UA252.archival.xml) | UA252 | UA252 | Office of Communications and Marketing Records | 
  [UA069.001.DO.UP270.archival.xml](UA069.001.DO.UP270.archival.xml) | UP270 | UP270 | The Tufts Historical Review | 
- [UA069.001.DO.MS254.archival.xml](UA069.001.DO.MS254.archival.xml) | MS254 | MS254 | Christopher Coenen Collection on P. T. Barnum and Tom Thumb | 
- [UA069.001.DO.MS261.archival.xml](UA069.001.DO.MS261.archival.xml) | MS261 | MS261 | Sarah Moore Field Collection: PLACEHOLDER | 
+ [UA069.001.DO.MS254.archival.xml](UA069.001.DO.MS254.archival.xml) | MS254 | MS254 | Chris Coenen Collection on General Tom Thumb | 
+ [UA069.001.DO.MS254.archival.xml](UA069.001.DO.MS254.archival.xml) | MS254 | MS254 | Christopher Coenen Collection on P. T. Barnum and Tom Thumb |   [XML](842.xml)  ,  [JSON](842.json) 
+ [UA069.001.DO.MS261.archival.xml](UA069.001.DO.MS261.archival.xml) | MS261 | MS261 | Sarah Moore Field Collection | 
+ [UA069.001.DO.MS261.archival.xml](UA069.001.DO.MS261.archival.xml) | MS261 | MS261 | Sarah Moore Field Collection: PLACEHOLDER |   [XML](847.xml)  ,  [JSON](847.json) 
  [UA069.001.DO.MS263.archival.xml](UA069.001.DO.MS263.archival.xml) | MS263 | MS263 | Lillian Seavey Artwork | 
  [UA069.001.DO.MS264.archival.xml](UA069.001.DO.MS264.archival.xml) | MS264 | MS264 | Tufts Food Rescue Collaborative Records | 
  [UA069.001.DO.UP274.archival.xml](UA069.001.DO.UP274.archival.xml) | UP274 | UP274 | Future Histories | 
