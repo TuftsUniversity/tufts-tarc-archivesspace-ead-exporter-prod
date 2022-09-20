@@ -130,6 +130,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA164.archival.xml](UA069.001.DO.UA164.archival.xml) | UA164 | UA164 | Tufts Community Union Judiciary Records | 
  [UA069.001.DO.UA165.archival.xml](UA069.001.DO.UA165.archival.xml) | UA165 | UA165 | Dance Program Records | 
  [UA069.001.DO.UA166.archival.xml](UA069.001.DO.UA166.archival.xml) | UA166 | UA166 | Office of the Vice Provost Records | 
+ [UA069.001.DO.UA176.archival.xml](UA069.001.DO.UA176.archival.xml) | UA176 | UA176 | Tufts Daily Records |   [JSON](244.json) 
  [UA069.001.DO.UA176.archival.xml](UA069.001.DO.UA176.archival.xml) | UA176 | UA176 | Tufts Daily Records | 
  [UA069.001.DO.UA182.archival.xml](UA069.001.DO.UA182.archival.xml) | UA182 | UA182 | Web Central Records | 
  [UA069.001.DO.UA183.archival.xml](UA069.001.DO.UA183.archival.xml) | UA183 | UA183 | Jonathan M. Tisch College of Civic Life Records | 
