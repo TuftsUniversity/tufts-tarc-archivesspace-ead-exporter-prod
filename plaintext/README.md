@@ -300,4 +300,5 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS270.archival.xml](UA069.001.DO.MS270.archival.xml) | MS270 | MS270 | Tufts Student Activism Collection | 
  [UA069.001.DO.UP277.archival.xml](UA069.001.DO.UP277.archival.xml) | UP277 | UP277 | The Palmier | 
  [UA069.001.DO.MS275.archival.xml](UA069.001.DO.MS275.archival.xml) | MS275 | MS275 | John A. Seaverns Equine Collection | 
+ [UA069.001.DO.MS276.archival.xml](UA069.001.DO.MS276.archival.xml) | MS276 | MS276 | Civil War Era Correspondence | 
 
