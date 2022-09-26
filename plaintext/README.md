@@ -203,6 +203,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS197.archival.xml](UA069.001.DO.MS197.archival.xml) | MS197 | MS197 | Phillip L. Zweig Collection on Walter Wriston | 
  [UA069.001.DO.UP024.archival.xml](UA069.001.DO.UP024.archival.xml) | UP024 | UP024 | The Jumbo Yearbook | 
  [UA069.001.DO.UP027.archival.xml](UA069.001.DO.UP027.archival.xml) | UP027 | UP027 | Application and Admissions Publications | 
+ [UA069.001.DO.UP037.archival.xml](UA069.001.DO.UP037.archival.xml) | UP037 | UP037 | Commencement Programs | 
  [UA069.001.DO.UP038.archival.xml](UA069.001.DO.UP038.archival.xml) | UP038 | UP038 | Crane Review | 
  [UA069.001.DO.UP049.archival.xml](UA069.001.DO.UP049.archival.xml) | UP049 | UP049 | Public Journal | 
  [UA069.001.DO.UP052.archival.xml](UA069.001.DO.UP052.archival.xml) | UP052 | UP052 | Tufts Magazine | 
