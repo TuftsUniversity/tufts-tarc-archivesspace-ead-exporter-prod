@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US">MS276</eadid><filedesc><titlestmt><titleproper>Civil War Era Correspondence<num>MS276</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-05 09:24:26 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Civil War Era Correspondence</unittitle>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Barnes, Joseph H.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Baldwin, Clark B.</persname>
+    </origination>
+    <origination label="Creator">
+      <persname rules="rda" source="local">Webster, W. E. </persname>
+    </origination>
+    <unitid>MS276</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent>
+      <extent altrender="carrier">3 folders</extent>
+    </physdesc>
+    <unitdate normal="1859/1864" type="inclusive">1859 -- 1864</unitdate>
+    <abstract id="aspace_4becd1dc53c00939c26901ab05562b97">This collection contains correspondence related to political matters and the Civil War, sent by three New England residents (Joseph H. Barnes, Clark B. Baldwin, and W. E. Webster) between 1859 and 1864.</abstract>
+    <langmaterial>
+      <language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+  </did>
+  <arrangement id="aspace_e884a49510ffd783960b5e211c6236d1">
+    <head>Arrangement</head>
+<p>This collection is arranged chronologically.</p>  </arrangement>
+  <bioghist id="aspace_28ce2839fe1350085d68cf2ca03ccc6f">
+    <head>Biographical / Historical</head>
+<p>Clark B. Baldwin (1817 – 1890) served first as Captain of Company E, then as Lieutenant Colonel of Company S, in the 1st Massachusetts Infantry Regiment during the Civil War. Lieutenant Colonel Baldwin was born in December 1817, and was working as a clerk in South Boston, Massachusetts when he enlisted in the Union Army at age 40. Baldwin was in command of the 1st Massachusetts Regiment during the Battle of Gettysburg in July 1863, and was wounded during the conflict. In May 1864, he was captured by the Confederate forces at Wilderness, Virginia. Baldwin was held as a prisoner of war at Macon, Georgia and Charleston, South Carolina, before eventually being exchanged in August 1864. Clark B. Baldwin died on November 10, 1890 and is buried in Melrose, Massachusetts.</p><p>Joseph Henry Barnes (1833 -- 1906) served as Lieutenant Colonel of the 29th Massachusetts Infantry Regiment, Company K, during the Civil War. Lieutenant Colonel Joseph H. Barnes was born on July 25, 1833 in Hingham, Massachusetts. He worked as a printer in East Boston, before raising a militia company called the Greenough Guards in 1861. The company was commissioned for federal service in Boston, in May 1861. In December 1861 the company was formally organized as the 29th Massachusetts Infantry, Company K, and Barnes was appointed Lieutenant Colonel. The 29th Massachusetts was a part of the Irish Brigade during the Battle of Antietam on September 17, 1862, and Barnes was in command of the unit during the Sunken Road phase of the conflict. After the war, Barnes remained active in veterans' organizations, and he was appointed as a Deputy Collector of the Port of Boston in March 1874. He married Anna Delia Stickney (1834 -- 1919) in 1866, and the couple had 3 children. Joseph H. Barnes died on January 10, 1906 and is buried in Hingham Cemetery.</p><p>W. E. Webster could not be further identified.</p>  </bioghist>
+  <accessrestrict id="aspace_0fca74fae7ebf25fde2b848310745bf6">
+    <head>Conditions Governing Access</head>
+<p>This collection is open for research.</p>  </accessrestrict>
+  <userestrict id="aspace_07f7fdfaa2bd7b1670419d8a7d45b418">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Any intellectual property rights that the donor possesses have been transferred to Tufts University.</p>  </userestrict>
+  <acqinfo id="aspace_a67856767910b95c3b18657253c7988f">
+    <head>Immediate Source of Acquisition</head>
+<p>Gift of Dana B. Hastings Family, 2021, accession MS-2023-015.</p>  </acqinfo>
+  <prefercite id="aspace_81a8dae3e644b33e02e301d4b41123ca">
+    <head>Preferred Citation</head>
+<p>Civil War Era Correspondence, 1859 -- 1864. Tufts University. Digital Collections and Archives. Medford, MA.</p>  </prefercite>
+  <processinfo id="aspace_626bafe2f3631b46d288208e9aa2a205">
+    <head>Processing Information</head>
+<p>Kate McNally, Records and Accessioning Archivist, processed these materials in 2022. The materials were placed in folders by correspondent, and arranged chronologically to facilitate research use. Titles were devised for the collection.</p>  </processinfo>
+  <scopecontent id="aspace_d54603c690ab88664f0cff60431fced1">
+    <head>Scope and Contents</head>
+<p>This collection contains four letters from New England residents (Joseph H. Barnes, Clark B. Baldwin, and W. E. Webster), sent between 1859 -- 1864. Also included are typewritten transcriptions of the correspondence, as well as biographical information resources related to Joseph H. Barnes and Clark B. Baldwin. The correspondence from Joseph H. Barnes is related to his service with the 29th Massachusetts Infantry, and the correspondence from Clark B. Baldwin concerns his service with the 1st Massachusetts Infantry Regiment and his time as a Prisoner of War in Charleston, South Carolina. W. E. Webster's correspondence is related to military affairs in Hartford, Connecticut.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="local">Civil War</subject>
+    <subject authfilenumber="sh 85026421" source="lcsh">Civil War</subject>
+  </controlaccess>
+  <dsc><c id="aspace_ad1d0a9fae4f58474a7f9ed0f482460d" level="file"><did><unittitle>W. E. Webster correspondence</unittitle><unitid>MS276.000001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent><extent altrender="carrier">1 folder</extent></physdesc><unitdate normal="1859-06-01/1859-06-01">1859 June 01</unitdate><container altrender="Half letter size document box" id="aspace_f206c0513f73ae76963c88fc232d28ff" label="Text [39090017905809]" type="box">1</container><container id="aspace_3b1e203442859fabceae7cb621b4e96b" parent="aspace_f206c0513f73ae76963c88fc232d28ff" type="folder">1</container></did></c><c id="aspace_64edc13039bf08c45b70db3916a1ac92" level="file"><did><unittitle>Joseph H. Barnes correspondence</unittitle><unitid>MS276.000002</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent><extent altrender="carrier">1 folder</extent></physdesc><unitdate normal="1861-10-15/1861-10-15">1861 October 15</unitdate><container altrender="Half letter size document box" id="aspace_65852b1b06ee659a4f6446d94e94c484" label="Text [39090017905809]" type="box">1</container><container id="aspace_575528022ee4dd31104bbe4f15b0852a" parent="aspace_65852b1b06ee659a4f6446d94e94c484" type="folder">2</container></did></c><c id="aspace_2c2eff8b7c7920fd24549cfaed1040bb" level="file"><did><unittitle>Clark B. Baldwin correspondence</unittitle><unitid>MS276.000003</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent><extent altrender="carrier">1 folder</extent></physdesc><unitdate normal="1864-07-25/1864-07-25">1864 July 25</unitdate><container altrender="Half letter size document box" id="aspace_a673975fcc441d3f26672f417f06e4eb" label="Text [39090017905809]" type="box">1</container><container id="aspace_21c5805dbf3272412f9360c4136258a6" parent="aspace_a673975fcc441d3f26672f417f06e4eb" type="folder">3</container></did></c></dsc>
+</archdesc>
+</ead>
