@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid countrycode="US" url="http://hdl.handle.net/10427/003647">MS197</eadid><filedesc><titlestmt><titleproper>Phillip L. Zweig Collection on Walter Wriston<num>MS197</num></titleproper></titlestmt><publicationstmt><publisher>Digital Collections and Archives, Tufts University</publisher><p id="logostmt"><extref xlink:actuate="onLoad" xlink:href="https://dca.tufts.edu/themes/custom/dca_foundation/images/logos/full_with_icon.svg" xlink:show="embed" xlink:type="simple"/></p><address><addressline>35 Professors Row</addressline><addressline>Tisch Library Building</addressline><addressline>Tufts University</addressline><addressline>Medford, Massachusetts 02155</addressline><addressline>archives@tufts.edu</addressline><addressline>URL: <extptr xlink:href="https://dca.tufts.edu/" xlink:show="new" xlink:title="https://dca.tufts.edu/" xlink:type="simple"/></addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-09-18 10:18:29 -0400</date>.</creation></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Digital Collections and Archives, Tufts University</corpname>
+    </repository>
+    <unittitle>Phillip L. Zweig Collection on Walter Wriston</unittitle>
+    <origination label="Creator">
+      <persname source="local">Wriston, Walter B. </persname>
+    </origination>
+    <origination label="Creator">
+      <persname source="local">Zweig, Phillip L.</persname>
+    </origination>
+    <unitid>MS197</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">12 Linear Feet</extent>
+      <extent altrender="carrier">10 boxes</extent>
+    </physdesc>
+    <unitdate normal="1900/1997" type="inclusive">1900 -- 1997</unitdate>
+    <langmaterial id="aspace_723ebf800f7e10088977746ea115075b">English</langmaterial>
+  </did>
+  <arrangement id="aspace_42fa7a7579d2e15af52044e590b1462a">
+    <head>Arrangement</head>
+<p>This collection is not yet processed.</p>  </arrangement>
+  <custodhist id="aspace_65ea90f53bf0d3e643eb626a3eca9313">
+    <head>Custodial History</head>
+<p>Materials were stored at Zweig's summer home on Martha's Vineyard where they were exposed to damp conditions. Materials arrived at DCA with a strong mildew smell and most metal fasteners severely rusted. A minority of the boxes had been attended to prior to transfer and had rusted fasteners replaced with coated paperclips, but this activity was not uniformly executed.</p>  </custodhist>
+  <processinfo id="aspace_6f0374b1ca9fdd8cc51824635d02c649">
+    <head>Processing Information</head>
+<p>Basic stabilization of materials occurred at time of accession. Materials were exposed to damp conditions prior to transfer and the majority of rusty fasteners were removed except in those cases where a later determination may be made to photocopy the originals entirely. One folder in box 4 was completely photocopied and the originals removed from the collection due to noticeable dampness in the paper and discoloration indicative of active mold growth.</p>  </processinfo>
+  <scopecontent id="aspace_24ca1fc38967a4dcef505712a09704a9">
+    <head>Scope and Contents</head>
+<p>This collection consists of research materials created or compiled by Phillip Zweig during the writing of his 1996 biography of Walter B. Wriston. It includes articles, annual reports, oral histories and other documentation related to Citibank and biographical information related to Wriston and his impact at Citibank.</p>  </scopecontent>
+  <bioghist id="aspace_338dfa6b069a3b257cb95836007e9bee">
+    <head>Biographical / Historical</head>
+<p>Phillip L. Zweig is an award-winning financial journalist and author with a long track record writing prescient, groundbreaking articles and books on banking and finance. After breaking into print as a freelancer in the mid-1970s writing about sailing, shipping, and banking, he joined the American Banker in 1980 as a staff reporter. Less than two years later, he broke the story on the risky lending practices and wild antics of the Penn Square Bank of Oklahoma City, forcing the U. S. government to close the bank on July 5, 1982. The Penn Square failure wreaked havoc in the U. S. banking system and led to the collapse of the Seattle-First National Bank in 1983 and giant Continental Illinois a year later. For his coverage, he received the George Polk, Gerald Loeb, John Hancock, and Deadline Club awards in journalism and was cited by the U. S. Congress, the Columbia Journalism Review, and the Bank &amp; Financial Analysts Association.</p><p>Zweig may be the only journalist whose reporting has actually forced the U. S. government to shutter a rogue financial institution, and one of a handful who has burst a market bubble. The collapse of Penn Square, together with the Mexican debt crisis, prompted the Federal Reserve to slash interest rates by five percentage points over the next several weeks, unleashing the longest bull market in history. In many respects, the Penn Square debacle set the stage for the current financial crisis. Most significantly, the 1984 rescue of Continental by the federal government gave rise to the "Too Big to Fail" doctrine, which governed the recent bailouts of Bear Stearns, Washington Mutual, Citigroup, and AIG, among others.</p><p>In 1985, Crown published "Belly Up: The Collapse of the Penn Square Bank," a national best-seller that received rave reviews from The New York Times, The Wall Street Journal, Fortune and many other publications. Reporting for the Journal, he foreshadowed the savings and loan crisis with a page one August 1985 story on risky savings and loan lending practices. In 1997, as a finance editor at Business Week, he sounded the first alarm on the "minefields" of credit default swaps, which played a pivotal role in the worst financial crisis since the Great Depression.</p><p>His 1996 biography of Walter B. Wriston, the late chairman and CEO of what is now Citigroup, was a finalist in the 1997 Financial Times/​Booz-Allen &amp; Hamilton Global Business Books awards. Zweig also initiated and edited "The Asset Securitization Handbook," published in 1989 by Dow Jones-Irwin.</p><p>From 1999 until 2008, he worked as a media consultant and advocate for small, entrepreneurial medical device companies that for years have been seeking to reform the corrupt, anticompetitive practices of the $200 billion+ hospital group purchasing (GPO) industry.</p><p>Zweig holds a B. A. in behavioral psychology from Hamilton College and an M.B.A in management from the Baruch College Graduate School of Business. He is married and lives in New York City.</p>  </bioghist>
+  <processinfo id="aspace_59f77b6bf4ba4245fb27d8ad61b57f8b">
+    <head>Processing status</head>
+<p>This collection is minimally processed and may not be available for research.</p>  </processinfo>
+  <accessrestrict id="aspace_ce7e5ac1cf898f3d40134d5a42751648">
+    <head>Conditions Governing Access</head>
+<p>This collection may require review before it is available for use. Please contact DCA for further details.</p>  </accessrestrict>
+  <userestrict id="aspace_74001b86b142a4b6be82c1722babd35a">
+    <head>Conditions Governing Use</head>
+<p>Some material in this collection may be protected by copyright and other rights. Please see "Reproductions and Use" on the Digital Collections and Archives website for more information about reproductions and permission to publish. Any intellectual property rights that the donor possesses have not been transferred to Tufts University.</p>  </userestrict>
+  <controlaccess>
+    <title source="local">Zweig, Phillip L.</title>
+    <title source="local">Wriston, Walter B.</title>
+    <title source="local">Citicorp</title>
+    <subject source="local">Alumni collections</subject>
+    <subject source="local">Finance</subject>
+  </controlaccess>
+  <dsc><c id="aspace_9fa8fb1e5c8772baac842996c96530ac" level="series"><did><unittitle>Additional accessions</unittitle><unitid>MS197.001</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">1 Volumes</extent></physdesc><unitdate normal="1900/1997" type="inclusive">1900 -- 1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial></did><scopecontent id="aspace_9fe740b531c994bc0907cf6618088da4"><head>Scope and Contents</head><p>This series consists of research materials created or compiled by Phillip Zweig during the writing of his 1996 biography of Walter B. Wriston. It includes articles, annual reports, oral histories and other documentation related to Citibank and biographical information related to Wriston and his impact at Citibank.</p></scopecontent><arrangement id="aspace_57ddfe3e4640df71393cc1f5faad78df"><head>Arrangement</head><p>This series is not arranged.</p></arrangement><accessrestrict id="aspace_633ca7bf792284985ba930211e94c631"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><c id="aspace_91041de91a8a4332eebd29544561a961" level="file"><did><unittitle>WBW/Citi articles and WBW speeches from 1976 to 1980 covering "Wriston" chapters 16-19</unittitle><unitid>MS197-001</unitid><unitdate normal="1976/1980" type="inclusive">1976 -- 1980</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_9f9a1e998697e6e0a1d2f430a7ad228c" label="Mixed Materials [39090017912730]" type="box">1</container></did><accessrestrict id="aspace_47b2189e9758232af7535cb104af4eab"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_33789a307970fc2cb8457c7a1350434a"><head>Scope and Contents</head><p>10 files</p></scopecontent></c><c id="aspace_b29221f3eda08fb0117b1e6a79fb20e5" level="file"><did><unittitle>Zweig box 2</unittitle><unitid>MS197-002</unitid><unitdate certainty="approximate" normal="1976/1996" type="inclusive">1976 -- 1996</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_24dea856cb35635ca9d232c7b4fb82d6" label="Mixed Materials [39090017912748]" type="box">2</container></did><accessrestrict id="aspace_152b8dd75dd0944999c106f7a913e93f"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_54a4c98ffc4d6b067175e11535d6f648"><head>Scope and Contents</head><p>File 1: Intellectualization of Citicorp
+File 2: Muffle minutes
+File 3: Chrysler episode
+File 4: book excerpts
+File 5: BHC amendments
+File 6: Citi Strategy
+File 7: Speeches
+File 8 Ford/Carter Library papers
+File 9: Wriston Testimony
+File 10: Presidential libraries</p></scopecontent></c><c id="aspace_352ae33177c76bd5d166a0b6a4d6e5e6" level="file"><did><unittitle>Citibank</unittitle><unitid>MS197-003</unitid><unitdate certainty="approximate" normal="1947/1997" type="inclusive">1947 -- 1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_ee6b6838d58ae0fa8db18990f4d415d0" label="Mixed Materials [39090017912755]" type="box">3</container></did><accessrestrict id="aspace_c6bee266ea3407de3eeb734cd07c772e"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_6d690bdb7fcaa528b2a0c9c297a466a1"><head>Scope and Contents</head><p>Citibank Annual report 1949-1997; citibank oral histories</p></scopecontent></c><c id="aspace_eb1098a290dffb619cb97529bfa33437" level="file"><did><unittitle>Citibank</unittitle><unitid>MS197-004</unitid><unitdate certainty="approximate" normal="1970/1997" type="inclusive">1970 -- 1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_5f8e97680004fdbcdb546ab055ffb837" label="Mixed Materials [39090017912763]" type="box">4</container></did><accessrestrict id="aspace_a6f62ce9d98ec4404aab2cbeb84159a4"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_abf41f766492b928fe1da09f06533589"><head>Scope and Contents</head><p>File 1: Misc citi documents, articles
+File 2: Labor-mgmt committee Ford Admin
+File 3: Latin Debt Crisis/Bill Rhodes speeches
+File 4: Misc Citi Articles
+File 5: Bank letter 1982-1983
+File 6: Citi Earnings - Post WBW
+File 7: WBW clips - General
+File 8: lending eras - Hank Mueller</p></scopecontent></c><c id="aspace_769dceca0f5e22af1626c03f4d4cbfe9" level="file"><did><unittitle>WBW documents</unittitle><unitid>MS197-005</unitid><unitdate certainty="approximate" normal="1970/1997" type="inclusive">1970 -- 1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_672e3da38c085d98a7a95f82730349b3" label="Mixed Materials [39090017912771]" type="box">5</container></did><accessrestrict id="aspace_25c1235064db4e07eb7ed51dc85404c9"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_b81dee7c755f9d2cc557ff3b8f959aef"><head>Scope and Contents</head><p>File 1: Article indices
+File 2: Key gov't documents, presidential libraries, federal reserve
+File 3: Key WBW documents
+File 4: Documents
+File 5: Myths and realities of credit at citibank
+File 6: Key WBW docs a_ If you ask me b_quotations c_ sr mgmt review 11/81 d_ citibank ethical policy
+File 7: Misc Biographical docs</p></scopecontent></c><c id="aspace_471cd18ab3da04149387925c3652d1cc" level="file"><did><unittitle>Articles</unittitle><unitid>MS197-006</unitid><unitdate certainty="approximate" normal="1970/1997" type="inclusive">1970 -- 1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_3dd547c995d4be4545f684cbc648d843" label="Mixed Materials [39090017912789]" type="box">6</container></did><accessrestrict id="aspace_6cd09bc3b60b9a67eda53e95c923e06c"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_84ae834fd0e4d3ac2b73b84d65df8044"><head>Scope and Contents</head><p>File 1: Articles, Documents for Chapter 20, Citistakes
+File 2A: Articles, Documents for Chapter 21, Home on the Range (move to S.Dakota)
+File 2B: Articles, Documents for Chapter 21
+File 3: Articles, Documents for Chapter 22, Wristonomics
+File 4A: Articles, Documents for Chapter 23
+File 4B: Articles, Documents for Chapter 23
+File 5: Miscellaneous WBW, Citi articles, speeches, documents</p></scopecontent></c><c id="aspace_536489ba5ce01364c0881fede6aeccdb" level="file"><did><unittitle>Articles</unittitle><unitid>MS197-007</unitid><unitdate certainty="approximate" normal="1970/1997" type="inclusive">1970 -- 1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_6ebe55a12dde437f19373375617dfc9a" label="Mixed Materials [39090017912797]" type="box">7</container></did><accessrestrict id="aspace_26b05ffc1141acb9b6f7c67f2ddbc3c0"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_4520eed716a0b0d65f785c7c8794ee65"><head>Scope and Contents</head><p>File 1: Fed Advisory Committee Minutes
+File 2: Citibank Economic Letter
+File 3: Key Articles Chapters 1-12
+File 4: Key Articles Chapters 13-18
+File 5: Key Articles Chapters 19-24
+File 6: Key Articles Chapter 24</p></scopecontent></c><c id="aspace_c8e90e3b17d0a5018520626b29176676" level="file"><did><unittitle>Clippings</unittitle><unitid>MS197-008</unitid><unitdate certainty="approximate" normal="1970/1997" type="inclusive">1970 -- 1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_a4450239148dee5a30a10ab9d07e3908" label="Mixed Materials [39090017912805]" type="box">8</container></did><accessrestrict id="aspace_9f1e3dc3c4ed9d1f468ccd7355c119c8"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_60288cdd69dc48a463f840748dd3d392"><head>Scope and Contents</head><p>File 1: Key Citi/WBW Clips
+File 2: WBW Post-Retire Clips
+File 3: LDC Clips
+File 4: Citi Clips 1984-1989
+File 5: General Banking clips
+File 6: Citi Clips 1990-1993
+File 7: John Reed clips</p></scopecontent></c><c id="aspace_cf880f3d8461775390d0a72d589430b6" level="file"><did><unittitle>Background information</unittitle><unitid>MS197-009</unitid><unitdate certainty="approximate" normal="1900/1997" type="inclusive">1900 -- 1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_e8a8f7e01047f03fff7a26ac2213e50f" label="Mixed Materials [39090017912813]" type="box">9</container></did><accessrestrict id="aspace_9e8581070ce8e356cc5b2a6315859498"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_a5c413510c4babbc1b1600255cc9d964"><head>Scope and Contents</head><p>File 1: Early years
+File 2: WBW State Dept Archives
+File 3: Citi History
+File 4: Henry Wriston
+File 5: Stiff Collar Boys
+File 6: Shippers/Transportation
+File 7: Banking on Moon
+File 8: Cuba take-over
+File 9: Changing of Guard
+File 10: Negotiable CD
+File 11: Pins on Map
+File 12: Rocket Scientists
+File 13: New order
+File 14: Matrix Wars
+File 15: Back Office
+File 16: Crisis and confrontation</p></scopecontent></c><c id="aspace_6907ce4e5a5fd4ddac4342f0e57b2589" level="file"><did><unittitle>NYC Budget Crisis</unittitle><unitid>MS197-010</unitid><unitdate certainty="approximate" normal="1960/1997" type="inclusive">1960 -- 1997</unitdate><langmaterial><language langcode="eng">English</language>.</langmaterial><container id="aspace_48b0ae1b54508bea4d8e0a14bcb3d06d" label="Mixed Materials [39090017912821]" type="box">10</container></did><accessrestrict id="aspace_285e419cbb8101cab70197e1fccef2dd"><head>Conditions Governing Access</head><p>Open for research.</p></accessrestrict><scopecontent id="aspace_5c135fa2563d4ba80da63a51b34f37f8"><head>Scope and Contents</head><p>File 1: Go Go Banking
+File 2: Road to Rio
+File 3: Liquidity
+File 4: Problem Banking
+File 5: NYC Budget Crisis clips
+File 6: NYC Budget Crisis Clips 1975
+File 7: NYC Budget Crisis Congressional Hearings
+File 8: MUFLG Documents</p></scopecontent></c></c></dsc>
+</archdesc>
+</ead>
