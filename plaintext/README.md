@@ -225,6 +225,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP037.archival.xml](UA069.001.DO.UP037.archival.xml) | UP037 | UP037 | Commencement Programs | 
  [UA069.001.DO.UP038.archival.xml](UA069.001.DO.UP038.archival.xml) | UP038 | UP038 | Crane Review | 
  [UA069.001.DO.UP049.archival.xml](UA069.001.DO.UP049.archival.xml) | UP049 | UP049 | Public Journal | 
+ [UA069.001.DO.UP051.archival.xml](UA069.001.DO.UP051.archival.xml) | UP051 | UP051 | Perfiles | 
  [UA069.001.DO.UP052.archival.xml](UA069.001.DO.UP052.archival.xml) | UP052 | UP052 | Tufts Magazine |   [JSON](423.json)  ,  [XML](423.xml) 
  [UA069.001.DO.UP052.archival.xml](UA069.001.DO.UP052.archival.xml) | UP052 | UP052 | Tufts Magazine | 
  [UA069.001.DO.UP054.archival.xml](UA069.001.DO.UP054.archival.xml) | UP054 | UP054 | Tufts Journal | 
@@ -239,6 +240,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP145.archival.xml](UA069.001.DO.UP145.archival.xml) | UP145 | UP145 | Academic Year: Information for New Students | 
  [UA069.001.DO.UP151.archival.xml](UA069.001.DO.UP151.archival.xml) | UP151 | UP151 | At Tufts, A Weekly Gazette for the University | 
  [UA069.001.DO.UP154.archival.xml](UA069.001.DO.UP154.archival.xml) | UP154 | UP154 | Tufts Dental Medicine (Dental Alumni Magazine) | 
+ [UA069.001.DO.UP170.archival.xml](UA069.001.DO.UP170.archival.xml) | UP170 | UP170 | The Forsyth School for Dental Hygienists Catalogue | 
  [UA069.001.DO.UP179.archival.xml](UA069.001.DO.UP179.archival.xml) | UP179 | UP179 | Tufts Political Science News | 
  [UA069.001.DO.UP193.archival.xml](UA069.001.DO.UP193.archival.xml) | UP193 | UP193 | Tufts Women Employees' Newsletters | 
  [UA069.001.DO.UP202.archival.xml](UA069.001.DO.UP202.archival.xml) | UP202 | UP202 | The Inside Story, Students of Color Outreach Program | 
