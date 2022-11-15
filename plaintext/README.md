@@ -298,6 +298,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS037.archival.xml](UA069.001.DO.MS037.archival.xml) | MS037 | MS037 | Ballou Family Papers | 
  [UA069.001.DO.MS039.archival.xml](UA069.001.DO.MS039.archival.xml) | MS039 | MS039 | William D. Hersey Papers |   [JSON](611.json) 
  [UA069.001.DO.MS039.archival.xml](UA069.001.DO.MS039.archival.xml) | MS039 | MS039 | William D. Hersey Papers | 
+ [UA069.001.DO.MS040.archival.xml](UA069.001.DO.MS040.archival.xml) | MS040 | MS040 | Jester Hairston Collection | 
  [UA069.001.DO.MS043.archival.xml](UA069.001.DO.MS043.archival.xml) | MS043 | MS043 | Frederick A. Masse Jr. Papers | 
  [UA069.001.DO.MS046.archival.xml](UA069.001.DO.MS046.archival.xml) | MS046 | MS046 | Harold G. Simms Papers | 
  [UA069.001.DO.MS047.archival.xml](UA069.001.DO.MS047.archival.xml) | MS047 | MS047 | George Preston Bacon Papers | 
