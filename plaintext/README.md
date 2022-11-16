@@ -177,6 +177,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS051.archival.xml](UA069.001.DO.MS051.archival.xml) | MS051 | MS051 | Henry Levi Davis Papers | 
  [UA069.001.DO.MS055.archival.xml](UA069.001.DO.MS055.archival.xml) | MS055 | MS055 | Mystic River Watershed Association Records | 
  [UA069.001.DO.MS057.archival.xml](UA069.001.DO.MS057.archival.xml) | MS057 | MS057 | World War II Posters and Publications | 
+ [UA069.001.DO.MS058.archival.xml](UA069.001.DO.MS058.archival.xml) | MS058 | MS058 | Rosalie Kaye Collection | 
  [UA069.001.DO.MS061.archival.xml](UA069.001.DO.MS061.archival.xml) | MS061 | MS061 | Hagop Martin Deranian Papers | 
  [UA069.001.DO.MS063.archival.xml](UA069.001.DO.MS063.archival.xml) | MS063 | MS063 | Lois Gibbs Love Canal Papers | 
  [UA069.001.DO.MS064.archival.xml](UA069.001.DO.MS064.archival.xml) | MS064 | MS064 | Elizabeth Ahn Toupin Papers | 
