@@ -234,6 +234,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP056.archival.xml](UA069.001.DO.UP056.archival.xml) | UP056 | UP056 | Tufts Weekly |   [JSON](427.json) 
  [UA069.001.DO.UP056.archival.xml](UA069.001.DO.UP056.archival.xml) | UP056 | UP056 | Tufts Weekly | 
  [UA069.001.DO.UP058.archival.xml](UA069.001.DO.UP058.archival.xml) | UP058 | UP058 | Tufts Hilltopper | 
+ [UA069.001.DO.UP066.archival.xml](UA069.001.DO.UP066.archival.xml) | UP066 | UP066 | The Spectrum | 
  [UA069.001.DO.UP089.archival.xml](UA069.001.DO.UP089.archival.xml) | UP089 | UP089 | Medical School, Dean's Rounds | 
  [UA069.001.DO.UP126.archival.xml](UA069.001.DO.UP126.archival.xml) | UP126 | UP126 | Tufts University Health Sciences News | 
  [UA069.001.DO.UP128.archival.xml](UA069.001.DO.UP128.archival.xml) | UP128 | UP128 | Fact Book | 
