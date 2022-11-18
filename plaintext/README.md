@@ -361,4 +361,5 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS275.archival.xml](UA069.001.DO.MS275.archival.xml) | MS275 | MS275 | John A. Seaverns Equine Collection | 
  [UA069.001.DO.MS276.archival.xml](UA069.001.DO.MS276.archival.xml) | MS276 | MS276 | Civil War Era Correspondence | 
  [UA069.001.DO.MS278.archival.xml](UA069.001.DO.MS278.archival.xml) | MS278 | MS278 | Franklin M. Loew Papers | 
+ [UA069.001.DO.MS280.archival.xml](UA069.001.DO.MS280.archival.xml) | MS280 | MS280 | William Northrop Morse Papers | 
 
