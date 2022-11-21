@@ -163,6 +163,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS004.archival.xml](UA069.001.DO.MS004.archival.xml) | MS004 | MS004 | Edwin C. Bolles Papers | 
  [UA069.001.DO.MS004.archival.xml](UA069.001.DO.MS004.archival.xml) | MS004 | MS004 | Edwin C. Bolles Papers |   [JSON](286.json) 
  [UA069.001.DO.MS005.archival.xml](UA069.001.DO.MS005.archival.xml) | MS005 | MS005 | Atomic Veterans Records | 
+ [UA069.001.DO.UP004.archival.xml](UA069.001.DO.UP004.archival.xml) | UP004 | UP004 | Tufts Alumni Review | 
  [UA069.001.DO.UP006.archival.xml](UA069.001.DO.UP006.archival.xml) | UP006 | UP006 | Arts and Sciences and Engineering Bulletins | 
  [UA069.001.DO.UP009.archival.xml](UA069.001.DO.UP009.archival.xml) | UP009 | UP009 | Alumni Directories | 
  [UA069.001.DO.UP012.archival.xml](UA069.001.DO.UP012.archival.xml) | UP012 | UP012 | Hemispheres: The Tufts University Journal of International Affairs | 
@@ -178,6 +179,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS055.archival.xml](UA069.001.DO.MS055.archival.xml) | MS055 | MS055 | Mystic River Watershed Association Records | 
  [UA069.001.DO.MS057.archival.xml](UA069.001.DO.MS057.archival.xml) | MS057 | MS057 | World War II Posters and Publications | 
  [UA069.001.DO.MS058.archival.xml](UA069.001.DO.MS058.archival.xml) | MS058 | MS058 | Rosalie Kaye Collection | 
+ [UA069.001.DO.UP016.archival.xml](UA069.001.DO.UP016.archival.xml) | UP016 | UP016 | Ivy Society Publications | 
  [UA069.001.DO.MS061.archival.xml](UA069.001.DO.MS061.archival.xml) | MS061 | MS061 | Hagop Martin Deranian Papers | 
  [UA069.001.DO.MS063.archival.xml](UA069.001.DO.MS063.archival.xml) | MS063 | MS063 | Lois Gibbs Love Canal Papers | 
  [UA069.001.DO.MS064.archival.xml](UA069.001.DO.MS064.archival.xml) | MS064 | MS064 | Elizabeth Ahn Toupin Papers | 
@@ -287,9 +289,11 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA129.archival.xml](UA069.001.DO.UA129.archival.xml) | UA129 | UA129 | Dining Services Records | 
  [UA069.001.DO.UA134.archival.xml](UA069.001.DO.UA134.archival.xml) | UA134 | UA134 | Department of Public and Environmental Safety Records | 
  [UA069.001.DO.UA146.archival.xml](UA069.001.DO.UA146.archival.xml) | UA146 | UA146 | Office of Educational Affairs, School of Medicine Records | 
+ [UA069.001.DO.MS002.archival.xml](UA069.001.DO.MS002.archival.xml) | MS002 | MS002 | Collection on P. T. Barnum | 
  [UA069.001.DO.MS003.archival.xml](UA069.001.DO.MS003.archival.xml) | MS003 | MS003 | Henry Y. Porter Theater Memorabilia Collection | 
  [UA069.001.DO.MS007.archival.xml](UA069.001.DO.MS007.archival.xml) | MS007 | MS007 | John A. Holmes Papers | 
  [UA069.001.DO.MS188.archival.xml](UA069.001.DO.MS188.archival.xml) | MS188 | MS188 | Donald B. Darling Papers | 
+ [UA069.001.DO.MS016.archival.xml](UA069.001.DO.MS016.archival.xml) | MS016 | MS016 | Amos E. Dolbear Papers | 
  [UA069.001.DO.MS018.archival.xml](UA069.001.DO.MS018.archival.xml) | MS018 | MS018 | Allan M. Cormack Papers | 
  [UA069.001.DO.MS024.archival.xml](UA069.001.DO.MS024.archival.xml) | MS024 | MS024 | Donald and Charlotte MacJannet Papers | 
  [UA069.001.DO.MS027.archival.xml](UA069.001.DO.MS027.archival.xml) | MS027 | MS027 | Hugo Bedau Papers | 
@@ -311,12 +315,14 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS097.archival.xml](UA069.001.DO.MS097.archival.xml) | MS097 | MS097 | Charles Neal Barney Papers | 
  [UA069.001.DO.MS098.archival.xml](UA069.001.DO.MS098.archival.xml) | MS098 | MS098 | Fred Gowing Papers | 
  [UA069.001.DO.MS103.archival.xml](UA069.001.DO.MS103.archival.xml) | MS103 | MS103 | Fred T. Nelson Diaries | 
+ [UA069.001.DO.MS105.archival.xml](UA069.001.DO.MS105.archival.xml) | MS105 | MS105 | Pearson Family Portraits and Papers | 
  [UA069.001.DO.MS106.archival.xml](UA069.001.DO.MS106.archival.xml) | MS106 | MS106 | Lena Fuller Papers | 
  [UA069.001.DO.MS107.archival.xml](UA069.001.DO.MS107.archival.xml) | MS107 | MS107 | Russel G. Hemenway Papers | 
  [UA069.001.DO.MS108.archival.xml](UA069.001.DO.MS108.archival.xml) | MS108 | MS108 | Edward J. Young Papers | 
  [UA069.001.DO.MS113.archival.xml](UA069.001.DO.MS113.archival.xml) | MS113 | MS113 | Ralph C. Cutting Jr. Photographs | 
  [UA069.001.DO.MS117.archival.xml](UA069.001.DO.MS117.archival.xml) | MS117 | MS117 | Russell E. Miller Papers | 
  [UA069.001.DO.MS122.archival.xml](UA069.001.DO.MS122.archival.xml) | MS122 | MS122 | David Locke Papers | 
+ [UA069.001.DO.MS123.archival.xml](UA069.001.DO.MS123.archival.xml) | MS123 | MS123 | West Medford African-American Remembrance Project Oral Histories | 
  [UA069.001.DO.MS124.archival.xml](UA069.001.DO.MS124.archival.xml) | MS124 | MS124 | Lost Theatres of Somerville Papers |   [JSON](647.json) 
  [UA069.001.DO.MS124.archival.xml](UA069.001.DO.MS124.archival.xml) | MS124 | MS124 | Lost Theatres of Somerville Papers | 
  [UA069.001.DO.MS133.archival.xml](UA069.001.DO.MS133.archival.xml) | MS133 | MS133 | Donald Sur Papers | 
