@@ -286,6 +286,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA057.archival.xml](UA069.001.DO.UA057.archival.xml) | UA057 | UA057 | Office of Equal Opportunity Records | 
  [UA069.001.DO.UA058.archival.xml](UA069.001.DO.UA058.archival.xml) | UA058 | UA058 | General Administration Records | 
  [UA069.001.DO.UA073.archival.xml](UA069.001.DO.UA073.archival.xml) | UA073 | UA073 | Vertical File Collection | 
+ [UA069.001.DO.UA073.archival.xml](UA069.001.DO.UA073.archival.xml) | UA073 | UA073 | Vertical File Collection |   [JSON](580.json)  ,  [XML](580.xml) 
  [UA069.001.DO.UA129.archival.xml](UA069.001.DO.UA129.archival.xml) | UA129 | UA129 | Dining Services Records | 
  [UA069.001.DO.UA134.archival.xml](UA069.001.DO.UA134.archival.xml) | UA134 | UA134 | Department of Public and Environmental Safety Records | 
  [UA069.001.DO.UA146.archival.xml](UA069.001.DO.UA146.archival.xml) | UA146 | UA146 | Office of Educational Affairs, School of Medicine Records | 
