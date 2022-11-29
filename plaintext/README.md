@@ -39,6 +39,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP210.archival.xml](UA069.001.DO.UP210.archival.xml) | UP210 | UP210 | Bulletin of Tufts Graduate School of Biomedical Sciences | 
  [UA069.001.DO.UP211.archival.xml](UA069.001.DO.UP211.archival.xml) | UP211 | UP211 | Bulletin of Tufts University, School of Veterinary Medicine | 
  [UA069.001.DO.UP214.archival.xml](UA069.001.DO.UP214.archival.xml) | UP214 | UP214 | Tufts Veterinary Medicine | 
+ [UA069.001.DO.UP244.archival.xml](UA069.001.DO.UP244.archival.xml) | UP244 | UP244 | Tufts University School of Veterinary Medicine [Yearbook] | 
  [UA069.001.DO.AC.archival.xml](UA069.001.DO.AC.archival.xml) | AC | AC | Artifact Collection |   [XML](99.xml)  ,  [JSON](99.json) 
  [UA069.001.DO.AC.archival.xml](UA069.001.DO.AC.archival.xml) | AC | AC | Artifact Collection | 
  [UA069.001.DO.UP239.archival.xml](UA069.001.DO.UP239.archival.xml) | UP239 | UP239 | Newsletter of the American Association of University Professors, Tufts Chapter | 
