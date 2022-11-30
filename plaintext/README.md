@@ -372,5 +372,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS276.archival.xml](UA069.001.DO.MS276.archival.xml) | MS276 | MS276 | Civil War Era Correspondence | 
  [UA069.001.DO.MS277.archival.xml](UA069.001.DO.MS277.archival.xml) | MS277 | MS277 | Dick Russell Papers | 
  [UA069.001.DO.MS278.archival.xml](UA069.001.DO.MS278.archival.xml) | MS278 | MS278 | Franklin M. Loew Papers | 
+ [UA069.001.DO.MS279.archival.xml](UA069.001.DO.MS279.archival.xml) | MS279 | MS279 | Danielle Abrams Papers | 
  [UA069.001.DO.MS280.archival.xml](UA069.001.DO.MS280.archival.xml) | MS280 | MS280 | William Northrop Morse Papers | 
+ [UA069.001.DO.MS281.archival.xml](UA069.001.DO.MS281.archival.xml) | MS281 | MS281 | Paul J. Jakmauh Papers | 
 
