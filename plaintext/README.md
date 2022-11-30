@@ -140,7 +140,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA164.archival.xml](UA069.001.DO.UA164.archival.xml) | UA164 | UA164 | Tufts Community Union Judiciary Records | 
  [UA069.001.DO.UA165.archival.xml](UA069.001.DO.UA165.archival.xml) | UA165 | UA165 | Dance Program Records | 
  [UA069.001.DO.UA166.archival.xml](UA069.001.DO.UA166.archival.xml) | UA166 | UA166 | Office of the Vice Provost Records | 
- [UA069.001.DO.UA176.archival.xml](UA069.001.DO.UA176.archival.xml) | UA176 | UA176 | Tufts Daily Records |   [JSON](244.json) 
+ [UA069.001.DO.UA176.archival.xml](UA069.001.DO.UA176.archival.xml) | UA176 | UA176 | Tufts Daily Records |   [JSON](244.json)  ,  [XML](244.xml) 
  [UA069.001.DO.UA176.archival.xml](UA069.001.DO.UA176.archival.xml) | UA176 | UA176 | Tufts Daily Records | 
  [UA069.001.DO.UA182.archival.xml](UA069.001.DO.UA182.archival.xml) | UA182 | UA182 | Web Central Records | 
  [UA069.001.DO.UA183.archival.xml](UA069.001.DO.UA183.archival.xml) | UA183 | UA183 | Jonathan M. Tisch College of Civic Life Records | 
@@ -349,10 +349,12 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS224.archival.xml](UA069.001.DO.MS224.archival.xml) | MS224 | MS224 | Tufts-New England Medical Center Records | 
  [UA069.001.DO.UA243.archival.xml](UA069.001.DO.UA243.archival.xml) | UA243 | UA243 | Center for the Humanities at Tufts Records | 
  [UA069.001.DO.MS232.archival.xml](UA069.001.DO.MS232.archival.xml) | MS232 | MS232 | Sol Gittleman Papers | 
+ [UA069.001.DO.UA244.archival.xml](UA069.001.DO.UA244.archival.xml) | UA244 | UA244 | Tufts Hillel Records | 
  [UA069.001.DO.MS239.archival.xml](UA069.001.DO.MS239.archival.xml) | MS239 | MS239 | Charles Trantanella Papers on Greek Life at Tufts |   [JSON](756.json) 
  [UA069.001.DO.MS239.archival.xml](UA069.001.DO.MS239.archival.xml) | MS239 | MS239 | Charles Trantanella Papers on Greek Life at Tufts | 
  [UA069.001.DO.MS241.archival.xml](UA069.001.DO.MS241.archival.xml) | MS241 | MS241 | Phil Primack Papers | 
  [UA069.001.DO.UA247.archival.xml](UA069.001.DO.UA247.archival.xml) | UA247 | UA247 | History 193: Tufts in American History Student Papers | 
+ [UA069.001.DO.MS244.archival.xml](UA069.001.DO.MS244.archival.xml) | MS244 | MS244 | Stuart Levy Papers | 
  [UA069.001.DO.UA252.archival.xml](UA069.001.DO.UA252.archival.xml) | UA252 | UA252 | Office of Communications and Marketing Records |   [JSON](806.json)  ,  [XML](806.xml) 
  [UA069.001.DO.UA252.archival.xml](UA069.001.DO.UA252.archival.xml) | UA252 | UA252 | Office of Communications and Marketing Records | 
  [UA069.001.DO.UA253.archival.xml](UA069.001.DO.UA253.archival.xml) | UA253 | UA253 | Sociology 094: The Sociology of Higher Education Records | 
