@@ -32,7 +32,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP061.archival.xml](UA069.001.DO.UP061.archival.xml) | UP061 | UP061 | Health and Nutrition Letter | 
  [UA069.001.DO.UP102.archival.xml](UA069.001.DO.UP102.archival.xml) | UP102 | UP102 | Department of Electrical and Computer Engineering Newsletter | 
  [UA069.001.DO.UP143.archival.xml](UA069.001.DO.UP143.archival.xml) | UP143 | UP143 | Tufts Dental Yearbook and Senior Biographies | 
- [UA069.001.DO.UP150.archival.xml](UA069.001.DO.UP150.archival.xml) | UP150 | UP150 | Tufts University School of Medicine Yearbook |   [JSON](67.json) 
+ [UA069.001.DO.UP150.archival.xml](UA069.001.DO.UP150.archival.xml) | UP150 | UP150 | Tufts University School of Medicine Yearbook |   [JSON](67.json)  ,  [XML](67.xml) 
  [UA069.001.DO.UP150.archival.xml](UA069.001.DO.UP150.archival.xml) | UP150 | UP150 | Tufts University School of Medicine Yearbook | 
  [UA069.001.DO.UP169.archival.xml](UA069.001.DO.UP169.archival.xml) | UP169 | UP169 | Fletcher School of Law and Diplomacy Bulletins and Connections | 
  [UA069.001.DO.UP209.archival.xml](UA069.001.DO.UP209.archival.xml) | UP209 | UP209 | Bulletin of Tufts University School of Nutrition | 
