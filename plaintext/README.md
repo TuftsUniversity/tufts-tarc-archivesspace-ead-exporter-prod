@@ -70,6 +70,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA044.archival.xml](UA069.001.DO.UA044.archival.xml) | UA044 | UA044 | Experimental College Records |   [JSON](144.json) 
  [UA069.001.DO.UA044.archival.xml](UA069.001.DO.UA044.archival.xml) | UA044 | UA044 | Experimental College Records | 
  [UA069.001.DO.UA045.archival.xml](UA069.001.DO.UA045.archival.xml) | UA045 | UA045 | Office of the Dean of Arts, Sciences, and Engineering Records | 
+ [UA069.001.DO.UA045.archival.xml](UA069.001.DO.UA045.archival.xml) | UA045 | UA045 | Office of the Dean of Arts, Sciences, and Engineering Records |   [JSON](145.json)  ,  [XML](145.xml) 
  [UA069.001.DO.UA046.archival.xml](UA069.001.DO.UA046.archival.xml) | UA046 | UA046 | Department of Physical Education and Athletics Records | 
  [UA069.001.DO.UA049.archival.xml](UA069.001.DO.UA049.archival.xml) | UA049 | UA049 | Office of Undergraduate Education Records | 
  [UA069.001.DO.UA051.archival.xml](UA069.001.DO.UA051.archival.xml) | UA051 | UA051 | Department of Mechanical Engineering Records | 
