@@ -229,6 +229,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP024.archival.xml](UA069.001.DO.UP024.archival.xml) | UP024 | UP024 | The Jumbo Yearbook | 
  [UA069.001.DO.UP027.archival.xml](UA069.001.DO.UP027.archival.xml) | UP027 | UP027 | Application and Admissions Publications | 
  [UA069.001.DO.UP037.archival.xml](UA069.001.DO.UP037.archival.xml) | UP037 | UP037 | Commencement Programs | 
+ [UA069.001.DO.UP037.archival.xml](UA069.001.DO.UP037.archival.xml) | UP037 | UP037 | Commencement Programs |   [JSON](413.json)  ,  [XML](413.xml) 
  [UA069.001.DO.UP038.archival.xml](UA069.001.DO.UP038.archival.xml) | UP038 | UP038 | Crane Review | 
  [UA069.001.DO.UP049.archival.xml](UA069.001.DO.UP049.archival.xml) | UP049 | UP049 | Public Journal | 
  [UA069.001.DO.UP051.archival.xml](UA069.001.DO.UP051.archival.xml) | UP051 | UP051 | Perfiles | 
