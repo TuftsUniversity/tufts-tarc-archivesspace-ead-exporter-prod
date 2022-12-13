@@ -164,7 +164,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS014.archival.xml](UA069.001.DO.MS014.archival.xml) | MS014 | MS014 | Political Research Associates Records |   [XML](285.xml)  ,  [JSON](285.json) 
  [UA069.001.DO.MS014.archival.xml](UA069.001.DO.MS014.archival.xml) | MS014 | MS014 | Political Research Associates Records | 
  [UA069.001.DO.MS004.archival.xml](UA069.001.DO.MS004.archival.xml) | MS004 | MS004 | Edwin C. Bolles Papers | 
- [UA069.001.DO.MS004.archival.xml](UA069.001.DO.MS004.archival.xml) | MS004 | MS004 | Edwin C. Bolles Papers |   [JSON](286.json) 
+ [UA069.001.DO.MS004.archival.xml](UA069.001.DO.MS004.archival.xml) | MS004 | MS004 | Edwin C. Bolles Papers |   [JSON](286.json)  ,  [XML](286.xml) 
  [UA069.001.DO.MS005.archival.xml](UA069.001.DO.MS005.archival.xml) | MS005 | MS005 | Atomic Veterans Records | 
  [UA069.001.DO.UP004.archival.xml](UA069.001.DO.UP004.archival.xml) | UP004 | UP004 | Tufts Alumni Review | 
  [UA069.001.DO.UP006.archival.xml](UA069.001.DO.UP006.archival.xml) | UP006 | UP006 | Arts and Sciences and Engineering Bulletins | 
