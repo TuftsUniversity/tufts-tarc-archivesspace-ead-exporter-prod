@@ -42,7 +42,9 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP244.archival.xml](UA069.001.DO.UP244.archival.xml) | UP244 | UP244 | Tufts University School of Veterinary Medicine [Yearbook] | 
  [UA069.001.DO.AC.archival.xml](UA069.001.DO.AC.archival.xml) | AC | AC | Artifact Collection |   [XML](99.xml)  ,  [JSON](99.json) 
  [UA069.001.DO.AC.archival.xml](UA069.001.DO.AC.archival.xml) | AC | AC | Artifact Collection | 
+ [UA069.001.DO.UP177.archival.xml](UA069.001.DO.UP177.archival.xml) | UP177 | UP177 | Niger Integrated Livestock Production (NILP) Project Newsletter | 
  [UA069.001.DO.UP239.archival.xml](UA069.001.DO.UP239.archival.xml) | UP239 | UP239 | Newsletter of the American Association of University Professors, Tufts Chapter | 
+ [UA069.001.DO.UP257.archival.xml](UA069.001.DO.UP257.archival.xml) | UP257 | UP257 | Tufts College Studies (Scientific Series) | 
  [UA069.001.DO.UA235.archival.xml](UA069.001.DO.UA235.archival.xml) | UA235 | UA235 | Office of Student Services, School of Dental Medicine Records | 
  [UA069.001.DO.MS216.archival.xml](UA069.001.DO.MS216.archival.xml) | MS216 | MS216 | William Moomaw Papers | 
  [UA069.001.DO.UA242.archival.xml](UA069.001.DO.UA242.archival.xml) | UA242 | UA242 | Office of Faculty Affairs at the Friedman School of Nutrition Science and Policy Records | 
