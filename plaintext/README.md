@@ -30,6 +30,8 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP031.archival.xml](UA069.001.DO.UP031.archival.xml) | UP031 | UP031 | Issues | 
  [UA069.001.DO.UP046.archival.xml](UA069.001.DO.UP046.archival.xml) | UP046 | UP046 | School of Medicine Bulletins and Catalogs | 
  [UA069.001.DO.UP061.archival.xml](UA069.001.DO.UP061.archival.xml) | UP061 | UP061 | Health and Nutrition Letter | 
+ [UA069.001.DO.UP091.archival.xml](UA069.001.DO.UP091.archival.xml) | UP091 | UP091 | Dept. of Urban and Environmental Policy, Center for Public Service | 
+ [UA069.001.DO.UP096.archival.xml](UA069.001.DO.UP096.archival.xml) | UP096 | UP096 | Urban and Environmental Policy and Planning Newsletter | 
  [UA069.001.DO.UP102.archival.xml](UA069.001.DO.UP102.archival.xml) | UP102 | UP102 | Department of Electrical and Computer Engineering Newsletter | 
  [UA069.001.DO.UP143.archival.xml](UA069.001.DO.UP143.archival.xml) | UP143 | UP143 | Tufts Dental Yearbook and Senior Biographies | 
  [UA069.001.DO.UP150.archival.xml](UA069.001.DO.UP150.archival.xml) | UP150 | UP150 | Tufts University School of Medicine Yearbook |   [JSON](67.json)  ,  [XML](67.xml) 
@@ -42,6 +44,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP244.archival.xml](UA069.001.DO.UP244.archival.xml) | UP244 | UP244 | Tufts University School of Veterinary Medicine [Yearbook] | 
  [UA069.001.DO.AC.archival.xml](UA069.001.DO.AC.archival.xml) | AC | AC | Artifact Collection |   [XML](99.xml)  ,  [JSON](99.json) 
  [UA069.001.DO.AC.archival.xml](UA069.001.DO.AC.archival.xml) | AC | AC | Artifact Collection | 
+ [UA069.001.DO.PB.archival.xml](UA069.001.DO.PB.archival.xml) | PB | PB | Tufts Published Scholarship | 
  [UA069.001.DO.UP177.archival.xml](UA069.001.DO.UP177.archival.xml) | UP177 | UP177 | Niger Integrated Livestock Production (NILP) Project Newsletter | 
  [UA069.001.DO.UP239.archival.xml](UA069.001.DO.UP239.archival.xml) | UP239 | UP239 | Newsletter of the American Association of University Professors, Tufts Chapter | 
  [UA069.001.DO.UP257.archival.xml](UA069.001.DO.UP257.archival.xml) | UP257 | UP257 | Tufts College Studies (Scientific Series) | 
