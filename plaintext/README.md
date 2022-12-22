@@ -195,6 +195,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS075.archival.xml](UA069.001.DO.MS075.archival.xml) | MS075 | MS075 | Memory Books Collection | 
  [UA069.001.DO.MS074.archival.xml](UA069.001.DO.MS074.archival.xml) | MS074 | MS074 | Institute for First Amendment Studies Records | 
  [UA069.001.DO.MS076.archival.xml](UA069.001.DO.MS076.archival.xml) | MS076 | MS076 | World Peace Foundation Records | 
+ [UA069.001.DO.MS076.archival.xml](UA069.001.DO.MS076.archival.xml) | MS076 | MS076 | World Peace Foundation Records |   [JSON](331.json)  ,  [XML](331.xml) 
  [UA069.001.DO.MS080.archival.xml](UA069.001.DO.MS080.archival.xml) | MS080 | MS080 | Tufts Oral History Project Records | 
  [UA069.001.DO.UP029.archival.xml](UA069.001.DO.UP029.archival.xml) | UP029 | UP029 | Tufts Daily |   [JSON](336.json)  ,  [XML](336.xml) 
  [UA069.001.DO.UP029.archival.xml](UA069.001.DO.UP029.archival.xml) | UP029 | UP029 | Tufts Daily | 
