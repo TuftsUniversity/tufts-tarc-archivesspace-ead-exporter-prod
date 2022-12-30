@@ -8,7 +8,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA052.archival.xml](UA069.001.DO.UA052.archival.xml) | UA052 | UA052 | Office of the Vice-President for Planning Records | 
  [UA069.001.DO.UA054.archival.xml](UA069.001.DO.UA054.archival.xml) | UA054 | UA054 | Office of the Dean, Fletcher School Records |   [JSON](7.json) 
  [UA069.001.DO.UA054.archival.xml](UA069.001.DO.UA054.archival.xml) | UA054 | UA054 | Office of the Dean, Fletcher School Records | 
- [UA069.001.DO.UA069.archival.xml](UA069.001.DO.UA069.archival.xml) | UA069 | UA069 | Digital Collections and Archives Records | 
+ [UA069.001.DO.UA069.archival.xml](UA069.001.DO.UA069.archival.xml) | UA069 | UA069 | Tufts Archival Research Center Records | 
  [UA069.001.DO.UA090.archival.xml](UA069.001.DO.UA090.archival.xml) | UA090 | UA090 | Department of Urban and Environmental Policy and Planning Records | 
  [UA069.001.DO.UA097.archival.xml](UA069.001.DO.UA097.archival.xml) | UA097 | UA097 | University Bookstore Records | 
  [UA069.001.DO.UA107.archival.xml](UA069.001.DO.UA107.archival.xml) | UA107 | UA107 | Career Services Records | 
@@ -25,6 +25,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA226.archival.xml](UA069.001.DO.UA226.archival.xml) | UA226 | UA226 | University Library Council and Teams Records | 
  [UA069.001.DO.UP007.archival.xml](UA069.001.DO.UP007.archival.xml) | UP007 | UP007 | Tufts Medicine | 
  [UA069.001.DO.UP015.archival.xml](UA069.001.DO.UP015.archival.xml) | UP015 | UP015 | Catnip, A Newsletter for Caring Cat Owners | 
+ [UA069.001.DO.MS102.archival.xml](UA069.001.DO.MS102.archival.xml) | MS102 | MS102 | Boston Streets Collection | 
  [UA069.001.DO.MS172.archival.xml](UA069.001.DO.MS172.archival.xml) | MS172 | MS172 | Coolidge and Dame Family Papers | 
  [UA069.001.DO.UP028.archival.xml](UA069.001.DO.UP028.archival.xml) | UP028 | UP028 | Bulletin of Tufts University School of Dental Medicine | 
  [UA069.001.DO.UP031.archival.xml](UA069.001.DO.UP031.archival.xml) | UP031 | UP031 | Issues | 
