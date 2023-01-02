@@ -204,6 +204,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP029.archival.xml](UA069.001.DO.UP029.archival.xml) | UP029 | UP029 | Tufts Daily |   [JSON](336.json)  ,  [XML](336.xml) 
  [UA069.001.DO.UP029.archival.xml](UA069.001.DO.UP029.archival.xml) | UP029 | UP029 | Tufts Daily | 
  [UA069.001.DO.MS087.archival.xml](UA069.001.DO.MS087.archival.xml) | MS087 | MS087 | Robert B. Shira Papers | 
+ [UA069.001.DO.MS091.archival.xml](UA069.001.DO.MS091.archival.xml) | MS091 | MS091 | Theatre Collection | 
  [UA069.001.DO.MS094.archival.xml](UA069.001.DO.MS094.archival.xml) | MS094 | MS094 | W. F. Welch Photographs | 
  [UA069.001.DO.MS100.archival.xml](UA069.001.DO.MS100.archival.xml) | MS100 | MS100 | Zebulon White Manuscript "On National Greatness" | 
  [UA069.001.DO.MS171.archival.xml](UA069.001.DO.MS171.archival.xml) | MS171 | MS171 | Spencer Grant Photographs | 
