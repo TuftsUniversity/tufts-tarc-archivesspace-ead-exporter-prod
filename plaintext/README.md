@@ -20,6 +20,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA145.archival.xml](UA069.001.DO.UA145.archival.xml) | UA145 | UA145 | Department of Classical Studies Records |   [JSON](17.json) 
  [UA069.001.DO.UA145.archival.xml](UA069.001.DO.UA145.archival.xml) | UA145 | UA145 | Department of Classical Studies Records | 
  [UA069.001.DO.UA155.archival.xml](UA069.001.DO.UA155.archival.xml) | UA155 | UA155 | Center for Public Service Records | 
+ [UA069.001.DO.UA171.archival.xml](UA069.001.DO.UA171.archival.xml) | UA171 | UA171 | Office of the Dean, Tufts Graduate School of Biomedical Sciences Records |   [XML](19.xml)  ,  [JSON](19.json) 
  [UA069.001.DO.UA171.archival.xml](UA069.001.DO.UA171.archival.xml) | UA171 | UA171 | Office of the Dean, Tufts Graduate School of Biomedical Sciences Records | 
  [UA069.001.DO.UA191.archival.xml](UA069.001.DO.UA191.archival.xml) | UA191 | UA191 | Parents Program Records | 
  [UA069.001.DO.UA203.archival.xml](UA069.001.DO.UA203.archival.xml) | UA203 | UA203 | Tufts University Website Collection | 
@@ -273,6 +274,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP255.archival.xml](UA069.001.DO.UP255.archival.xml) | UP255 | UP255 | Department of Political Science News and Events | 
  [UA069.001.DO.UA227.archival.xml](UA069.001.DO.UA227.archival.xml) | UA227 | UA227 | Tau Beta Pi Records | 
  [UA069.001.DO.MS201.archival.xml](UA069.001.DO.MS201.archival.xml) | MS201 | MS201 | Alex de Waal African Union High-Level Implementation Panel Papers | 
+ [UA069.001.DO.UP161.archival.xml](UA069.001.DO.UP161.archival.xml) | UP161 | UP161 | Friends, A Newsletter for the Friends of Tufts Libraries | 
  [UA069.001.DO.UA228.archival.xml](UA069.001.DO.UA228.archival.xml) | UA228 | UA228 | Center for International Environment and Resource Policy Records | 
  [UA069.001.DO.MS204.archival.xml](UA069.001.DO.MS204.archival.xml) | MS204 | MS204 | Etelman Family Papers | 
  [UA069.001.DO.MS207.archival.xml](UA069.001.DO.MS207.archival.xml) | MS207 | MS207 | Neha Erasmus African Union High Level Implementation Panel Papers | 
