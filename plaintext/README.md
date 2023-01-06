@@ -329,6 +329,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS046.archival.xml](UA069.001.DO.MS046.archival.xml) | MS046 | MS046 | Harold G. Simms Papers | 
  [UA069.001.DO.MS047.archival.xml](UA069.001.DO.MS047.archival.xml) | MS047 | MS047 | George Preston Bacon Papers | 
  [UA069.001.DO.MS048.archival.xml](UA069.001.DO.MS048.archival.xml) | MS048 | MS048 | Robert C. Givler Papers | 
+ [UA069.001.DO.MS052.archival.xml](UA069.001.DO.MS052.archival.xml) | MS052 | MS052 | Jeremy Ingalls Manuscript of The Thunder Saga of Tahl | 
  [UA069.001.DO.MS059.archival.xml](UA069.001.DO.MS059.archival.xml) | MS059 | MS059 | Benjamin F. Tweed Papers | 
  [UA069.001.DO.MS081.archival.xml](UA069.001.DO.MS081.archival.xml) | MS081 | MS081 | Frank Dobo Correspondence with Waverly Root | 
  [UA069.001.DO.MS085.archival.xml](UA069.001.DO.MS085.archival.xml) | MS085 | MS085 | Martin Green Papers | 
@@ -366,6 +367,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS224.archival.xml](UA069.001.DO.MS224.archival.xml) | MS224 | MS224 | Tufts-New England Medical Center Records | 
  [UA069.001.DO.UA243.archival.xml](UA069.001.DO.UA243.archival.xml) | UA243 | UA243 | Center for the Humanities at Tufts Records | 
  [UA069.001.DO.MS232.archival.xml](UA069.001.DO.MS232.archival.xml) | MS232 | MS232 | Sol Gittleman Papers | 
+ [UA069.001.DO.MS235.archival.xml](UA069.001.DO.MS235.archival.xml) | MS235 | MS235 | Deborah Digges Papers | 
  [UA069.001.DO.UA244.archival.xml](UA069.001.DO.UA244.archival.xml) | UA244 | UA244 | Tufts Hillel Records | 
  [UA069.001.DO.MS239.archival.xml](UA069.001.DO.MS239.archival.xml) | MS239 | MS239 | Charles Trantanella Papers on Greek Life at Tufts |   [JSON](756.json) 
  [UA069.001.DO.MS239.archival.xml](UA069.001.DO.MS239.archival.xml) | MS239 | MS239 | Charles Trantanella Papers on Greek Life at Tufts | 
