@@ -54,6 +54,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA235.archival.xml](UA069.001.DO.UA235.archival.xml) | UA235 | UA235 | Office of Student Services, School of Dental Medicine Records | 
  [UA069.001.DO.MS216.archival.xml](UA069.001.DO.MS216.archival.xml) | MS216 | MS216 | William Moomaw Papers | 
  [UA069.001.DO.UA242.archival.xml](UA069.001.DO.UA242.archival.xml) | UA242 | UA242 | Office of Faculty Affairs at the Friedman School of Nutrition Science and Policy Records | 
+ [UA069.001.DO.MS001.archival.xml](UA069.001.DO.MS001.archival.xml) | MS001 | MS001 | Center for Health, Environment, and Justice Records | 
  [UA069.001.DO.UP033.archival.xml](UA069.001.DO.UP033.archival.xml) | UP033 | UP033 | The Zamboni | 
  [UA069.001.DO.UA015.archival.xml](UA069.001.DO.UA015.archival.xml) | UA015 | UA015 | Fletcher School Records |   [JSON](120.json)  ,  [XML](120.xml) 
  [UA069.001.DO.UA015.archival.xml](UA069.001.DO.UA015.archival.xml) | UA015 | UA015 | Fletcher School Records | 
@@ -231,6 +232,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS177.archival.xml](UA069.001.DO.MS177.archival.xml) | MS177 | MS177 | Ellen L. Lutz Papers | 
  [UA069.001.DO.MS180.archival.xml](UA069.001.DO.MS180.archival.xml) | MS180 | MS180 | Cultural Survival Records | 
  [UA069.001.DO.MS225.archival.xml](UA069.001.DO.MS225.archival.xml) | MS225 | MS225 | Janet Brewster Murrow and Edward R. Murrow Family Papers | 
+ [UA069.001.DO.MS189.archival.xml](UA069.001.DO.MS189.archival.xml) | MS189 | MS189 | Collection of East Coast Newsprint on Slavery and Indentured Servitude | 
  [UA069.001.DO.MS195.archival.xml](UA069.001.DO.MS195.archival.xml) | MS195 | MS195 | Raoul Bott Papers | 
  [UA069.001.DO.MS196.archival.xml](UA069.001.DO.MS196.archival.xml) | MS196 | MS196 | ACCION International Records |   [XML](402.xml)  ,  [JSON](402.json) 
  [UA069.001.DO.MS196.archival.xml](UA069.001.DO.MS196.archival.xml) | MS196 | MS196 | ACCION International Records | 
