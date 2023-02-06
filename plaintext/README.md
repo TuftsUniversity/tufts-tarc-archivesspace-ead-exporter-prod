@@ -142,7 +142,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA151.archival.xml](UA069.001.DO.UA151.archival.xml) | UA151 | UA151 | Department of Chemistry Records | 
  [UA069.001.DO.UA152.archival.xml](UA069.001.DO.UA152.archival.xml) | UA152 | UA152 | Department of Biology Records | 
  [UA069.001.DO.UA153.archival.xml](UA069.001.DO.UA153.archival.xml) | UA153 | UA153 | Jebsen Center for Counter Terrorism Studies Records | 
- [UA069.001.DO.UA156.archival.xml](UA069.001.DO.UA156.archival.xml) | UA156 | UA156 | Women's Center Records |   [JSON](231.json) 
+ [UA069.001.DO.UA156.archival.xml](UA069.001.DO.UA156.archival.xml) | UA156 | UA156 | Women's Center Records |   [JSON](231.json)  ,  [XML](231.xml) 
  [UA069.001.DO.UA156.archival.xml](UA069.001.DO.UA156.archival.xml) | UA156 | UA156 | Women's Center Records | 
  [UA069.001.DO.UA159.archival.xml](UA069.001.DO.UA159.archival.xml) | UA159 | UA159 | Department of Earth and Ocean Sciences Records | 
  [UA069.001.DO.UA160.archival.xml](UA069.001.DO.UA160.archival.xml) | UA160 | UA160 | Academic Resource Center Records | 
