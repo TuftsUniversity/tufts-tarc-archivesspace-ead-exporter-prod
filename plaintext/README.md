@@ -190,6 +190,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS049.archival.xml](UA069.001.DO.MS049.archival.xml) | MS049 | MS049 | Henri Goiran Papers | 
  [UA069.001.DO.MS050.archival.xml](UA069.001.DO.MS050.archival.xml) | MS050 | MS050 | Tufts Family Collection | 
  [UA069.001.DO.MS051.archival.xml](UA069.001.DO.MS051.archival.xml) | MS051 | MS051 | Henry Levi Davis Papers | 
+ [UA069.001.DO.MS054.archival.xml](UA069.001.DO.MS054.archival.xml) | MS054 | MS054 | Edwin B. Rollins Papers | 
  [UA069.001.DO.MS055.archival.xml](UA069.001.DO.MS055.archival.xml) | MS055 | MS055 | Mystic River Watershed Association Records | 
  [UA069.001.DO.MS057.archival.xml](UA069.001.DO.MS057.archival.xml) | MS057 | MS057 | World War II Posters and Publications | 
  [UA069.001.DO.MS058.archival.xml](UA069.001.DO.MS058.archival.xml) | MS058 | MS058 | Rosalie Kaye Collection | 
@@ -377,6 +378,8 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA252.archival.xml](UA069.001.DO.UA252.archival.xml) | UA252 | UA252 | Office of Communications and Marketing Records |   [JSON](806.json)  ,  [XML](806.xml) 
  [UA069.001.DO.UA252.archival.xml](UA069.001.DO.UA252.archival.xml) | UA252 | UA252 | Office of Communications and Marketing Records | 
  [UA069.001.DO.UA253.archival.xml](UA069.001.DO.UA253.archival.xml) | UA253 | UA253 | Sociology 094: The Sociology of Higher Education Records | 
+ [UA069.001.DO.MS247.archival.xml](UA069.001.DO.MS247.archival.xml) | MS247 | MS247 | J. D. Sloan Photographs | 
+ [UA069.001.DO.MS255.archival.xml](UA069.001.DO.MS255.archival.xml) | MS255 | MS255 | Casey Murrow Collection of Edward R. Murrow Materials | 
  [UA069.001.DO.UP270.archival.xml](UA069.001.DO.UP270.archival.xml) | UP270 | UP270 | The Tufts Historical Review | 
  [UA069.001.DO.MS254.archival.xml](UA069.001.DO.MS254.archival.xml) | MS254 | MS254 | Christopher Coenen Collection on P. T. Barnum and Tom Thumb |   [JSON](842.json)  ,  [XML](842.xml) 
  [UA069.001.DO.MS254.archival.xml](UA069.001.DO.MS254.archival.xml) | MS254 | MS254 | Chris Coenen Collection on General Tom Thumb | 
