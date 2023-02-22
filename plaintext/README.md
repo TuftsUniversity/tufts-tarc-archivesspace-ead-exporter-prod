@@ -375,8 +375,8 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS241.archival.xml](UA069.001.DO.MS241.archival.xml) | MS241 | MS241 | Phil Primack Papers | 
  [UA069.001.DO.UA247.archival.xml](UA069.001.DO.UA247.archival.xml) | UA247 | UA247 | History 193: Tufts in American History Student Papers | 
  [UA069.001.DO.MS244.archival.xml](UA069.001.DO.MS244.archival.xml) | MS244 | MS244 | Stuart Levy Papers | 
- [UA069.001.DO.UA252.archival.xml](UA069.001.DO.UA252.archival.xml) | UA252 | UA252 | Office of Communications and Marketing Records |   [JSON](806.json)  ,  [XML](806.xml) 
  [UA069.001.DO.UA252.archival.xml](UA069.001.DO.UA252.archival.xml) | UA252 | UA252 | Office of Communications and Marketing Records | 
+ [UA069.001.DO.UA252.archival.xml](UA069.001.DO.UA252.archival.xml) | UA252 | UA252 | Office of Communications and Marketing Records |   [JSON](806.json)  ,  [XML](806.xml) 
  [UA069.001.DO.UA253.archival.xml](UA069.001.DO.UA253.archival.xml) | UA253 | UA253 | Sociology 094: The Sociology of Higher Education Records | 
  [UA069.001.DO.MS247.archival.xml](UA069.001.DO.MS247.archival.xml) | MS247 | MS247 | J. D. Sloan Photographs | 
  [UA069.001.DO.MS255.archival.xml](UA069.001.DO.MS255.archival.xml) | MS255 | MS255 | Casey Murrow Collection of Edward R. Murrow Materials | 
