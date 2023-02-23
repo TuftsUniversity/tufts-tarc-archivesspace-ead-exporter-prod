@@ -70,6 +70,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA012.archival.xml](UA069.001.DO.UA012.archival.xml) | UA012 | UA012 | Office of Publications Records |   [XML](130.xml)  ,  [JSON](130.json) 
  [UA069.001.DO.UA012.archival.xml](UA069.001.DO.UA012.archival.xml) | UA012 | UA012 | O ffice of Publications Records | 
  [UA069.001.DO.UA013.archival.xml](UA069.001.DO.UA013.archival.xml) | UA013 | UA013 | Department of Romance Languages Records | 
+ [UA069.001.DO.UA014.archival.xml](UA069.001.DO.UA014.archival.xml) | UA014 | UA014 | Tufts New England Medical Center Planning Office Records | 
  [UA069.001.DO.UA017.archival.xml](UA069.001.DO.UA017.archival.xml) | UA017 | UA017 | Department of Music Records | 
  [UA069.001.DO.UA030.archival.xml](UA069.001.DO.UA030.archival.xml) | UA030 | UA030 | Tufts Programs Abroad Records | 
  [UA069.001.DO.UA032.archival.xml](UA069.001.DO.UA032.archival.xml) | UA032 | UA032 | Boston School of Occupational Therapy (BSOT) Records | 
@@ -360,7 +361,8 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS099.archival.xml](UA069.001.DO.MS099.archival.xml) | MS099 | MS099 | New England Medical Center Records |   [JSON](671.json)  ,  [XML](671.xml) 
  [UA069.001.DO.MS099.archival.xml](UA069.001.DO.MS099.archival.xml) | MS099 | MS099 | New England Medical Center Records | 
  [UA069.001.DO.MS209.archival.xml](UA069.001.DO.MS209.archival.xml) | MS209 | MS209 | David Johnson Photographs | 
- [UA069.001.DO.MS214.archival.xml](UA069.001.DO.MS214.archival.xml) | MS214 | MS214 | Boston Dispensary Records |   [JSON](675.json) 
+ [UA069.001.DO.MS213.archival.xml](UA069.001.DO.MS213.archival.xml) | MS213 | MS213 | Boston Floating Hospital Records | 
+ [UA069.001.DO.MS214.archival.xml](UA069.001.DO.MS214.archival.xml) | MS214 | MS214 | Boston Dispensary Records |   [JSON](675.json)  ,  [XML](675.xml) 
  [UA069.001.DO.MS214.archival.xml](UA069.001.DO.MS214.archival.xml) | MS214 | MS214 | Boston Dispensary Records | 
  [UA069.001.DO.MS217.archival.xml](UA069.001.DO.MS217.archival.xml) | MS217 | MS217 | Lester Gaynor Class of 1949 Memorabilia Collection | 
  [UA069.001.DO.MS218.archival.xml](UA069.001.DO.MS218.archival.xml) | MS218 | MS218 | Downing Cless Papers | 
