@@ -253,7 +253,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP054.archival.xml](UA069.001.DO.UP054.archival.xml) | UP054 | UP054 | Tufts Journal | 
  [UA069.001.DO.UP055.archival.xml](UA069.001.DO.UP055.archival.xml) | UP055 | UP055 | Tufts Observer |   [JSON](426.json) 
  [UA069.001.DO.UP055.archival.xml](UA069.001.DO.UP055.archival.xml) | UP055 | UP055 | Tufts Observer | 
- [UA069.001.DO.UP056.archival.xml](UA069.001.DO.UP056.archival.xml) | UP056 | UP056 | Tufts Weekly |   [JSON](427.json) 
+ [UA069.001.DO.UP056.archival.xml](UA069.001.DO.UP056.archival.xml) | UP056 | UP056 | Tufts Weekly |   [JSON](427.json)  ,  [XML](427.xml) 
  [UA069.001.DO.UP056.archival.xml](UA069.001.DO.UP056.archival.xml) | UP056 | UP056 | Tufts Weekly | 
  [UA069.001.DO.UP058.archival.xml](UA069.001.DO.UP058.archival.xml) | UP058 | UP058 | Tufts Hilltopper | 
  [UA069.001.DO.UP066.archival.xml](UA069.001.DO.UP066.archival.xml) | UP066 | UP066 | The Spectrum | 
