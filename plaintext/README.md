@@ -261,6 +261,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UP089.archival.xml](UA069.001.DO.UP089.archival.xml) | UP089 | UP089 | Medical School, Dean's Rounds | 
  [UA069.001.DO.UP126.archival.xml](UA069.001.DO.UP126.archival.xml) | UP126 | UP126 | Tufts University Health Sciences News | 
  [UA069.001.DO.UP128.archival.xml](UA069.001.DO.UP128.archival.xml) | UP128 | UP128 | Fact Book | 
+ [UA069.001.DO.UP135.archival.xml](UA069.001.DO.UP135.archival.xml) | UP135 | UP135 | S.A.L.A.A.M, South Asian Literary and Art Magazine | 
  [UA069.001.DO.UP145.archival.xml](UA069.001.DO.UP145.archival.xml) | UP145 | UP145 | Academic Year: Information for New Students | 
  [UA069.001.DO.UP151.archival.xml](UA069.001.DO.UP151.archival.xml) | UP151 | UP151 | At Tufts, A Weekly Gazette for the University | 
  [UA069.001.DO.UP154.archival.xml](UA069.001.DO.UP154.archival.xml) | UP154 | UP154 | Tufts Dental Medicine (Dental Alumni Magazine) | 
