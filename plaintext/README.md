@@ -352,6 +352,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS133.archival.xml](UA069.001.DO.MS133.archival.xml) | MS133 | MS133 | Donald Sur Papers | 
  [UA069.001.DO.MS138.archival.xml](UA069.001.DO.MS138.archival.xml) | MS138 | MS138 | Daniel C. Dennett Papers | 
  [UA069.001.DO.MS138.archival.xml](UA069.001.DO.MS138.archival.xml) | MS138 | MS138 | Daniel C. Dennett Papers |   [JSON](651.json)  ,  [XML](651.xml) 
+ [UA069.001.DO.MS143.archival.xml](UA069.001.DO.MS143.archival.xml) | MS143 | MS143 | Woodrow Wilson Sayre Papers | 
  [UA069.001.DO.MS151.archival.xml](UA069.001.DO.MS151.archival.xml) | MS151 | MS151 | Kenneth D. Roeder Papers | 
  [UA069.001.DO.MS158.archival.xml](UA069.001.DO.MS158.archival.xml) | MS158 | MS158 | Charles Millstein Dental History Collection | 
  [UA069.001.DO.MS164.archival.xml](UA069.001.DO.MS164.archival.xml) | MS164 | MS164 | John McDonald Papers | 
