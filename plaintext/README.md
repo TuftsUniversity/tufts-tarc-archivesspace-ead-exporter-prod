@@ -404,5 +404,6 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.MS279.archival.xml](UA069.001.DO.MS279.archival.xml) | MS279 | MS279 | Danielle Abrams Papers | 
  [UA069.001.DO.MS280.archival.xml](UA069.001.DO.MS280.archival.xml) | MS280 | MS280 | William Northrop Morse Papers | 
  [UA069.001.DO.MS281.archival.xml](UA069.001.DO.MS281.archival.xml) | MS281 | MS281 | Paul J. Jakmauh Papers | 
+ [UA069.001.DO.UA256.archival.xml](UA069.001.DO.UA256.archival.xml) | UA256 | UA256 | Tufts University Prison Initiative of the Tisch College of Civic Life (TUPIT) ReSentencing Journal Submissions | 
  [UA069.001.DO.MS282.archival.xml](UA069.001.DO.MS282.archival.xml) | MS282 | MS282 | Sheldon Krimsky Papers | 
 
