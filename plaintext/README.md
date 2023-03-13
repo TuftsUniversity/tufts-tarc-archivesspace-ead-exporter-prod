@@ -93,6 +93,7 @@ EAD | EAD ID | Identifier | Title | Other versions
  [UA069.001.DO.UA056.archival.xml](UA069.001.DO.UA056.archival.xml) | UA056 | UA056 | Tufts Institute of the Environment Records | 
  [UA069.001.DO.UA062.archival.xml](UA069.001.DO.UA062.archival.xml) | UA062 | UA062 | The Observer Records | 
  [UA069.001.DO.UA063.archival.xml](UA069.001.DO.UA063.archival.xml) | UA063 | UA063 | Office of Public Relations Records | 
+ [UA069.001.DO.UA064.archival.xml](UA069.001.DO.UA064.archival.xml) | UA064 | UA064 | Sheet Music Collection | 
  [UA069.001.DO.UA068.archival.xml](UA069.001.DO.UA068.archival.xml) | UA068 | UA068 | Pen, Paint, and Pretzels Records |   [JSON](162.json)  ,  [XML](162.xml) 
  [UA069.001.DO.UA068.archival.xml](UA069.001.DO.UA068.archival.xml) | UA068 | UA068 | Pen, Paint, and Pretzels Records | 
  [UA069.001.DO.UA070.archival.xml](UA069.001.DO.UA070.archival.xml) | UA070 | UA070 | Department of Drama and Dance Records |   [JSON](163.json) 
